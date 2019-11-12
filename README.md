@@ -50,12 +50,10 @@ Technical concept / Solidity / Create first smart contract (play)
 
 Remix / Solidity / Debug
 
-| Preparations                                               | Day         | Assignments
-| -----------                                                | ----------  | -------------
-| [mastering_ethereum] [m03] Ethereum Clients
-| [mastering_ethereum] [m05] Wallets
-| [mastering_ethereum] [m13_gas] Gas
-| [cryptozombies] [c2] Zombies Attack Their Victims
+| Preparations                                                                            | Day         | Assignments
+| -----------                                                                             | ----------  | -------------
+| Read:  [mastering_ethereum]<br>[m03] Ethereum Clients<br>[m05] Wallets<br>[m13_gas] Gas |
+| Follow: [cryptozombies] [c2] Zombies Attack Their Victims
 
 
 
