@@ -36,13 +36,13 @@ Technical concept / Solidity / Create first smart contract (play)
 
 | Preparations                                               | Day         | Assignments
 | -----------                                                | ----------  | -------------
-| [cryptozombies] [c1] Making the Zombie Factory             | <sheets>    | 
-| [mastering_ethereum] [m01] What is Ethereum?
-| [mastering_ethereum] [m02] Ethereum Basics
-| [mastering_ethereum] [m04] Keys and Addresses
-| [mastering_ethereum] [m06] Transactions
-| [mastering_ethereum] [m07] Smart contracts and Solidity
-| [mastering_ethereum] [m14] Consensus
+| [cryptozombies_1_Making_the_Zombie_Factory]                | <sheets>    | 
+| [mastering_ethereum_01_What_is_Ethereum]
+| [mastering_ethereum_02_Ethereum_Basics]
+| [mastering_ethereum_04_Keys_and_Addresses]
+| [mastering_ethereum_06_Transactions]
+| [mastering_ethereum_07_Smart_contracts_and_Solidity]
+| [mastering_ethereum_14_Consensus]
 
 
 
@@ -52,10 +52,10 @@ Remix / Solidity / Debug
 
 | Preparations                                                                            | Day         | Assignments
 | -----------                                                                             | ----------  | -------------
-| Read: [mastering_ethereum]<br>[m03] Ethereum Clients
-| Read: [mastering_ethereum]<br>[m05] Wallets
-| Read: [mastering_ethereum]<br>[m13_gas] Gas |
-| Follow: [cryptozombies] [c2] Zombies Attack Their Victims
+| Read: [mastering_ethereum_03_Ethereum_Clients]
+| Read: [mastering_ethereum_05_Wallets]
+| Read: [mastering_ethereum_13_gas]
+| Follow: [cryptozombies_2_Zombies_Attack_Their_Victims]
 
 
 
@@ -66,7 +66,7 @@ Install chain software / Ganache / RPC interface / Management
 
 | Preparations                                               | Day         | Assignments
 | -----------                                                | ----------  | -------------
-| [cryptozombies] [c3] Advanced Solidity Concepts
+| [cryptozombies_3_Advanced_Solidity_Concepts]
 
 
 ### Day 4 Wed: 27-11-2019
@@ -75,7 +75,7 @@ Node.js; ganache-cli; web3.js
 
 | Preparations                                               | Day         | Assignments
 | -----------                                                | ----------  | -------------
-| [cryptozombies] [c4] Zombie Battle System
+| [cryptozombies_4_Zombie_Battle_System]
 
 
 
@@ -85,8 +85,8 @@ Web3.js in (mobile) browser
 
 | Preparations                                               | Day         | Assignments
 | -----------                                                | ----------  | -------------
-| [mastering_ethereum] [m12] Decentralized Applications
-| [cryptozombies] [c6] App Front-ends & Web3.js
+| [mastering_ethereum_12_Decentralized_Applications]
+| [cryptozombies_6_App_Front_ends_Web3_js]
 
 
 ### Day 6 Wed: 4-12-2019
@@ -95,7 +95,7 @@ Truffle / Logevent / Oracle
 
 | Preparations                                               | Day         | Assignments
 | -----------                                                | ----------  | -------------
-| [mastering_ethereum] [m11] Oracles
+| [mastering_ethereum_11_Oracles]
 
 ### Day 7 Mon: 9-12-2019
 
@@ -111,8 +111,8 @@ Tokens (ERC20 / ERC721)
 
 | Preparations                                               | Day         | Assignments
 | -----------                                                | ----------  | -------------
-| [mastering_ethereum] [m10] Tokens
-| [cryptozombies] [c5] ERC721 &  Crypto-Collectibles
+| [mastering_ethereum_10_Tokens]
+| [cryptozombies_5_ERC721_Crypto_Collectibles]
 
 ### Day 9 Mon: 16-12-2019
 
@@ -127,7 +127,7 @@ Security & Key management
 
 | Preparations                                               | Day         | Assignments
 | -----------                                                | ----------  | -------------
-| [mastering_ethereum] [m09] Smart contract Security
+| [mastering_ethereum_09_Smart_contract_Security]
 
 ### Day 11 Mon: 6-1-2020
 
@@ -142,7 +142,7 @@ Ethereum Name Service
 
 | Preparations                                               | Day         | Assignments
 | -----------                                                | ----------  | -------------
-| [mastering_ethereum] [m12] Decentralized Applications
+| [mastering_ethereum_12_Decentralized_Applications]
 
 ### Day 13 Mon: 13-1-2020
 
@@ -168,26 +168,48 @@ Spare
 |
 
 
-[mastering_ethereum]:   https://github.com/ethereumbook/ethereumbook/blob/develop/book.asciidoc
-[m01]:                   https://github.com/ethereumbook/ethereumbook/tree/develop/01what-is.asciidoc
-[m02]:                   https://github.com/ethereumbook/ethereumbook/tree/develop/02intro.asciidoc
-[m03]:                   https://github.com/ethereumbook/ethereumbook/tree/develop/03clients.asciidoc
-[m04]:                   https://github.com/ethereumbook/ethereumbook/tree/develop/04keys-addresses.asciidoc
-[m05]:                   https://github.com/ethereumbook/ethereumbook/tree/develop/05wallets.asciidoc
-[m06]:                   https://github.com/ethereumbook/ethereumbook/tree/develop/06transactions.asciidoc
-[m07]:                   https://github.com/ethereumbook/ethereumbook/tree/develop/07smart-contracts-solidity.asciidoc
-[m08]:                   https://github.com/ethereumbook/ethereumbook/tree/develop/08smart-contracts-vyper.asciidoc
-[m09]:                   https://github.com/ethereumbook/ethereumbook/tree/develop/09smart-contracts-security.asciidoc
-[m10]:                   https://github.com/ethereumbook/ethereumbook/tree/develop/10tokens.asciidoc
-[m11]:                   https://github.com/ethereumbook/ethereumbook/tree/develop/11oracles.asciidoc
-[m12]:                   https://github.com/ethereumbook/ethereumbook/tree/develop/12dapps.asciidoc
-[m13_gas]:               https://github.com/ethereumbook/ethereumbook/blob/develop/13evm.asciidoc#turing-completeness-and-gas
-[m14]:                   https://github.com/ethereumbook/ethereumbook/tree/develop/14consensus.asciidoc
+[mastering_ethereum_01_What_is_Ethereum]:             https://github.com/ethereumbook/ethereumbook/tree/develop/01what-is.asciidoc
+[mastering_ethereum_02_Ethereum_Basics]:              https://github.com/ethereumbook/ethereumbook/tree/develop/02intro.asciidoc
+[mastering_ethereum_03_Ethereum_Clients]:             https://github.com/ethereumbook/ethereumbook/tree/develop/03clients.asciidoc
+[mastering_ethereum_04_Keys_and_Addresses]:           https://github.com/ethereumbook/ethereumbook/tree/develop/04keys-addresses.asciidoc
+[mastering_ethereum_05_Wallets]:                      https://github.com/ethereumbook/ethereumbook/tree/develop/05wallets.asciidoc
+[mastering_ethereum_06_Transactions]:                 https://github.com/ethereumbook/ethereumbook/tree/develop/06transactions.asciidoc
+[mastering_ethereum_07_Smart_contracts_and_Solidity]: https://github.com/ethereumbook/ethereumbook/tree/develop/07smart-contracts-solidity.asciidoc
+[mastering_ethereum_09_Smart_contract_Security]:      https://github.com/ethereumbook/ethereumbook/tree/develop/08smart-contracts-vyper.asciidoc
+[mastering_ethereum_10_Tokens]:                       https://github.com/ethereumbook/ethereumbook/tree/develop/09smart-contracts-security.asciidoc
+[mastering_ethereum_11_Oracles]:                      https://github.com/ethereumbook/ethereumbook/tree/develop/10tokens.asciidoc
+[mastering_ethereum_12_Decentralized_Applications]:   https://github.com/ethereumbook/ethereumbook/tree/develop/11oracles.asciidoc
+[mastering_ethereum_12_Decentralized_Applications]:   https://github.com/ethereumbook/ethereumbook/tree/develop/12dapps.asciidoc
+[mastering_ethereum_13_gas]:                          https://github.com/ethereumbook/ethereumbook/blob/develop/13evm.asciidoc#turing-completeness-and-gas
+[mastering_ethereum_14_Consensus]:                    https://github.com/ethereumbook/ethereumbook/tree/develop/14consensus.asciidoc
 
-[cryptozombies]: https://cryptozombies.io/en/course/
-[c1]:            https://cryptozombies.io/en/lesson/1/chapter/1
-[c2]:            https://cryptozombies.io/en/lesson/2/chapter/1
-[c3]:            https://cryptozombies.io/en/lesson/3/chapter/1
-[c4]:            https://cryptozombies.io/en/lesson/4/chapter/1
-[c5]:            https://cryptozombies.io/en/lesson/5/chapter/1
-[c6]:            https://cryptozombies.io/en/lesson/6/chapter/1
+
+[cryptozombies_1_Making_the_Zombie_Factory]:          https://cryptozombies.io/en/lesson/1/chapter/1
+[cryptozombies_2_Zombies_Attack_Their_Victims]:       https://cryptozombies.io/en/lesson/2/chapter/1
+[cryptozombies_3_Advanced_Solidity_Concepts]:         https://cryptozombies.io/en/lesson/3/chapter/1
+[cryptozombies_4_Zombie_Battle_System]:               https://cryptozombies.io/en/lesson/4/chapter/1
+[cryptozombies_5_ERC721_Crypto_Collectibles]:         https://cryptozombies.io/en/lesson/5/chapter/1
+[cryptozombies_6_App_Front_ends_Web3_js]:             https://cryptozombies.io/en/lesson/6/chapter/1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
