@@ -24,7 +24,7 @@ This is the guiding materials.
 
 Introduction programming dapps
 
-| Preparations   | Day           | Assignments 
+| Preparations   | Sheets            | Assignments 
 | -----------    | ----------    | ---------
 |                | [day0sheets]  |
 
@@ -34,9 +34,9 @@ Introduction programming dapps
 
 Technical concept / Solidity / Create first smart contract (play)
 
-| Preparations                                               | Day         | Assignments
-| -----------                                                | ----------  | -------------
-| Follow: [cryptozombies_1_Making_the_Zombie_Factory]        | {Sheets}    | 
+| Preparations                                               | Sheets          | Assignments
+| -----------                                                | ----------      | -------------
+| Follow: [cryptozombies_1_Making_the_Zombie_Factory]        | { to be added } | 
 | Read: [mastering_ethereum_01_What_is_Ethereum]
 | Read: [mastering_ethereum_02_Ethereum_Basics]
 | Read: [mastering_ethereum_04_Keys_and_Addresses]
@@ -50,9 +50,9 @@ Technical concept / Solidity / Create first smart contract (play)
 
 Remix / Solidity / Debug
 
-| Preparations                                           | Day         | Assignments
-| -----------                                            | ----------  | -------------
-| Follow: [cryptozombies_2_Zombies_Attack_Their_Victims] | {Sheets}    | 
+| Preparations                                           | Sheets          | Assignments
+| -----------                                            | ----------      | -------------
+| Follow: [cryptozombies_2_Zombies_Attack_Their_Victims] | { to be added } | 
 | Read: [mastering_ethereum_03_Ethereum_Clients]
 | Read: [mastering_ethereum_05_Wallets]
 | Read: [mastering_ethereum_13_gas]
@@ -65,18 +65,18 @@ Remix / Solidity / Debug
 
 Install chain software / Ganache / RPC interface / Management
 
-| Preparations                                               | Day         | Assignments
-| -----------                                                | ----------  | -------------
-| Follow: [cryptozombies_3_Advanced_Solidity_Concepts]       | {Sheets}    | 
+| Preparations                                               | Sheets          | Assignments
+| -----------                                                | ----------      | -------------
+| Follow: [cryptozombies_3_Advanced_Solidity_Concepts]       | { to be added } | 
 
 
 ### Day 4 Wed: 27-11-2019
 
 Node.js; ganache-cli; web3.js
 
-| Preparations                                               | Day         | Assignments
-| -----------                                                | ----------  | -------------
-| Follow: [cryptozombies_4_Zombie_Battle_System]             | {Sheets}    | 
+| Preparations                                               | Sheets          | Assignments
+| -----------                                                | ----------      | -------------
+| Follow: [cryptozombies_4_Zombie_Battle_System]             | { to be added } | 
 
 
 
@@ -84,9 +84,9 @@ Node.js; ganache-cli; web3.js
 
 Web3.js in (mobile) browser
 
-| Preparations                                               | Day         | Assignments
-| -----------                                                | ----------  | -------------
-| Read: [mastering_ethereum_12_Decentralized_Applications]   | {Sheets}    | 
+| Preparations                                               | Sheets          | Assignments
+| -----------                                                | ----------      | -------------
+| Read: [mastering_ethereum_12_Decentralized_Applications]   | { to be added } | 
 | Follow: [cryptozombies_6_App_Front_ends_Web3_js]
 
 
@@ -94,26 +94,26 @@ Web3.js in (mobile) browser
 
 Truffle / Logevent / Oracle
 
-| Preparations                                               | Day         | Assignments
-| -----------                                                | ----------  | -------------
-| Read: [mastering_ethereum_11_Oracles]                      | {Sheets}    | 
+| Preparations                                               | Sheets          | Assignments
+| -----------                                                | ----------      | -------------
+| Read: [mastering_ethereum_11_Oracles]                      | { to be added } | 
  
 ### Day 7 Mon: 9-12-2019
 
 Solidity best practices / upgradability
 
-| Preparations                                               | Day         | Assignments
-| -----------                                                | ----------  | -------------
-|                                                            | {Sheets}    | 
+| Preparations                                               | Sheets          | Assignments
+| -----------                                                | ----------      | -------------
+|                                                            | { to be added } | 
 
 
 ### Day 8 Wed: 11-12-2019
 
 Tokens (ERC20 / ERC721)
 
-| Preparations                                               | Day         | Assignments
-| -----------                                                | ----------  | -------------
-| Follow: [cryptozombies_5_ERC721_Crypto_Collectibles]       | {Sheets}    | 
+| Preparations                                               | Sheets          | Assignments
+| -----------                                                | ----------      | -------------
+| Follow: [cryptozombies_5_ERC721_Crypto_Collectibles]       | { to be added } | 
 | Read: [mastering_ethereum_10_Tokens]
 
 
@@ -121,58 +121,58 @@ Tokens (ERC20 / ERC721)
 
 IPFS
 
-| Preparations                                               | Day         | Assignments
-| -----------                                                | ----------  | -------------
-|                                                            | {Sheets}    | 
+| Preparations                                               | Sheets          | Assignments
+| -----------                                                | ----------      | -------------
+|                                                            | { to be added } | 
 
 
 ### Day 10 Wed: 18-12-2019
 
 Security & Key management
 
-| Preparations                                               | Day         | Assignments
-| -----------                                                | ----------  | -------------
-| Follow: [mastering_ethereum_09_Smart_contract_Security]    | {Sheets}    | 
+| Preparations                                               | Sheets          | Assignments
+| -----------                                                | ----------      | -------------
+| Follow: [mastering_ethereum_09_Smart_contract_Security]    | { to be added } | 
 
 ### Day 11 Mon: 6-1-2020
 
 Testing / code quality / natpec / verify / audit
 
-| Preparations                                               | Day         | Assignments
-| -----------                                                | ----------  | -------------
-|                                                            | {Sheets}    | 
+| Preparations                                               | Sheets          | Assignments
+| -----------                                                | ----------      | -------------
+|                                                            | { to be added } | 
 
 ### Day 12 Wed: 8-1-2020
 
 Ethereum Name Service
 
-| Preparations                                               | Day         | Assignments
-| -----------                                                | ----------  | -------------
-| Follow: [mastering_ethereum_12_Decentralized_Applications] | {Sheets}    | 
+| Preparations                                               | Sheets          | Assignments
+| -----------                                                | ----------      | -------------
+| Follow: [mastering_ethereum_12_Decentralized_Applications] | { to be added } | 
 
 ### Day 13 Mon: 13-1-2020
 
 Other building blocks
 
-| Preparations                                               | Day         | Assignments
-| -----------                                                | ----------  | -------------
-|                                                            | {Sheets}    | 
+| Preparations                                               | Sheets          | Assignments
+| -----------                                                | ----------      | -------------
+|                                                            | { to be added } | 
 
 ### Day 14 Wed: 15-1-2020
 
 Combine everything
 
-| Preparations                                               | Day         | Assignments
-| -----------                                                | ----------  | -------------
-|                                                            | {Sheets}    | 
+| Preparations                                               | Sheets          | Assignments
+| -----------                                                | ----------      | -------------
+|                                                            | { to be added } | 
 
 ### Day 15 Wed: 22-1-2020
 
 Spare
 
-| Preparations                                               | Day         | Assignments
-| -----------                                                | ----------  | -------------
-|                                                            | {Sheets}    | 
+| Preparations                                               | Sheets          | Assignments
+| -----------                                                | ----------      | -------------
+|                                                            | { to be added } | 
 
 
 [mastering_ethereum_01_What_is_Ethereum]:             https://github.com/ethereumbook/ethereumbook/tree/develop/01what-is.asciidoc
