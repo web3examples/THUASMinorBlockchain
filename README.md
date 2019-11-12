@@ -31,6 +31,9 @@ Introduction programming dapps
 
 [day0sheets]: http://ipfs.io/ipfs/QmX7b2nTkzwpBrTk1DM9KmJXLEaPZXQjpLqrZnVymN6jKh
 
+
+([TOC](.))
+
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ### Day 1 Mon: 18-11-2019
