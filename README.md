@@ -1,4 +1,3 @@
-THUAS Minor Blockchain 20192020 B IT
 Minor Blockchain on the hague university of applied sciences 20192020 Block B - IT: Programming Dapps
 
 This document contains info about:
