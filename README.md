@@ -1,7 +1,8 @@
-THUASMinorBlockchain_20192020B_IT
+THUAS Minor Blockchain 20192020 B IT
 Minor Blockchain on the hague university of applied sciences 20192020 Block B - IT: Programming Dapps
 
 This document contains info about:
+- [Day 0 Thu: 10-10-2019](#day-0-thu-10-10-2019)
 - [Day 1 Mon: 18-11-2019](#day-1-mon-18-11-2019)
 - [Day 2 Wed: 20-11-2019](#day-2-wed-20-11-2019)
 - [Day 3 Mon: 25-11-2019](#day-3-mon-25-11-2019)
