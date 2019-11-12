@@ -19,12 +19,23 @@ This document contains info about:
 - [Day 15 Wed: 22-1-2020](#day-15-wed-22-1-2020)
 
 
+## Day 0 Thu: 10-10-2019
 
+Introduction programming dapps
 
+| Preparations   | Day         |
+| -----------    | ---------- 
+|                | [day0sheets]
+
+[day0sheets]: http://ipfs.io/ipfs/QmX7b2nTkzwpBrTk1DM9KmJXLEaPZXQjpLqrZnVymN6jKh
 
 ## Day 1 Mon: 18-11-2019
 
 Technical concept / Solidity / Create first smart contract (play)
+
+
+
+
 
 ## Day 2 Wed: 20-11-2019
 
