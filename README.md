@@ -66,7 +66,7 @@ Install chain software / Ganache / RPC interface / Management
 
 | Preparations                                               | Day         | Assignments
 | -----------                                                | ----------  | -------------
-| [cryptozombies_3_Advanced_Solidity_Concepts]
+| Follow: [cryptozombies_3_Advanced_Solidity_Concepts]
 
 
 ### Day 4 Wed: 27-11-2019
@@ -75,7 +75,7 @@ Node.js; ganache-cli; web3.js
 
 | Preparations                                               | Day         | Assignments
 | -----------                                                | ----------  | -------------
-| [cryptozombies_4_Zombie_Battle_System]
+| Follow: [cryptozombies_4_Zombie_Battle_System]
 
 
 
@@ -85,8 +85,8 @@ Web3.js in (mobile) browser
 
 | Preparations                                               | Day         | Assignments
 | -----------                                                | ----------  | -------------
-| [mastering_ethereum_12_Decentralized_Applications]
-| [cryptozombies_6_App_Front_ends_Web3_js]
+| Read: [mastering_ethereum_12_Decentralized_Applications]
+| Follow: [cryptozombies_6_App_Front_ends_Web3_js]
 
 
 ### Day 6 Wed: 4-12-2019
@@ -95,7 +95,7 @@ Truffle / Logevent / Oracle
 
 | Preparations                                               | Day         | Assignments
 | -----------                                                | ----------  | -------------
-| [mastering_ethereum_11_Oracles]
+| Read: [mastering_ethereum_11_Oracles]
 
 ### Day 7 Mon: 9-12-2019
 
@@ -103,6 +103,7 @@ Solidity best practices / upgradability
 
 | Preparations                                               | Day         | Assignments
 | -----------                                                | ----------  | -------------
+|
 
 
 ### Day 8 Wed: 11-12-2019
@@ -111,8 +112,8 @@ Tokens (ERC20 / ERC721)
 
 | Preparations                                               | Day         | Assignments
 | -----------                                                | ----------  | -------------
-| [mastering_ethereum_10_Tokens]
-| [cryptozombies_5_ERC721_Crypto_Collectibles]
+| Read: [mastering_ethereum_10_Tokens]
+| Follow: [cryptozombies_5_ERC721_Crypto_Collectibles]
 
 ### Day 9 Mon: 16-12-2019
 
@@ -120,6 +121,8 @@ IPFS
 
 | Preparations                                               | Day         | Assignments
 | -----------                                                | ----------  | -------------
+|
+
 
 ### Day 10 Wed: 18-12-2019
 
@@ -127,7 +130,7 @@ Security & Key management
 
 | Preparations                                               | Day         | Assignments
 | -----------                                                | ----------  | -------------
-| [mastering_ethereum_09_Smart_contract_Security]
+| Follow: [mastering_ethereum_09_Smart_contract_Security]
 
 ### Day 11 Mon: 6-1-2020
 
@@ -142,7 +145,7 @@ Ethereum Name Service
 
 | Preparations                                               | Day         | Assignments
 | -----------                                                | ----------  | -------------
-| [mastering_ethereum_12_Decentralized_Applications]
+| Follow: [mastering_ethereum_12_Decentralized_Applications]
 
 ### Day 13 Mon: 13-1-2020
 
@@ -150,6 +153,7 @@ Other building blocks
 
 | Preparations                                               | Day         | Assignments
 | -----------                                                | ----------  | -------------
+|
 
 ### Day 14 Wed: 15-1-2020
 
