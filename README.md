@@ -43,7 +43,7 @@ Technical concept / Solidity / Create first smart contract (play)
 | Read: [mastering_ethereum_06_Transactions]
 | Read: [mastering_ethereum_07_Smart_contracts_and_Solidity]
 | Read: [mastering_ethereum_14_Consensus]
-
+| Supply: github account
 
 
 ### Day 2 Wed: 20-11-2019
