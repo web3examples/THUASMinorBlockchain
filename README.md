@@ -36,13 +36,13 @@ Technical concept / Solidity / Create first smart contract (play)
 
 | Preparations                                               | Day         | Assignments
 | -----------                                                | ----------  | -------------
-| [cryptozombies_1_Making_the_Zombie_Factory]                | <sheets>    | 
-| [mastering_ethereum_01_What_is_Ethereum]
-| [mastering_ethereum_02_Ethereum_Basics]
-| [mastering_ethereum_04_Keys_and_Addresses]
-| [mastering_ethereum_06_Transactions]
-| [mastering_ethereum_07_Smart_contracts_and_Solidity]
-| [mastering_ethereum_14_Consensus]
+| Follow:[cryptozombies_1_Making_the_Zombie_Factory]                | <sheets>    | 
+| Read: [mastering_ethereum_01_What_is_Ethereum]
+| Read: [mastering_ethereum_02_Ethereum_Basics]
+| Read: [mastering_ethereum_04_Keys_and_Addresses]
+| Read: [mastering_ethereum_06_Transactions]
+| Read: [mastering_ethereum_07_Smart_contracts_and_Solidity]
+| Read: [mastering_ethereum_14_Consensus]
 
 
 
@@ -52,10 +52,11 @@ Remix / Solidity / Debug
 
 | Preparations                                                                            | Day         | Assignments
 | -----------                                                                             | ----------  | -------------
+| Follow: [cryptozombies_2_Zombies_Attack_Their_Victims]
 | Read: [mastering_ethereum_03_Ethereum_Clients]
 | Read: [mastering_ethereum_05_Wallets]
 | Read: [mastering_ethereum_13_gas]
-| Follow: [cryptozombies_2_Zombies_Attack_Their_Victims]
+
 
 
 
@@ -112,8 +113,9 @@ Tokens (ERC20 / ERC721)
 
 | Preparations                                               | Day         | Assignments
 | -----------                                                | ----------  | -------------
-| Read: [mastering_ethereum_10_Tokens]
 | Follow: [cryptozombies_5_ERC721_Crypto_Collectibles]
+| Read: [mastering_ethereum_10_Tokens]
+
 
 ### Day 9 Mon: 16-12-2019
 
