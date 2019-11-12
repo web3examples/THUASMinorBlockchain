@@ -52,7 +52,9 @@ Remix / Solidity / Debug
 
 | Preparations                                                                            | Day         | Assignments
 | -----------                                                                             | ----------  | -------------
-| Read:  [mastering_ethereum]<br>[m03] Ethereum Clients<br>[m05] Wallets<br>[m13_gas] Gas |
+| Read: [mastering_ethereum]<br>[m03] Ethereum Clients
+| Read: [mastering_ethereum]<br>[m05] Wallets
+| Read: [mastering_ethereum]<br>[m13_gas] Gas |
 | Follow: [cryptozombies] [c2] Zombies Attack Their Victims
 
 
