@@ -19,6 +19,7 @@ This is the guiding materials.
 - [Day 14 Wed: 15-1-2020](#day-14-wed-15-1-2020)
 - [Day 15 Wed: 22-1-2020](#day-15-wed-22-1-2020)
 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ### Day 0 Thu: 10-10-2019
 
@@ -29,6 +30,8 @@ Introduction programming dapps
 |                | [day0sheets]  |
 
 [day0sheets]: http://ipfs.io/ipfs/QmX7b2nTkzwpBrTk1DM9KmJXLEaPZXQjpLqrZnVymN6jKh
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ### Day 1 Mon: 18-11-2019
 
@@ -45,6 +48,7 @@ Technical concept / Solidity / Create first smart contract (play)
 | Read: [mastering_ethereum_14_Consensus]
 | Supply: github account
 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ### Day 2 Wed: 20-11-2019
 
@@ -58,8 +62,7 @@ Remix / Solidity / Debug
 | Read: [mastering_ethereum_13_gas]
 | { to be added }
 
-
-
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ### Day 3 Mon: 25-11-2019
 
@@ -70,6 +73,8 @@ Install chain software / Ganache / RPC interface / Management
 | Follow: [cryptozombies_3_Advanced_Solidity_Concepts]       | { to be added } | { to be added } 
 | { to be added }
 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 ### Day 4 Wed: 27-11-2019
 
 Node.js; ganache-cli; web3.js
@@ -79,6 +84,7 @@ Node.js; ganache-cli; web3.js
 | Follow: [cryptozombies_4_Zombie_Battle_System]             | { to be added } | { to be added } 
 | { to be added }
 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ### Day 5 Mon: 2-12-2019
 
@@ -90,6 +96,8 @@ Web3.js in (mobile) browser
 | Follow: [cryptozombies_6_App_Front_ends_Web3_js]
 | { to be added }
 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 ### Day 6 Wed: 4-12-2019
 
 Truffle / Logevent / Oracle
@@ -99,6 +107,8 @@ Truffle / Logevent / Oracle
 | Read: [mastering_ethereum_11_Oracles]                      | { to be added } | { to be added } 
 | { to be added }
  
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+ 
 ### Day 7 Mon: 9-12-2019
 
 Solidity best practices / upgradability
@@ -107,6 +117,7 @@ Solidity best practices / upgradability
 | -----------                                                | ----------      | -------------
 | { to be added }                                            | { to be added } | { to be added } 
 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ### Day 8 Wed: 11-12-2019
 
@@ -118,6 +129,8 @@ Tokens (ERC20 / ERC721)
 | Read: [mastering_ethereum_10_Tokens]
 | { to be added }
 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 ### Day 9 Mon: 16-12-2019
 
 IPFS
@@ -126,6 +139,7 @@ IPFS
 | -----------                                                | ----------      | -------------
 | { to be added }                                            | { to be added } | { to be added } 
 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ### Day 10 Wed: 18-12-2019
 
@@ -136,6 +150,8 @@ Security & Key management
 | Follow: [mastering_ethereum_09_Smart_contract_Security]    | { to be added } | { to be added } 
 | { to be added }
 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 ### Day 11 Mon: 6-1-2020
 
 Testing / code quality / natpec / verify / audit
@@ -143,6 +159,8 @@ Testing / code quality / natpec / verify / audit
 | Preparations                                               | Sheets          | Assignments
 | -----------                                                | ----------      | -------------
 | { to be added }                                            | { to be added } | { to be added } 
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ### Day 12 Wed: 8-1-2020
 
@@ -153,6 +171,8 @@ Ethereum Name Service
 | Follow: [mastering_ethereum_12_Decentralized_Applications] | { to be added } | { to be added } 
 | { to be added }
 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 ### Day 13 Mon: 13-1-2020
 
 Other building blocks
@@ -161,6 +181,8 @@ Other building blocks
 | -----------                                                | ----------      | -------------
 | { to be added }                                            | { to be added } | { to be added } 
 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 ### Day 14 Wed: 15-1-2020
 
 Combine everything
@@ -168,6 +190,8 @@ Combine everything
 | Preparations                                               | Sheets          | Assignments
 | -----------                                                | ----------      | -------------
 | { to be added }                                            | { to be added } | { to be added } 
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ### Day 15 Wed: 22-1-2020
 
