@@ -23,7 +23,7 @@ This is the guiding materials.
 
 ### Day 0 Thu: 10-10-2019
 
-Introduction programming dapps
+([TOC](.)) Introduction programming dapps
 
 | Preparations   | Sheets            | Assignments 
 | -----------    | ----------    | ---------
@@ -32,13 +32,11 @@ Introduction programming dapps
 [day0sheets]: http://ipfs.io/ipfs/QmX7b2nTkzwpBrTk1DM9KmJXLEaPZXQjpLqrZnVymN6jKh
 
 
-([TOC](.))
-
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ### Day 1 Mon: 18-11-2019
 
-Technical concept / Solidity / Create first smart contract (play)
+([TOC](.)) Technical concept / Solidity / Create first smart contract (play)
 
 | Preparations                                               | Sheets          | Assignments
 | -----------                                                | ----------      | -------------
@@ -55,7 +53,7 @@ Technical concept / Solidity / Create first smart contract (play)
 
 ### Day 2 Wed: 20-11-2019
 
-Remix / Solidity / Debug
+([TOC](.)) Remix / Solidity / Debug
 
 | Preparations                                           | Sheets          | Assignments
 | -----------                                            | ----------      | -------------
@@ -69,7 +67,7 @@ Remix / Solidity / Debug
 
 ### Day 3 Mon: 25-11-2019
 
-Install chain software / Ganache / RPC interface / Management
+([TOC](.)) Install chain software / Ganache / RPC interface / Management
 
 | Preparations                                               | Sheets          | Assignments
 | -----------                                                | ----------      | -------------
@@ -80,7 +78,7 @@ Install chain software / Ganache / RPC interface / Management
 
 ### Day 4 Wed: 27-11-2019
 
-Node.js; ganache-cli; web3.js
+([TOC](.)) Node.js; ganache-cli; web3.js
 
 | Preparations                                               | Sheets          | Assignments
 | -----------                                                | ----------      | -------------
@@ -91,7 +89,7 @@ Node.js; ganache-cli; web3.js
 
 ### Day 5 Mon: 2-12-2019
 
-Web3.js in (mobile) browser
+([TOC](.)) Web3.js in (mobile) browser
 
 | Preparations                                               | Sheets          | Assignments
 | -----------                                                | ----------      | -------------
@@ -103,7 +101,7 @@ Web3.js in (mobile) browser
 
 ### Day 6 Wed: 4-12-2019
 
-Truffle / Logevent / Oracle
+([TOC](.)) Truffle / Logevent / Oracle
 
 | Preparations                                               | Sheets          | Assignments
 | -----------                                                | ----------      | -------------
@@ -114,7 +112,7 @@ Truffle / Logevent / Oracle
  
 ### Day 7 Mon: 9-12-2019
 
-Solidity best practices / upgradability
+([TOC](.)) Solidity best practices / upgradability
 
 | Preparations                                               | Sheets          | Assignments
 | -----------                                                | ----------      | -------------
@@ -124,7 +122,7 @@ Solidity best practices / upgradability
 
 ### Day 8 Wed: 11-12-2019
 
-Tokens (ERC20 / ERC721)
+([TOC](.)) Tokens (ERC20 / ERC721)
 
 | Preparations                                               | Sheets          | Assignments
 | -----------                                                | ----------      | -------------
@@ -136,7 +134,7 @@ Tokens (ERC20 / ERC721)
 
 ### Day 9 Mon: 16-12-2019
 
-IPFS
+([TOC](.)) IPFS
 
 | Preparations                                               | Sheets          | Assignments
 | -----------                                                | ----------      | -------------
@@ -146,7 +144,7 @@ IPFS
 
 ### Day 10 Wed: 18-12-2019
 
-Security & Key management
+([TOC](.)) Security & Key management
 
 | Preparations                                               | Sheets          | Assignments
 | -----------                                                | ----------      | -------------
@@ -157,7 +155,7 @@ Security & Key management
 
 ### Day 11 Mon: 6-1-2020
 
-Testing / code quality / natpec / verify / audit
+([TOC](.)) Testing / code quality / natpec / verify / audit
 
 | Preparations                                               | Sheets          | Assignments
 | -----------                                                | ----------      | -------------
@@ -167,7 +165,7 @@ Testing / code quality / natpec / verify / audit
 
 ### Day 12 Wed: 8-1-2020
 
-Ethereum Name Service
+([TOC](.)) Ethereum Name Service
 
 | Preparations                                               | Sheets          | Assignments
 | -----------                                                | ----------      | -------------
@@ -178,7 +176,7 @@ Ethereum Name Service
 
 ### Day 13 Mon: 13-1-2020
 
-Other building blocks
+([TOC](.)) Other building blocks
 
 | Preparations                                               | Sheets          | Assignments
 | -----------                                                | ----------      | -------------
@@ -188,7 +186,7 @@ Other building blocks
 
 ### Day 14 Wed: 15-1-2020
 
-Combine everything
+([TOC](.)) Combine everything
 
 | Preparations                                               | Sheets          | Assignments
 | -----------                                                | ----------      | -------------
@@ -198,7 +196,7 @@ Combine everything
 
 ### Day 15 Wed: 22-1-2020
 
-Spare
+([TOC](.)) Spare
 
 | Preparations                                               | Sheets          | Assignments
 | -----------                                                | ----------      | -------------
