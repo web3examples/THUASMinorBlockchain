@@ -1,6 +1,6 @@
 Minor Blockchain on the hague university of applied sciences 20192020 Block B - IT: Programming Dapps
 
-This is the guiding materials.
+This is the guiding material.
 
 - [Day 0 Thu: 10-10-2019](#day-0-thu-10-10-2019)
 - [Day 1 Mon: 18-11-2019](#day-1-mon-18-11-2019)
@@ -20,6 +20,8 @@ This is the guiding materials.
 - [Day 15 Wed: 22-1-2020](#day-15-wed-22-1-2020)
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+## Guiding material
 
 ### Day 0 Thu: 10-10-2019
 
@@ -226,10 +228,14 @@ This is the guiding materials.
 [cryptozombies_5_ERC721_Crypto_Collectibles]:         https://cryptozombies.io/en/lesson/5/chapter/1
 [cryptozombies_6_App_Front_ends_Web3_js]:             https://cryptozombies.io/en/lesson/6/chapter/1
 
+## Assignments
 
+The results of the assignements will be put here: [web3assignments]
+<br>
+Also see status here: [bettercodehub]
 
-
-
+[web3assignments]: https://github.com/web3assignments/web3assignments.github.io
+[bettercodehub]: https://github.com/web3assignments/bettercodehub
 
 
 
