@@ -234,7 +234,7 @@ This is the guiding material.
 
 ## Assignments
 
-The results of the assignements will be put here: [web3assignments]
+The results of the assignments will be put here: [web3assignments]
 <br>
 Also see status here: [bettercodehub]
 
