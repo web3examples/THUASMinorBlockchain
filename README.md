@@ -29,7 +29,7 @@ This is the guiding material.
 
 ([TOC](.)) Introduction programming dapps
 
-| Preparations   | Sheets        | Assignments<br>Store here: [web3assignments] 
+| Preparations   | Sheets        | Assignments<br>results here: [web3assignments]
 | -----------    | ----------    | ---------
 |                | [day0sheets]  |
 
@@ -42,7 +42,7 @@ This is the guiding material.
 
 ([TOC](.)) Technical concept / Solidity / Create first smart contract (play)
 
-| Preparations                                               | Sheets          | Assignments
+| Preparations                                               | Sheets          | Assignments<br>results here: [web3assignments]
 | -----------                                                | ----------      | -------------
 | Follow: [cryptozombies_1_Making_the_Zombie_Factory]        | { to be added } | { to be added } 
 | Read: [mastering_ethereum_01_What_is_Ethereum]
@@ -59,7 +59,7 @@ This is the guiding material.
 
 ([TOC](.)) Remix / Solidity / Debug
 
-| Preparations                                           | Sheets          | Assignments
+| Preparations                                           | Sheets          | Assignments<br>results here: [web3assignments]
 | -----------                                            | ----------      | -------------
 | Follow: [cryptozombies_2_Zombies_Attack_Their_Victims] | { to be added } | { to be added } 
 | Read: [mastering_ethereum_03_Ethereum_Clients]
@@ -73,7 +73,7 @@ This is the guiding material.
 
 ([TOC](.)) Install chain software / Ganache / RPC interface / Management
 
-| Preparations                                               | Sheets          | Assignments
+| Preparations                                               | Sheets          | Assignments<br>results here: [web3assignments]
 | -----------                                                | ----------      | -------------
 | Follow: [cryptozombies_3_Advanced_Solidity_Concepts]       | { to be added } | { to be added } 
 | { to be added }
@@ -84,7 +84,7 @@ This is the guiding material.
 
 ([TOC](.)) Node.js; ganache-cli; web3.js
 
-| Preparations                                               | Sheets          | Assignments
+| Preparations                                               | Sheets          | Assignments<br>results here: [web3assignments]
 | -----------                                                | ----------      | -------------
 | Follow: [cryptozombies_4_Zombie_Battle_System]             | { to be added } | { to be added } 
 | { to be added }
@@ -95,7 +95,7 @@ This is the guiding material.
 
 ([TOC](.)) Web3.js in (mobile) browser
 
-| Preparations                                               | Sheets          | Assignments
+| Preparations                                               | Sheets          | Assignments<br>results here: [web3assignments]
 | -----------                                                | ----------      | -------------
 | Read: [mastering_ethereum_12_Decentralized_Applications]   | { to be added } | { to be added } 
 | Follow: [cryptozombies_6_App_Front_ends_Web3_js]
@@ -107,7 +107,7 @@ This is the guiding material.
 
 ([TOC](.)) Truffle / Logevent / Oracle
 
-| Preparations                                               | Sheets          | Assignments
+| Preparations                                               | Sheets          | Assignments<br>results here: [web3assignments]
 | -----------                                                | ----------      | -------------
 | Read: [mastering_ethereum_11_Oracles]                      | { to be added } | { to be added } 
 | { to be added }
@@ -118,7 +118,7 @@ This is the guiding material.
 
 ([TOC](.)) Solidity best practices / upgradability
 
-| Preparations                                               | Sheets          | Assignments
+| Preparations                                               | Sheets          | Assignments<br>results here: [web3assignments]
 | -----------                                                | ----------      | -------------
 | { to be added }                                            | { to be added } | { to be added } 
 
@@ -128,7 +128,7 @@ This is the guiding material.
 
 ([TOC](.)) Tokens (ERC20 / ERC721)
 
-| Preparations                                               | Sheets          | Assignments
+| Preparations                                               | Sheets          | Assignments<br>results here: [web3assignments]
 | -----------                                                | ----------      | -------------
 | Follow: [cryptozombies_5_ERC721_Crypto_Collectibles]       | { to be added } | { to be added } 
 | Read: [mastering_ethereum_10_Tokens]
@@ -140,7 +140,7 @@ This is the guiding material.
 
 ([TOC](.)) IPFS
 
-| Preparations                                               | Sheets          | Assignments
+| Preparations                                               | Sheets          | Assignments<br>results here: [web3assignments]
 | -----------                                                | ----------      | -------------
 | { to be added }                                            | { to be added } | { to be added } 
 
@@ -150,7 +150,7 @@ This is the guiding material.
 
 ([TOC](.)) Security & Key management
 
-| Preparations                                               | Sheets          | Assignments
+| Preparations                                               | Sheets          | Assignments<br>results here: [web3assignments]
 | -----------                                                | ----------      | -------------
 | Follow: [mastering_ethereum_09_Smart_contract_Security]    | { to be added } | { to be added } 
 | { to be added }
@@ -161,7 +161,7 @@ This is the guiding material.
 
 ([TOC](.)) Testing / code quality / natpec / verify / audit
 
-| Preparations                                               | Sheets          | Assignments
+| Preparations                                               | Sheets          | Assignments<br>results here: [web3assignments]
 | -----------                                                | ----------      | -------------
 | { to be added }                                            | { to be added } | { to be added } 
 
@@ -171,7 +171,7 @@ This is the guiding material.
 
 ([TOC](.)) Ethereum Name Service
 
-| Preparations                                               | Sheets          | Assignments
+| Preparations                                               | Sheets          | Assignments<br>results here: [web3assignments]
 | -----------                                                | ----------      | -------------
 | Follow: [mastering_ethereum_12_Decentralized_Applications] | { to be added } | { to be added } 
 | { to be added }
@@ -182,7 +182,7 @@ This is the guiding material.
 
 ([TOC](.)) Other building blocks
 
-| Preparations                                               | Sheets          | Assignments
+| Preparations                                               | Sheets          | Assignments<br>results here: [web3assignments]
 | -----------                                                | ----------      | -------------
 | { to be added }                                            | { to be added } | { to be added } 
 
@@ -192,7 +192,7 @@ This is the guiding material.
 
 ([TOC](.)) Combine everything
 
-| Preparations                                               | Sheets          | Assignments
+| Preparations                                               | Sheets          | Assignments<br>results here: [web3assignments]
 | -----------                                                | ----------      | -------------
 | { to be added }                                            | { to be added } | { to be added } 
 
@@ -202,7 +202,7 @@ This is the guiding material.
 
 ([TOC](.)) Spare
 
-| Preparations                                               | Sheets          | Assignments
+| Preparations                                               | Sheets          | Assignments<br>results here: [web3assignments]
 | -----------                                                | ----------      | -------------
 | { to be added }                                            | { to be added } | { to be added } 
 
@@ -232,29 +232,22 @@ This is the guiding material.
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-## Assignments
 
-The results of the assignments will be put here: [web3assignments]
-<br>
-Also see status here: [bettercodehub]
-
-[web3assignments]: https://github.com/web3assignments/web3assignments.github.io
-[bettercodehub]: https://github.com/web3assignments/bettercodehub
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
-## General resources
+## Other resources
+
+Here you can find other resources:
 
 * [web3examples]
 * [web3assignments]
-* [gitter]
+* [bettercodehub]
 
-
-
-[web3examples]: https://web3examples.com
-[gitter]:   https://gitter.im/web3examples/community
-
+[web3examples]:     https://web3examples.com
+[web3assignments]:  https://github.com/web3assignments/web3assignments.github.io
+[bettercodehub]:    https://github.com/web3assignments/bettercodehub
 
 
 
