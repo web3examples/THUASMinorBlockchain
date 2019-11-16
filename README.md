@@ -19,7 +19,7 @@ This is the guiding material.
   - [Day 13 Mon: 13-1-2020](#day-13-mon-13-1-2020)
   - [Day 14 Wed: 15-1-2020](#day-14-wed-15-1-2020)
   - [Day 15 Wed: 22-1-2020](#day-15-wed-22-1-2020)
-- [Assignments](#assignments)
+- [Other resources](#other-resources)
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
