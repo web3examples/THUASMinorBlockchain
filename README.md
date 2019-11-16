@@ -230,6 +230,8 @@ This is the guiding material.
 [cryptozombies_5_ERC721_Crypto_Collectibles]:         https://cryptozombies.io/en/lesson/5/chapter/1
 [cryptozombies_6_App_Front_ends_Web3_js]:             https://cryptozombies.io/en/lesson/6/chapter/1
 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 ## Assignments
 
 The results of the assignements will be put here: [web3assignments]
@@ -239,6 +241,7 @@ Also see status here: [bettercodehub]
 [web3assignments]: https://github.com/web3assignments/web3assignments.github.io
 [bettercodehub]: https://github.com/web3assignments/bettercodehub
 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 
