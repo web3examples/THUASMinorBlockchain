@@ -246,7 +246,7 @@ Here you can find other resources:
 * [bettercodehub]
 
 [web3examples]:     https://web3examples.com
-[web3assignments]:  https://github.com/web3assignments/web3assignments.github.io
+[web3assignments]:  https://github.com/web3assignments
 [bettercodehub]:    https://github.com/web3assignments/bettercodehub
 
 
