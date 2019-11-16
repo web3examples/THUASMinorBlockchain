@@ -29,7 +29,7 @@ This is the guiding material.
 
 ([TOC](.)) Introduction programming dapps
 
-| Preparations   | Sheets            | Assignments 
+| Preparations   | Sheets        | Assignments<br>Store here: [web3assignments] 
 | -----------    | ----------    | ---------
 |                | [day0sheets]  |
 
@@ -244,7 +244,16 @@ Also see status here: [bettercodehub]
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
+## General resources
 
+* [web3examples]
+* [web3assignments]
+* [gitter]
+
+
+
+[web3examples]: https://web3examples.com
+[gitter]:   https://gitter.im/web3examples/community
 
 
 
