@@ -42,16 +42,27 @@ This is the guiding material.
 
 ([TOC](.)) Technical concept / Solidity / Create first smart contract (play)
 
-| Preparations                                               | Sheets          | Assignments<br>results here: [web3assignments]
-| -----------                                                | ----------      | -------------
-| Follow: [cryptozombies_1_Making_the_Zombie_Factory]        | { to be added } | { to be added } 
-| Read: [mastering_ethereum_01_What_is_Ethereum]
-| Read: [mastering_ethereum_02_Ethereum_Basics]
-| Read: [mastering_ethereum_04_Keys_and_Addresses]
-| Read: [mastering_ethereum_06_Transactions]
-| Read: [mastering_ethereum_07_Smart_contracts_and_Solidity]
-| Read: [mastering_ethereum_14_Consensus]
-| Supply: github account
+| Preparations                                               | Sheets          | Assignments                                                      | Background info
+| -----------                                                | ----------      | -------------                                                    | -----------
+| Follow: [cryptozombies_1_Making_the_Zombie_Factory]        | { to be added } | [metamask]                                                       | [solidity_docs]
+| Read: [mastering_ethereum_01_What_is_Ethereum]             |                 | Get test ETH (Ropsten)                                           | [toshblocks]
+| Read: [mastering_ethereum_02_Ethereum_Basics]              |                 | Experiment with: [play_ed]                                       | [solidity_overview]
+| Read: [mastering_ethereum_04_Keys_and_Addresses]           |                 | check out: [play_ed_demo]                                        | [solidity_details]
+| Read: [mastering_ethereum_06_Transactions]                 |                 | Tryout example contracts: [example_solidity1]
+| Read: [mastering_ethereum_07_Smart_contracts_and_Solidity] |                 | Tryout example contracts: [example_solidity2]
+| Read: [mastering_ethereum_14_Consensus]                    |                 | Use [athereum]
+| Supply: github account                                     |                 | Create a smart contract and store it here: [web3assignments]
+
+[metamask]:             http://web3examples.com/ethereum/install/Install_MetaMask_Windows.html
+[play_ed]:              https://playproject.io/play-ed/
+[play_ed_demo]:         http://web3examples.com/ethereum/demo/#ethereum-play
+[example_solidity1]:    https://github.com/web3examples/ethereum/tree/master/solidity_examples
+[example_solidity2]:    https://solidity-by-example.org/
+[athereum]:             http://web3examples.com/ethereum/demo/Athereum_and_metamask.html
+[solidity_docs]:        https://solidity.readthedocs.io
+[toshblocks]:           https://www.toshblocks.com/solidity/basics-solidity-example/
+[solidity_overview]:    http://web3examples.com/ethereum/#solidity-overview
+[solidity_details]:     http://web3examples.com/ethereum/#details
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
