@@ -46,14 +46,14 @@ This is the guiding material.
 
 | Preparations                                               | Sheets          | Assignments                                                      | Background info
 | -----------                                                | ----------      | -------------                                                    | -----------
-| Follow: [cryptozombies_1_Making_the_Zombie_Factory]        | { to be added } | [metamask]                                                       | [solidity_docs]
-| Read: [mastering_ethereum_01_What_is_Ethereum]             |                 | Get test ETH (Ropsten)                                           | [toshblocks]
-| Read: [mastering_ethereum_02_Ethereum_Basics]              |                 | Experiment with: [play_ed]                                       | [solidity_overview]
-| Read: [mastering_ethereum_04_Keys_and_Addresses]           |                 | check out: [play_ed_demo]                                        | [solidity_details]
-| Read: [mastering_ethereum_06_Transactions]                 |                 | Tryout example contracts: [example_solidity1]
-| Read: [mastering_ethereum_07_Smart_contracts_and_Solidity] |                 | Tryout example contracts: [example_solidity2]
-| Read: [mastering_ethereum_14_Consensus]                    |                 | Use [athereum]
-| Supply: github account                                     |                 | Create a smart contract and store it here: [web3assignments]
+| Follow: [cryptozombies_1_Making_the_Zombie_Factory]        | { to be added } | 1) Install [metamask]                                               | [solidity_docs]
+| Read: [mastering_ethereum_01_What_is_Ethereum]             |                 | 2) Get test ETH (Ropsten)                                           | [toshblocks]
+| Read: [mastering_ethereum_02_Ethereum_Basics]              |                 | 3) Experiment with: [play_ed]                                       | [solidity_overview]
+| Read: [mastering_ethereum_04_Keys_and_Addresses]           |                 | 4) Check out: [play_ed_demo]                                        | [solidity_details]
+| Read: [mastering_ethereum_06_Transactions]                 |                 | 5) Tryout example contracts: [example_solidity1]
+| Read: [mastering_ethereum_07_Smart_contracts_and_Solidity] |                 | 6) Tryout example contracts: [example_solidity2]
+| Read: [mastering_ethereum_14_Consensus]                    |                 | 7) Use [athereum]
+| Supply: github account                                     |                 | 8) Create a smart contract and store it here: [web3assignments]
 
 [metamask]:             http://web3examples.com/ethereum/install/Install_MetaMask_Windows.html
 [play_ed]:              https://playproject.io/play-ed/
