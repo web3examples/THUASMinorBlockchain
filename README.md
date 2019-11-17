@@ -44,22 +44,22 @@ This is the guiding material.
 
 ([TOC](.)) Technical concept / Solidity / Create first smart contract (play)
 
-| Preparations                                               | Sheets                     | Assignments                                                      | Background info
-| -----------                                                | ----------                 | -------------                                                    | -----------
-| Follow: [cryptozombies_1_Making_the_Zombie_Factory]        | 1) [general info]          | 1) Install [metamask]                                            | [solidity_docs]
-| Read: [mastering_ethereum_01_What_is_Ethereum]             | 2) [architecture_ethereum] | 2) Get test ETH (Ropsten)                                        | [toshblocks]
-| Read: [mastering_ethereum_02_Ethereum_Basics]              | 3) [play_solidity]         | 3) Experiment with: [play_ed]                                    | [solidity_overview]
-| Read: [mastering_ethereum_04_Keys_and_Addresses]           | 4) [metamask]              | 4) Check out: [play_ed_demo]                                     | [solidity_details]
-| Read: [mastering_ethereum_06_Transactions]                 |                            | 5) Tryout example contracts: [example_solidity1]
-| Read: [mastering_ethereum_07_Smart_contracts_and_Solidity] |                            | 6) Tryout example contracts: [example_solidity2]
-| Read: [mastering_ethereum_14_Consensus]                    |                            | 7) Use [athereum]
-| Supply: github account                                     |                            | 8) Create a smart contract and store it here: [web3assignments]
+| Preparations                                        | Sheets               | Assignments                                                      | Background info
+| -----------                                         | ----------           | -------------                                                    | -----------
+| Follow: [cryptozombies_1_Making_the_Zombie_Factory] | 1) [general info]    | 1) Install [metamask]                                            | [solidity_docs]
+| Read: [mast_eth_01_What_is_Ethereum]                | 2) [arch_ethereum]   | 2) Get test ETH (Ropsten)                                        | [toshblocks]
+| Read: [mast_eth_02_Ethereum_Basics]                 | 3) [play_solidity]   | 3) Experiment with: [play_ed]                                    | [solidity_overview]
+| Read: [mast_eth_04_Keys_and_Addresses]              | 4) [metamask_sheets] | 4) Check out: [play_ed_demo]                                     | [solidity_details]
+| Read: [mast_eth_06_Transactions]                    |                      | 5) Tryout example contracts: [example_solidity1]
+| Read: [mast_eth_07_Smart_contracts_and_Solidity]    |                      | 6) Tryout example contracts: [example_solidity2]
+| Read: [mast_eth_14_Consensus]                       |                      | 7) Use [athereum]
+| Supply: github account                              |                      | 8) Create a smart contract and store it here: [web3assignments]
 
 
-[general info]:             https://ipfs.io/ipfs/QmeTaHZ1huDdE4jdyGKYVRnUYMBdJMR91StADVhvdz3fgb
-[architecture_ethereum]:    https://ipfs.io/ipfs/QmU43Eq6j6nGjKJttMxXprDDmevDUm3sXMcxFpDfmBkTYh
-[play_solidity]:            https://ipfs.io/ipfs/QmeqCNB3bGgUEeceKgShPB17C6yeieQcxQJeJK9zNBsfRL
-[metamask]:                 https://ipfs.io/ipfs/QmZEAdu85T42smzDFHsuK27xsMPChkFvMFEdjbgxXhvLFs
+[general info]:         https://ipfs.io/ipfs/QmeTaHZ1huDdE4jdyGKYVRnUYMBdJMR91StADVhvdz3fgb
+[arch_ethereum]:        https://ipfs.io/ipfs/QmU43Eq6j6nGjKJttMxXprDDmevDUm3sXMcxFpDfmBkTYh
+[play_solidity]:        https://ipfs.io/ipfs/QmeqCNB3bGgUEeceKgShPB17C6yeieQcxQJeJK9zNBsfRL
+[metamask_sheets]:      https://ipfs.io/ipfs/QmZEAdu85T42smzDFHsuK27xsMPChkFvMFEdjbgxXhvLFs
 
 [metamask]:             http://web3examples.com/ethereum/install/Install_MetaMask_Windows.html
 [play_ed]:              https://playproject.io/play-ed/
@@ -81,9 +81,9 @@ This is the guiding material.
 | Preparations                                           | Sheets          | Assignments<br>results here: [web3assignments]
 | -----------                                            | ----------      | -------------
 | Follow: [cryptozombies_2_Zombies_Attack_Their_Victims] | { to be added } | { to be added } 
-| Read: [mastering_ethereum_03_Ethereum_Clients]
-| Read: [mastering_ethereum_05_Wallets]
-| Read: [mastering_ethereum_13_gas]
+| Read: [mast_eth_03_Ethereum_Clients]
+| Read: [mast_eth_05_Wallets]
+| Read: [mast_eth_13_gas]
 | { to be added }
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -116,7 +116,7 @@ This is the guiding material.
 
 | Preparations                                               | Sheets          | Assignments<br>results here: [web3assignments]
 | -----------                                                | ----------      | -------------
-| Read: [mastering_ethereum_12_Decentralized_Applications]   | { to be added } | { to be added } 
+| Read: [mast_eth_12_Decentralized_Applications]   | { to be added } | { to be added } 
 | Follow: [cryptozombies_6_App_Front_ends_Web3_js]
 | { to be added }
 
@@ -128,7 +128,7 @@ This is the guiding material.
 
 | Preparations                                               | Sheets          | Assignments<br>results here: [web3assignments]
 | -----------                                                | ----------      | -------------
-| Read: [mastering_ethereum_11_Oracles]                      | { to be added } | { to be added } 
+| Read: [mast_eth_11_Oracles]                      | { to be added } | { to be added } 
 | { to be added }
  
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -150,7 +150,7 @@ This is the guiding material.
 | Preparations                                               | Sheets          | Assignments<br>results here: [web3assignments]
 | -----------                                                | ----------      | -------------
 | Follow: [cryptozombies_5_ERC721_Crypto_Collectibles]       | { to be added } | { to be added } 
-| Read: [mastering_ethereum_10_Tokens]
+| Read: [mast_eth_10_Tokens]
 | { to be added }
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -171,7 +171,7 @@ This is the guiding material.
 
 | Preparations                                               | Sheets          | Assignments<br>results here: [web3assignments]
 | -----------                                                | ----------      | -------------
-| Follow: [mastering_ethereum_09_Smart_contract_Security]    | { to be added } | { to be added } 
+| Follow: [mast_eth_09_Smart_contract_Security]    | { to be added } | { to be added } 
 | { to be added }
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -192,7 +192,7 @@ This is the guiding material.
 
 | Preparations                                               | Sheets          | Assignments<br>results here: [web3assignments]
 | -----------                                                | ----------      | -------------
-| Follow: [mastering_ethereum_12_Decentralized_Applications] | { to be added } | { to be added } 
+| Follow: [mast_eth_12_Decentralized_Applications] | { to be added } | { to be added } 
 | { to be added }
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -226,20 +226,20 @@ This is the guiding material.
 | { to be added }                                            | { to be added } | { to be added } 
 
 
-[mastering_ethereum_01_What_is_Ethereum]:             https://github.com/ethereumbook/ethereumbook/tree/develop/01what-is.asciidoc
-[mastering_ethereum_02_Ethereum_Basics]:              https://github.com/ethereumbook/ethereumbook/tree/develop/02intro.asciidoc
-[mastering_ethereum_03_Ethereum_Clients]:             https://github.com/ethereumbook/ethereumbook/tree/develop/03clients.asciidoc
-[mastering_ethereum_04_Keys_and_Addresses]:           https://github.com/ethereumbook/ethereumbook/tree/develop/04keys-addresses.asciidoc
-[mastering_ethereum_05_Wallets]:                      https://github.com/ethereumbook/ethereumbook/tree/develop/05wallets.asciidoc
-[mastering_ethereum_06_Transactions]:                 https://github.com/ethereumbook/ethereumbook/tree/develop/06transactions.asciidoc
-[mastering_ethereum_07_Smart_contracts_and_Solidity]: https://github.com/ethereumbook/ethereumbook/tree/develop/07smart-contracts-solidity.asciidoc
-[mastering_ethereum_09_Smart_contract_Security]:      https://github.com/ethereumbook/ethereumbook/tree/develop/08smart-contracts-vyper.asciidoc
-[mastering_ethereum_10_Tokens]:                       https://github.com/ethereumbook/ethereumbook/tree/develop/09smart-contracts-security.asciidoc
-[mastering_ethereum_11_Oracles]:                      https://github.com/ethereumbook/ethereumbook/tree/develop/10tokens.asciidoc
-[mastering_ethereum_12_Decentralized_Applications]:   https://github.com/ethereumbook/ethereumbook/tree/develop/11oracles.asciidoc
-[mastering_ethereum_12_Decentralized_Applications]:   https://github.com/ethereumbook/ethereumbook/tree/develop/12dapps.asciidoc
-[mastering_ethereum_13_gas]:                          https://github.com/ethereumbook/ethereumbook/blob/develop/13evm.asciidoc#turing-completeness-and-gas
-[mastering_ethereum_14_Consensus]:                    https://github.com/ethereumbook/ethereumbook/tree/develop/14consensus.asciidoc
+[mast_eth_01_What_is_Ethereum]:             https://github.com/ethereumbook/ethereumbook/tree/develop/01what-is.asciidoc
+[mast_eth_02_Ethereum_Basics]:              https://github.com/ethereumbook/ethereumbook/tree/develop/02intro.asciidoc
+[mast_eth_03_Ethereum_Clients]:             https://github.com/ethereumbook/ethereumbook/tree/develop/03clients.asciidoc
+[mast_eth_04_Keys_and_Addresses]:           https://github.com/ethereumbook/ethereumbook/tree/develop/04keys-addresses.asciidoc
+[mast_eth_05_Wallets]:                      https://github.com/ethereumbook/ethereumbook/tree/develop/05wallets.asciidoc
+[mast_eth_06_Transactions]:                 https://github.com/ethereumbook/ethereumbook/tree/develop/06transactions.asciidoc
+[mast_eth_07_Smart_contracts_and_Solidity]: https://github.com/ethereumbook/ethereumbook/tree/develop/07smart-contracts-solidity.asciidoc
+[mast_eth_09_Smart_contract_Security]:      https://github.com/ethereumbook/ethereumbook/tree/develop/08smart-contracts-vyper.asciidoc
+[mast_eth_10_Tokens]:                       https://github.com/ethereumbook/ethereumbook/tree/develop/09smart-contracts-security.asciidoc
+[mast_eth_11_Oracles]:                      https://github.com/ethereumbook/ethereumbook/tree/develop/10tokens.asciidoc
+[mast_eth_12_Decentralized_Applications]:   https://github.com/ethereumbook/ethereumbook/tree/develop/11oracles.asciidoc
+[mast_eth_12_Decentralized_Applications]:   https://github.com/ethereumbook/ethereumbook/tree/develop/12dapps.asciidoc
+[mast_eth_13_gas]:                          https://github.com/ethereumbook/ethereumbook/blob/develop/13evm.asciidoc#turing-completeness-and-gas
+[mast_eth_14_Consensus]:                    https://github.com/ethereumbook/ethereumbook/tree/develop/14consensus.asciidoc
 
 
 [cryptozombies_1_Making_the_Zombie_Factory]:          https://cryptozombies.io/en/lesson/1/chapter/1
