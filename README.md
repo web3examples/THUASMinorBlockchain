@@ -60,6 +60,7 @@ This is the guiding material.
 [arch_ethereum]:        https://ipfs.io/ipfs/QmU43Eq6j6nGjKJttMxXprDDmevDUm3sXMcxFpDfmBkTYh
 [play_solidity]:        https://ipfs.io/ipfs/QmeqCNB3bGgUEeceKgShPB17C6yeieQcxQJeJK9zNBsfRL
 [metamask_sheets]:      https://ipfs.io/ipfs/QmZEAdu85T42smzDFHsuK27xsMPChkFvMFEdjbgxXhvLFs
+[athereum]:             https://ipfs.io/ipfs/QmdrSPgs7Wdmf3Tigm4e9fRy2sUoCykdyPuTSRVeVX4y6u
 
 [metamask]:             http://web3examples.com/ethereum/install/Install_MetaMask_Windows.html
 [play_ed]:              https://playproject.io/play-ed/
