@@ -49,8 +49,8 @@ This is the guiding material.
 | Follow: [cryptozombies_1_Making_the_Zombie_Factory] | 1) [general info]    | 1) Install [metamask]                                            | [solidity_docs]
 | Read: [mast_eth_01_What_is_Ethereum]                | 2) [arch_ethereum]   | 2) Get test ETH (Ropsten)                                        | [toshblocks]
 | Read: [mast_eth_02_Ethereum_Basics]                 | 3) [play_solidity]   | 3) Experiment with: [play_ed]                                    | [solidity_overview]
-| Read: [mast_eth_04_Keys_and_Addresses]              | 4) [metamask_sheets] | 4) Check out: [play_ed_demo]                                     | [solidity_details]
-| Read: [mast_eth_06_Transactions]                    |  5) [athereum]       | 5) Tryout example contracts: [example_solidity1]
+| Read: [mast_eth_04_Keys_and_Addresses]              | 4) [metamask_sh] | 4) Check out: [play_ed_demo]                                     | [solidity_details]
+| Read: [mast_eth_06_Transactions]                    |  5) [athereum_sh]       | 5) Tryout example contracts: [example_solidity1]
 | Read: [mast_eth_07_Smart_contracts_and_Solidity]    |                      | 6) Tryout example contracts: [example_solidity2]
 | Read: [mast_eth_14_Consensus]                       |                      | 7) Use [athereum]
 | Supply: github account                              |                      | 8) Create a smart contract and store it here: [web3assignments]
@@ -59,8 +59,8 @@ This is the guiding material.
 [general info]:         https://ipfs.io/ipfs/QmeTaHZ1huDdE4jdyGKYVRnUYMBdJMR91StADVhvdz3fgb
 [arch_ethereum]:        https://ipfs.io/ipfs/QmU43Eq6j6nGjKJttMxXprDDmevDUm3sXMcxFpDfmBkTYh
 [play_solidity]:        https://ipfs.io/ipfs/QmeqCNB3bGgUEeceKgShPB17C6yeieQcxQJeJK9zNBsfRL
-[metamask_sheets]:      https://ipfs.io/ipfs/QmZEAdu85T42smzDFHsuK27xsMPChkFvMFEdjbgxXhvLFs
-[athereum]:             https://ipfs.io/ipfs/QmdrSPgs7Wdmf3Tigm4e9fRy2sUoCykdyPuTSRVeVX4y6u
+[metamask_sh]:          https://ipfs.io/ipfs/QmZEAdu85T42smzDFHsuK27xsMPChkFvMFEdjbgxXhvLFs
+[athereum_sh]:          https://ipfs.io/ipfs/QmdrSPgs7Wdmf3Tigm4e9fRy2sUoCykdyPuTSRVeVX4y6u
 
 [metamask]:             http://web3examples.com/ethereum/install/Install_MetaMask_Windows.html
 [play_ed]:              https://playproject.io/play-ed/
