@@ -83,15 +83,14 @@ This is the guiding material.
 
 | Preparations                                           | Sheets          | Assignments                                                                   | Background info
 | -----------                                            | ----------      | -------------                                                                 | -----------
-| Follow: [cryptozombies_2_Zombies_Attack_Their_Victims] | [remix_sh]      | 1) Experiment with: [remix_ide]                                               | [remix_docs]
-| Read: [mast_eth_03_Ethereum_Clients]                   | [solidity_sh]   | 2) Check out: [remix_demos]                                                   | [solidity_docs]
-| Read: [mast_eth_05_Wallets]                            |                 | 3) Tryout newer & remix contracts: [example_solidity1]                        | [solidity_overview]
+| Follow: [cryptozombies_2_Zombies_Attack_Their_Victims] | [general_day2]  | 1) Experiment with: [remix_ide]                                               | [remix_docs]
+| Read: [mast_eth_03_Ethereum_Clients]                   | [remix_sh]      | 2) Check out: [remix_demos]                                                   | [solidity_docs]
+| Read: [mast_eth_05_Wallets]                            | [solidity_sh]   | 3) Tryout newer & remix contracts: [example_solidity1]                        | [solidity_overview]
 | Read: [mast_eth_13_gas]                                |                 | 4) Use the debugger of Remix                                                  | [solidity_details]
 |                                                        |                 | 5) Adapt or create a smart contract with: <br>error handling, mapping, events | [toshblocks] 
 |                                                        |                 | 6) Store the smart contract here: [web3assignments]
 
-
-
+[general_day2]: https://ipfs.io/ipfs/QmV8qyXsu73Znziv9ogGJ2ennYCVa5aXsDk9h2hDm2nd44
 [remix_sh]:     https://ipfs.io/ipfs/Qmd3ztpdNBxZUySJJG1vGXE1iLf49ao7VXQQzqdNvsoyvo
 [solidity_sh]:  https://ipfs.io/ipfs/Qma4k8Mq34BHrH849qi1Vp8yKyZmQuF5N8S1LXrVWt9cfj
 [remix_ide]:    https://remix.ethereum.org/
