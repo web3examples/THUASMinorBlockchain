@@ -83,7 +83,7 @@ This is the guiding material.
 
 | Preparations                                           | Sheets          | Assignments                                                                   | Background info
 | -----------                                            | ----------      | -------------                                                                 | -----------
-| Follow: [cryptozombies_2_Zombies_Attack_Their_Victims] | [remix_sh]      | 1) Experiment with: [remix_ide]                                               |  [remix_docs]:
+| Follow: [cryptozombies_2_Zombies_Attack_Their_Victims] | [remix_sh]      | 1) Experiment with: [remix_ide]                                               | [remix_docs]
 | Read: [mast_eth_03_Ethereum_Clients]                   | [solidity_sh]   | 2) Check out: [remix_demos]                                                   | [solidity_docs]
 | Read: [mast_eth_05_Wallets]                            |                 | 3) Tryout newer & remix contracts: [example_solidity1]                        | [solidity_overview]
 | Read: [mast_eth_13_gas]                                |                 | 4) Use the debugger of Remix                                                  | [solidity_details]
