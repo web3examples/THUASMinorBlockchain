@@ -44,14 +44,14 @@ This is the guiding material.
 
 ([TOC](.)) Technical concept / Solidity / Create first smart contract (play)
 
-| Preparations                                        | Sheets               | Assignments                                                      | Background info
+| Preparations                                        | Video & sheets       | Assignments                                                      | Background info
 | -----------                                         | ----------           | -------------                                                    | -----------
-| Follow: [cryptozombies_1_Making_the_Zombie_Factory] | 1) [general info]    | 1) Install [metamask]                                            | [solidity_docs]
-| Read: [mast_eth_01_What_is_Ethereum]                | 2) [arch_ethereum]   | 2) Get test ETH (Ropsten)                                        | [toshblocks]
-| Read: [mast_eth_02_Ethereum_Basics]                 | 3) [play_solidity]   | 3) Experiment with: [play_ed]                                    | [solidity_overview]
-| Read: [mast_eth_04_Keys_and_Addresses]              | 4) [metamask_sh] | 4) Check out: [play_ed_demo]                                     | [solidity_details]
-| Read: [mast_eth_06_Transactions]                    |  5) [athereum_sh]       | 5) Tryout example contracts: [example_solidity1]
-| Read: [mast_eth_07_Smart_contracts_and_Solidity]    |                      | 6) Tryout example contracts: [example_solidity2]
+| Follow: [cryptozombies_1_Making_the_Zombie_Factory] | [record_day1]        | 1) Install [metamask]                                            | [solidity_docs]
+| Read: [mast_eth_01_What_is_Ethereum]                | 1) [general info]    | 2) Get test ETH (Ropsten)                                        | [toshblocks]
+| Read: [mast_eth_02_Ethereum_Basics]                 | 2) [arch_ethereum]   | 3) Experiment with: [play_ed]                                    | [solidity_overview]
+| Read: [mast_eth_04_Keys_and_Addresses]              | 3) [play_solidity]   | 4) Check out: [play_ed_demo]                                     | [solidity_details]
+| Read: [mast_eth_06_Transactions]                    | 4) [metamask_sh]     | 5) Tryout example contracts: [example_solidity1]
+| Read: [mast_eth_07_Smart_contracts_and_Solidity]    | 5) [athereum_sh]     | 6) Tryout example contracts: [example_solidity2]
 | Read: [mast_eth_14_Consensus]                       |                      | 7) Use [athereum]
 | Supply: github account                              |                      | 8) Create a smart contract and store it here: [web3assignments]
 
@@ -73,19 +73,30 @@ This is the guiding material.
 [solidity_overview]:    http://web3examples.com/ethereum/#solidity-overview
 [solidity_details]:     http://web3examples.com/ethereum/#details
 
+[record_day1]:          https://www.youtube.com/watch?v=54OKS_TxPlo&list=PL_tbH3aD86KtKGgHhoSTwLARW-Ke5rLzt
+
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ### Day 2 Wed: 20-11-2019
 
 ([TOC](.)) Remix / Solidity / Debug
 
-| Preparations                                           | Sheets          | Assignments<br>results here: [web3assignments]
-| -----------                                            | ----------      | -------------
-| Follow: [cryptozombies_2_Zombies_Attack_Their_Victims] | { to be added } | { to be added } 
-| Read: [mast_eth_03_Ethereum_Clients]
-| Read: [mast_eth_05_Wallets]
-| Read: [mast_eth_13_gas]
-| { to be added }
+| Preparations                                           | Sheets          | Assignments                                                                   | Background info
+| -----------                                            | ----------      | -------------                                                                 | -----------
+| Follow: [cryptozombies_2_Zombies_Attack_Their_Victims] | [remix_sh]      | 1) Experiment with: [remix_ide]                                               |  [remix_docs]:
+| Read: [mast_eth_03_Ethereum_Clients]                   | [solidity_sh]   | 2) Check out: [remix_demos]                                                   | [solidity_docs]
+| Read: [mast_eth_05_Wallets]                            |                 | 3) Tryout newer & remix contracts: [example_solidity1]                        | [solidity_overview]
+| Read: [mast_eth_13_gas]                                |                 | 4) Use the debugger of Remix                                                  | [solidity_details]
+|                                                        |                 | 5) Adapt or create a smart contract with: <br>error handling, mapping, events | [toshblocks] 
+|                                                        |                 | 6) Store the smart contract here: [web3assignments]
+
+
+
+[remix_sh]:     https://ipfs.io/ipfs/Qmd3ztpdNBxZUySJJG1vGXE1iLf49ao7VXQQzqdNvsoyvo
+[solidity_sh]:  https://ipfs.io/ipfs/Qma4k8Mq34BHrH849qi1Vp8yKyZmQuF5N8S1LXrVWt9cfj
+[remix_ide]:    https://remix.ethereum.org/
+[remix_docs]:   https://remix-ide.readthedocs.io/en/latest/
+[remix_demos]:  http://web3examples.com/ethereum/demo/#remix
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
