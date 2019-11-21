@@ -81,14 +81,16 @@ This is the guiding material.
 
 ([TOC](.)) Remix / Solidity / Debug
 
-| Preparations                                           | Sheets          | Assignments                                                                   | Background info
-| -----------                                            | ----------      | -------------                                                                 | -----------
-| Follow: [cryptozombies_2_Zombies_Attack_Their_Victims] | [general_day2]  | 1) Experiment with: [remix_ide]                                               | [remix_docs]
-| Read: [mast_eth_03_Ethereum_Clients]                   | [remix_sh]      | 2) Check out: [remix_demos]                                                   | [solidity_docs]
-| Read: [mast_eth_05_Wallets]                            | [solidity_sh]   | 3) Tryout newer & remix contracts: [example_solidity1]                        | [solidity_overview]
-| Read: [mast_eth_13_gas]                                |                 | 4) Use the debugger of Remix                                                  | [solidity_details]
-|                                                        |                 | 5) Adapt or create a smart contract with: <br>error handling, mapping, events | [toshblocks] 
-|                                                        |                 | 6) Store the smart contract here: [web3assignments]
+| Preparations                                           | Video & sheets     | Assignments                                                                   | Background info
+| -----------                                            | ----------         | -------------                                                                 | -----------
+| Follow: [cryptozombies_2_Zombies_Attack_Their_Victims] | [record_day2]      | 1) Experiment with: [remix_ide]                                               | [remix_docs]
+| Read: [mast_eth_03_Ethereum_Clients]                   | 1) [general_day2]  | 2) Check out: [remix_demos]                                                   | [solidity_docs]
+| Read: [mast_eth_05_Wallets]                            | 2) [remix_sh]      | 3) Tryout newer & remix contracts: [example_solidity1]                        | [solidity_overview]
+| Read: [mast_eth_13_gas]                                | 3) [solidity_sh]   | 4) Use the debugger of Remix                                                  | [solidity_details]
+|                                                        |                    | 5) Adapt or create a smart contract with: <br>error handling, mapping, events | [toshblocks] 
+|                                                        |                    | 6) Store the smart contract here: [web3assignments]
+                                                                          
+[record_day2]:  https://www.youtube.com/watch?v=S7744KbyZHM&list=PL_tbH3aD86KtKGgHhoSTwLARW-Ke5rLzt&index=2
 
 [general_day2]: https://ipfs.io/ipfs/QmV8qyXsu73Znziv9ogGJ2ennYCVa5aXsDk9h2hDm2nd44
 [remix_sh]:     https://ipfs.io/ipfs/Qmd3ztpdNBxZUySJJG1vGXE1iLf49ao7VXQQzqdNvsoyvo
