@@ -114,13 +114,14 @@ This is the guiding material.
 |                                                      |                 | 3) Install wscurl (see [install_sw])
 |                                                      |                 | 4) Install wscat (see [install_sw])
 |                                                      |                 | 5) Try out: [rpc_examples]
-|                                                      |                 | 6) Make a micro blockchain explorer<br>Store results here: [web3assignments]
+|                                                      |                 | 6) Make a micro blockchain explorer (bases on [blocknr] and [wsblocks])<br>Store results here: [web3assignments]
 
 
 [install_sw]:   https://web3examples.com/ethereum/install/
 [rpc_examples]: http://web3examples.com/ethereum/rpc/
 [jsonrpc]:      https://github.com/ethereum/wiki/wiki/JSON-RPC
-
+[blocknr]:          https://web3examples.com/ethereum/rpc/blocknr.html
+[wsblocks]:         https://web3examples.com/ethereum/rpc/wsblocks.html
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
