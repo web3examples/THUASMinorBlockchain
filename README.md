@@ -105,10 +105,22 @@ This is the guiding material.
 
 ([TOC](.)) Install chain software / Ganache / RPC interface / Management
 
-| Preparations                                               | Sheets          | Assignments<br>results here: [web3assignments]
-| -----------                                                | ----------      | -------------
-| Follow: [cryptozombies_3_Advanced_Solidity_Concepts]       | { to be added } | { to be added } 
-| { to be added }
+| Preparations                                         | Video & sheets  | Assignments                                                | Background info
+| -----------                                          | ----------      | -------------                                              | -----------
+| Follow: [cryptozombies_3_Advanced_Solidity_Concepts] | { to be added } | { to be added }                                            | [jsonrpc]
+|                                                      |                 | 1) Install sw, using [install_sw]:
+|                                                      |                 | * curl
+|                                                      |                 | * node.js
+|                                                      |                 | * wscurl
+|                                                      |                 | * wscat
+|                                                      |                 | 2) Try out: [rpc_examples]
+|                                                      |                 | 6) Store results here: [web3assignments]
+
+
+[install_sw]:   https://web3examples.com/ethereum/install/
+[rpc_examples]: http://web3examples.com/ethereum/rpc/
+[jsonrpc]:      https://github.com/ethereum/wiki/wiki/JSON-RPC
+
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
