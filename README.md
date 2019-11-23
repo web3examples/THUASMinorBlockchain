@@ -105,14 +105,14 @@ This is the guiding material.
 
 ([TOC](.)) Install chain software / Ganache / RPC interface / Management
 
-| Preparations                                         | Video & sheets    | Assignments                                                | Background info
-| -----------                                          | ----------        | -------------                                              | -----------
-| Follow: [cryptozombies_3_Advanced_Solidity_Concepts] | { to be added }   | 1) Install curl (see [install_sw])                         | [jsonrpc]
-|                                                      | 1) [general_day3] | 2) Install node.js (see [install_sw])
-|                                                      | 2) [rpc_sh]       | 3) Install wscurl & wscat (see [install_sw])
-|                                                      |                   | 4) Try out: [rpc_examples]
-|                                                      |                   | 5) Try out: [grid_rpc_app]
-|                                                      |                   | 6) Make a micro blockchain explorer<br>(based on [blocknr] and [wsblocks])<br>Store results here: [web3assignments]
+| Preparations                          | Video & sheets    | Assignments                                                | Background info
+| -----------                           | ----------        | -------------                                              | -----------
+| Follow: [cryptozombies_3_Adv_Sol_Con] | { to be added }   | 1) Install curl (see [install_sw])                         | [jsonrpc]
+|                                       | 1) [general_day3] | 2) Install node.js (see [install_sw])
+|                                       | 2) [rpc_sh]       | 3) Install wscurl & wscat (see [install_sw])
+|                                       |                   | 4) Try out: [rpc_examples]
+|                                       |                   | 5) Try out: [grid_rpc_app]
+|                                       |                   | 6) Make a micro blockchain explorer<br>(based on [blocknr] and [wsblocks])<br>Store results here: [web3assignments]
 
 [general_day3]: ....
 [rpc_sh]:       https://ipfs.io/ipfs/Qmc46uZyVLJW8hoo7hhve7LJU34J1htNJP5ASjyjm7WEEt
@@ -271,7 +271,7 @@ This is the guiding material.
 
 [cryptozombies_1_Making_the_Zombie_Factory]:          https://cryptozombies.io/en/lesson/1/chapter/1
 [cryptozombies_2_Zombies_Attack_Their_Victims]:       https://cryptozombies.io/en/lesson/2/chapter/1
-[cryptozombies_3_Advanced_Solidity_Concepts]:         https://cryptozombies.io/en/lesson/3/chapter/1
+[cryptozombies_3_Adv_Sol_Con]:                        https://cryptozombies.io/en/lesson/3/chapter/1
 [cryptozombies_4_Zombie_Battle_System]:               https://cryptozombies.io/en/lesson/4/chapter/1
 [cryptozombies_5_ERC721_Crypto_Collectibles]:         https://cryptozombies.io/en/lesson/5/chapter/1
 [cryptozombies_6_App_Front_ends_Web3_js]:             https://cryptozombies.io/en/lesson/6/chapter/1
