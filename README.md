@@ -114,7 +114,7 @@ This is the guiding material.
 |                                                      |                   | 5) Try out: [grid_rpc_app]
 |                                                      |                   | 6) Make a micro blockchain explorer<br>(based on [blocknr] and [wsblocks])<br>Store results here: [web3assignments]
 
-[general_day3]:
+[general_day3]: ....
 [rpc_sh]:       https://ipfs.io/ipfs/Qmc46uZyVLJW8hoo7hhve7LJU34J1htNJP5ASjyjm7WEEt
 [install_sw]:   https://web3examples.com/ethereum/install/
 [rpc_examples]: http://web3examples.com/ethereum/rpc/
