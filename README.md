@@ -105,21 +105,25 @@ This is the guiding material.
 
 ([TOC](.)) Install chain software / Ganache / RPC interface / Management
 
-| Preparations                                         | Video & sheets  | Assignments                                                | Background info
-| -----------                                          | ----------      | -------------                                              | -----------
-| Follow: [cryptozombies_3_Advanced_Solidity_Concepts] | { to be added } | { to be added }                                            | [jsonrpc]
-|                                                      |                 | 1) Install curl (see [install_sw])
-|                                                      |                 | 2) Install node.js (see [install_sw])
-|                                                      |                 | 3) Install wscurl & wscat (see [install_sw])
-|                                                      |                 | 4) Try out: [rpc_examples]
-|                                                      |                 | 5) Make a micro blockchain explorer<br>(based on [blocknr] and [wsblocks])<br>Store results here: [web3assignments]
+| Preparations                                         | Video & sheets    | Assignments                                                | Background info
+| -----------                                          | ----------        | -------------                                              | -----------
+| Follow: [cryptozombies_3_Advanced_Solidity_Concepts] | { to be added }   | { to be added }                                            | [jsonrpc]
+|                                                      | 1) [general_day3] | 1) Install curl (see [install_sw])
+|                                                      | 2) [rpc_sh]       | 2) Install node.js (see [install_sw])
+|                                                      |                   | 3) Install wscurl & wscat (see [install_sw])
+|                                                      |                   | 4) Try out: [rpc_examples]
+|                                                      |                   | 5) Try out: [grid_rpc_app]
+|                                                      |                   | 6) Make a micro blockchain explorer<br>(based on [blocknr] and [wsblocks])<br>Store results here: [web3assignments]
 
-
+[general_day3]:
+[rpc_sh]:       https://ipfs.io/ipfs/Qmc46uZyVLJW8hoo7hhve7LJU34J1htNJP5ASjyjm7WEEt
 [install_sw]:   https://web3examples.com/ethereum/install/
 [rpc_examples]: http://web3examples.com/ethereum/rpc/
 [jsonrpc]:      https://github.com/ethereum/wiki/wiki/JSON-RPC
-[blocknr]:          https://web3examples.com/ethereum/rpc/blocknr.html
-[wsblocks]:         https://web3examples.com/ethereum/rpc/wsblocks.html
+[blocknr]:      https://web3examples.com/ethereum/rpc/blocknr.html
+[wsblocks]:     https://web3examples.com/ethereum/rpc/wsblocks.html
+[grid_rpc_app]: https://web3examples.com/grid-rpc-app/build/
+
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
