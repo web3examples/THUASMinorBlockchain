@@ -108,13 +108,11 @@ This is the guiding material.
 | Preparations                                         | Video & sheets  | Assignments                                                | Background info
 | -----------                                          | ----------      | -------------                                              | -----------
 | Follow: [cryptozombies_3_Advanced_Solidity_Concepts] | { to be added } | { to be added }                                            | [jsonrpc]
-|                                                      |                 | 1) Install sw, using 
 |                                                      |                 | 1) Install curl (see [install_sw])
 |                                                      |                 | 2) Install node.js (see [install_sw])
-|                                                      |                 | 3) Install wscurl (see [install_sw])
-|                                                      |                 | 4) Install wscat (see [install_sw])
-|                                                      |                 | 5) Try out: [rpc_examples]
-|                                                      |                 | 6) Make a micro blockchain explorer (bases on [blocknr] and [wsblocks])<br>Store results here: [web3assignments]
+|                                                      |                 | 3) Install wscurl & wscat (see [install_sw])
+|                                                      |                 | 4) Try out: [rpc_examples]
+|                                                      |                 | 5) Make a micro blockchain explorer<br>(based on [blocknr] and [wsblocks])<br>Store results here: [web3assignments]
 
 
 [install_sw]:   https://web3examples.com/ethereum/install/
