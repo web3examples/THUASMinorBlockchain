@@ -112,7 +112,7 @@ This is the guiding material.
 |                                       | 2) [rpc_sh]       | 3) Install wscurl & wscat (see [install_sw])
 |                                       |                   | 4) Try out: [rpc_examples]
 |                                       |                   | 5) Try out: [grid_rpc_app]
-|                                       |                   | 6) Make a micro blockchain explorer<br>(based on [blocknr] and [wsblocks])<br>Store results here: [web3assignments]
+|                                       |                   | 6) Show transaction info<br>(based on [blocknr] and [wsblocks])<br>Store results here: [web3assignments]
 
 [general_day3]: ....
 [rpc_sh]:       https://ipfs.io/ipfs/Qmc46uZyVLJW8hoo7hhve7LJU34J1htNJP5ASjyjm7WEEt
@@ -122,7 +122,6 @@ This is the guiding material.
 [blocknr]:      https://web3examples.com/ethereum/rpc/blocknr.html
 [wsblocks]:     https://web3examples.com/ethereum/rpc/wsblocks.html
 [grid_rpc_app]: https://web3examples.com/grid-rpc-app/build/
-
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
