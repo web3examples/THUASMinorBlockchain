@@ -129,7 +129,7 @@ This is the guiding material.
 
 
 [general_day3]: https://ipfs.io/ipfs/QmQfeyhqmBic1Etcg7iCre7Q1i3krsdXc5FrmmtQnmiiwh
-[rpc_sh]:       https://ipfs.io/ipfs/QmWSt5XjCwXKTsF3mqptjRdZVnRewXYbhgEAPr5NDxrDSP
+[rpc_sh]:       https://ipfs.io/ipfs/QmXN9UbxLxNym2Y42svqKMJiSScJXvma7kWBVmbuvMicne
 [testnet_sh]:   https://ipfs.io/ipfs/QmRzBbft8wgH1qtzydXYY6KT22antCdwnQYj1i9D1Kmm3m
 [chainsw_sh]:   https://ipfs.io/ipfs/QmcfgUutqGugzXr9AuFDje3H6YoKE5GF5uosgwy24MXcDU
 [install_sw]:   https://web3examples.com/ethereum/install/
