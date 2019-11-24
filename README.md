@@ -121,7 +121,7 @@ This is the guiding material.
 
 [general_day3]: ....
 [rpc_sh]:       https://ipfs.io/ipfs/Qmc46uZyVLJW8hoo7hhve7LJU34J1htNJP5ASjyjm7WEEt
-[testnet_sh]:   
+[testnet_sh]:   ....
 [install_sw]:   https://web3examples.com/ethereum/install/
 [rpc_examples]: http://web3examples.com/ethereum/rpc/
 [jsonrpc]:      https://github.com/ethereum/wiki/wiki/JSON-RPC
