@@ -110,18 +110,28 @@ This is the guiding material.
 | Follow: [cryptozombies_3_Adv_Sol_Con] | { to be added }   | 1) Install curl (see [install_sw])                         | [jsonrpc]
 |                                       | 1) [general_day3] | 2) Instal Build tools (see [install_sw])                   |
 |                                       | 2) [rpc_sh]       | 3) Install node.js (see [install_sw])
-|                                       |                   | 4) Install wscurl & wscat (see [install_sw])
-|                                       |                   | 5) Try out: [rpc_examples]
+|                                       | 3) [testnet_sh]   | 4) Install wscurl & wscat (see [install_sw])
+|                                       | 4) [inst_node_sh] | 5) Try out: [rpc_examples]
 |                                       |                   | 6) Try out: [grid_rpc_app]
 |                                       |                   | 7) Show transaction info<br>(based on [blocknr] and [wsblocks])<br>Store results here: [web3assignments]
-|                                       | 3) [testnet_sh]   | 8) Test curl, wscurl & rpc commands on other testworks
-|                                       | 4) [inst_node_sh] | 9) Install Ganache (see [install_sw])
+|                                       |                   | 8) Test curl, wscurl & rpc commands on other testworks
+|                                       |                   | 9) Install Ganache (see [install_sw])
 |                                       |                   | 10) Configure and test Ganache with curl, wscurl & rpc commands
-|                                       |                   | 11) Use Ethereum Play with Ganache
+|                                       |                   | 11) Tryout eth_accounts, eth_sendTransaction with ganache
+|                                       |                   | 12) Use Ethereum Play with Ganache
+|                                       |                   | 13) Stop Ganache (to prevent conflicts with Geth)
+|                                       |                   | 14) Install grid
+|                                       |                   | 15) Configure and start Geth
+|                                       |                   | 16) Test curl, wscurl & rpc commands on Geth
+|                                       |                   | 17) Test Grid explorer
+|                                       |                   | 18) Install Protheus and Grafana, configure and run.
+|                                       |                   | 19) Store screenshots of working geth, explorer &dashboard here: [web3assignments]
 
-[general_day3]: ....
-[rpc_sh]:       https://ipfs.io/ipfs/Qmc46uZyVLJW8hoo7hhve7LJU34J1htNJP5ASjyjm7WEEt
-[testnet_sh]:   ....
+
+[general_day3]: https://ipfs.io/ipfs/QmQfeyhqmBic1Etcg7iCre7Q1i3krsdXc5FrmmtQnmiiwh
+[rpc_sh]:       https://ipfs.io/ipfs/QmWSt5XjCwXKTsF3mqptjRdZVnRewXYbhgEAPr5NDxrDSP
+[testnet_sh]:   https://ipfs.io/ipfs/QmRzBbft8wgH1qtzydXYY6KT22antCdwnQYj1i9D1Kmm3m
+[chainsw_sh]:   https://ipfs.io/ipfs/QmcfgUutqGugzXr9AuFDje3H6YoKE5GF5uosgwy24MXcDU
 [install_sw]:   https://web3examples.com/ethereum/install/
 [rpc_examples]: http://web3examples.com/ethereum/rpc/
 [jsonrpc]:      https://github.com/ethereum/wiki/wiki/JSON-RPC
