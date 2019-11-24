@@ -116,7 +116,7 @@ This is the guiding material.
 |                                       |                   | 7) Show transaction info<br>(based on [blocknr] and [wsblocks])<br>Store results here: [web3assignments]
 |                                       |                   | 8) Test curl, wscurl & rpc commands on other testworks
 |                                       |                   | 9) Install Ganache (see [install_sw])
-|                                       |                   | 10) Configure and test Ganache with curl, wscurl & rpc commands
+|                                       |                   | 10) Configure and test Ganache with curl,<br>wscurl & rpc commands
 |                                       |                   | 11) Tryout eth_accounts, eth_sendTransaction with ganache
 |                                       |                   | 12) Use Ethereum Play with Ganache
 |                                       |                   | 13) Stop Ganache (to prevent conflicts with Geth)
@@ -125,7 +125,7 @@ This is the guiding material.
 |                                       |                   | 16) Test curl, wscurl & rpc commands on Geth
 |                                       |                   | 17) Test Grid explorer
 |                                       |                   | 18) Install Protheus and Grafana, configure and run.
-|                                       |                   | 19) Store screenshots of working geth, explorer &dashboard here: [web3assignments]
+|                                       |                   | 19) Store screenshots of working geth,<br>explorer &dashboard here: [web3assignments]
 
 
 [general_day3]: https://ipfs.io/ipfs/QmQfeyhqmBic1Etcg7iCre7Q1i3krsdXc5FrmmtQnmiiwh
