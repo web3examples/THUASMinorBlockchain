@@ -107,7 +107,7 @@ This is the guiding material.
 
 | Preparations                          | Video & sheets    | Assignments                                                | Background info
 | -----------                           | ----------        | -------------                                              | -----------
-| Follow: [cryptozombies_3_Adv_Sol_Con] | { to be added }   | 1) Install curl (see [install_sw])                         | [jsonrpc]
+| Follow:<br>[cryptozombies_3_Adv_Sol_Con] | { to be added }   | 1) Install curl (see [install_sw])                         | [jsonrpc]
 |                                       | 1) [general_day3] | 2) Instal Build tools (see [install_sw])                   |
 |                                       | 2) [rpc_sh]       | 3) Install node.js (see [install_sw])
 |                                       | 3) [testnet_sh]   | 4) Install wscurl & wscat (see [install_sw])
