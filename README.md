@@ -108,14 +108,20 @@ This is the guiding material.
 | Preparations                          | Video & sheets    | Assignments                                                | Background info
 | -----------                           | ----------        | -------------                                              | -----------
 | Follow: [cryptozombies_3_Adv_Sol_Con] | { to be added }   | 1) Install curl (see [install_sw])                         | [jsonrpc]
-|                                       | 1) [general_day3] | 2) Install node.js (see [install_sw])
-|                                       | 2) [rpc_sh]       | 3) Install wscurl & wscat (see [install_sw])
-|                                       |                   | 4) Try out: [rpc_examples]
-|                                       |                   | 5) Try out: [grid_rpc_app]
-|                                       |                   | 6) Show transaction info<br>(based on [blocknr] and [wsblocks])<br>Store results here: [web3assignments]
+|                                       | 1) [general_day3] | 2) Instal Build tools (see [install_sw])                   |
+|                                       | 2) [rpc_sh]       | 3) Install node.js (see [install_sw])
+|                                       |                   | 4) Install wscurl & wscat (see [install_sw])
+|                                       |                   | 5) Try out: [rpc_examples]
+|                                       |                   | 6) Try out: [grid_rpc_app]
+|                                       |                   | 7) Show transaction info<br>(based on [blocknr] and [wsblocks])<br>Store results here: [web3assignments]
+|                                       | 3) [testnet_sh]   | 8) Test curl, wscurl & rpc commands on other testworks
+|                                       | 4) [inst_node_sh] | 9) Install Ganache (see [install_sw])
+|                                       |                   | 10) Configure and test Ganache with curl, wscurl & rpc commands
+|                                       |                   | 11) Use Ethereum Play with Ganache
 
 [general_day3]: ....
 [rpc_sh]:       https://ipfs.io/ipfs/Qmc46uZyVLJW8hoo7hhve7LJU34J1htNJP5ASjyjm7WEEt
+[testnet_sh]:   
 [install_sw]:   https://web3examples.com/ethereum/install/
 [rpc_examples]: http://web3examples.com/ethereum/rpc/
 [jsonrpc]:      https://github.com/ethereum/wiki/wiki/JSON-RPC
