@@ -117,7 +117,7 @@ This is the guiding material.
 |                                       |                   | 8) Test curl, wscurl & rpc commands on other testworks
 |                                       |                   | 9) Install Ganache (see [install_sw])
 |                                       |                   | 10) Configure and test Ganache with curl,<br>wscurl & rpc commands
-|                                       |                   | 11) Tryout eth_accounts, eth_sendTransaction with ganache
+|                                       |                   | 11) Tryout eth_accounts, eth_sendTransaction with ganache (see [rpc_examples])
 |                                       |                   | 12) Use Ethereum Play with Ganache
 |                                       |                   | 13) Stop Ganache (to prevent conflicts with Geth)
 |                                       |                   | 14) Install grid
