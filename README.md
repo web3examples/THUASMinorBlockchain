@@ -145,13 +145,11 @@ This is the guiding material.
 
 ([TOC](.)) Node.js; ganache-cli; web3.js
 
-| Preparations                                               | Sheets          | Assignments<br>results here: [web3assignments]
-| -----------                                                | ----------      | -------------
-| If you don't know javascript: study javascript, via: [jws] or [jover]
+| Preparations                                                      | Sheets          | Assignments<br>results here: [web3assignments]
+| -----------                                                              | ----------      | -------------
+| If you don't know javascript: study javascript, via: [jws] or [jover]    | { to be added } | { to be added }
 | For everyone: study [jfeat]
-| Follow: [cryptozombies_4_Zombie_Battle_System]             | { to be added } | { to be added } 
 | { to be added }
-
 
 [jws]:    https://wizardamigos.com/workshop_app
 [jover]: https://web3examples.com/javascript/#overview
@@ -178,6 +176,7 @@ This is the guiding material.
 | Preparations                                               | Sheets          | Assignments<br>results here: [web3assignments]
 | -----------                                                | ----------      | -------------
 | Read: [mast_eth_11_Oracles]                      | { to be added } | { to be added } 
+| Follow: [cryptozombies_4_Zombie_Battle_System]
 | { to be added }
  
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
