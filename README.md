@@ -147,8 +147,15 @@ This is the guiding material.
 
 | Preparations                                               | Sheets          | Assignments<br>results here: [web3assignments]
 | -----------                                                | ----------      | -------------
+| If you don't know javascript: studie javascript, for example via: [jws] or [jover]
+| For everyone: study [jfeat]
 | Follow: [cryptozombies_4_Zombie_Battle_System]             | { to be added } | { to be added } 
 | { to be added }
+
+
+[jws]:    https://wizardamigos.com/workshop_app
+[jover]: https://web3examples.com/javascript/#overview
+[jfeat]:  https://web3examples.com/javascript/#features
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
