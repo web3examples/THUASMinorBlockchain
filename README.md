@@ -151,7 +151,8 @@ This is the guiding material.
 | For everyone: study [jfeat]                                              | [general_day4]  | Install web3.js (see [install_sw])
 |                                                                          | [javascript_sh] | Install vscode (see [install_sw])
 |                                                                          | [node_sh]       | Try out .js examples: [web3js_gh]
-|                                                                          | [webjs_sh]      | Make .js program to call functions<br>of own smartcontract<br>store here: [web3assignments]
+|                                                                          | [webjs_sh]      | Generate vanity address <br>(with >= 5 lead characters)<br>store here: [web3assignments]
+|                                                                          |                 | Make .js program to call functions<br>of own smartcontract<br>store here: [web3assignments]
 
 [jws]:              https://wizardamigos.com/workshop_app
 [jover]:            https://web3examples.com/javascript/#overview
