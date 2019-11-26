@@ -125,7 +125,7 @@ This is the guiding material.
 |                                           |                                | 16) Test curl, wscurl & rpc commands on Geth
 |                                           |                                | 17) Test Grid explorer
 |                                           |                                | 18) Install Protheus and Grafana, configure and run.
-|                                           |                                | 19) Store screenshots of working geth,<br>explorer &dashboard here: [web3assignments]
+|                                           |                                | 19) Store screenshots of working geth,<br>explorer dashboard here: [web3assignments]
 
 [record_day3]:  https://www.youtube.com/watch?v=dk8F_Zd-7wQ
 [general_day3]: https://ipfs.io/ipfs/QmQfeyhqmBic1Etcg7iCre7Q1i3krsdXc5FrmmtQnmiiwh
@@ -145,11 +145,13 @@ This is the guiding material.
 
 ([TOC](.)) Node.js; ganache-cli; web3.js
 
-| Preparations                                                             | Sheets          | Assignments<br>results here: [web3assignments]
-| -----------                                                              | ----------      | -------------
-| If you don't know javascript: study javascript, via: [jws] or [jover]    | { to be added } | { to be added }
-| For everyone: study [jfeat]                                              | [general_day4]
-| { to be added }                                                          | [javascript_sh]
+| Preparations                                                             | Video & sheets  | Assignments                           | Background info
+| -----------                                                              | ----------      | -------------                         | ---------------
+| If you don't know javascript: study javascript, via: [jws] or [jover]    | { to be added } | Install nodes (see [install_sw])      | [web3js_docs]
+| For everyone: study [jfeat]                                              | [general_day4]  | Install web3.js (see [install_sw])
+|                                                                          | [javascript_sh] | Install vscode (see [install_sw])
+|                                                                          | [node_sh]       | Try out examples (see [web3js_gh])
+|                                                                          | [webjs_sh]      | Make .js program to call functions<br>of own smartcontract<br>store .js here: [web3assignments]
 
 [jws]:    https://wizardamigos.com/workshop_app
 [jover]: https://web3examples.com/javascript/#overview
@@ -160,6 +162,10 @@ This is the guiding material.
 [javascript_sh]:    https://ipfs.io/ipfs/QmXUyKQi5mAgG35xzUyTgTAsv29H1i7DGU82eostokzGwq
 [node_sh]:          https://ipfs.io/ipfs/QmdKKtKX14eCBMvmv1WRZryZWAz2p9vPao4VKUvVcSt9YD
 [webjs_sh]:         https://ipfs.io/ipfs/QmaErVxoBu8tDK71KSgjN45YFMtt1G44LeiPpkkfoYrsZR
+
+[web3js_docs]:      https://web3js.readthedocs.io/en/latest
+
+[web3js_gh]:        http://web3examples.com/ethereum/web3js/
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
