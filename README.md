@@ -152,7 +152,9 @@ This is the guiding material.
 |                                                                          | [javascript_sh] | Install vscode (see [install_sw])
 |                                                                          | [node_sh]       | Try out .js examples: [web3js_gh]
 |                                                                          | [webjs_sh]      | Generate vanity address <br>(with >= 5 lead characters)<br>store here: [web3assignments]
+|                                                                          |                 | Deploy your smartcontact to ropsten (or simplified version)
 |                                                                          |                 | Make .js program to call functions<br>of own smartcontract<br>store here: [web3assignments]
+|                                                                          |                 | Add function to get emit/logs<br>of own smartcontract<br>store here: [web3assignments]
 
 [jws]:              https://wizardamigos.com/workshop_app
 [jover]:            https://web3examples.com/javascript/#overview
