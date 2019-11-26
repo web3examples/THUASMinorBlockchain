@@ -105,29 +105,29 @@ This is the guiding material.
 
 ([TOC](.)) Install chain software / Ganache / RPC interface / Management
 
-| Preparations                          | Video & sheets    | Assignments                                                | Background info
-| -----------                           | ----------        | -------------                                              | -----------
-| Follow:<br>[cryptozombies_3_Adv_Sol_Con] | { to be added }   | 1) Install curl (see [install_sw])                         | [jsonrpc]
-|                                       | 1) [general_day3] | 2) Instal Build tools (see [install_sw])                   |
-|                                       | 2) [rpc_sh]       | 3) Install node.js (see [install_sw])
-|                                       | 3) [testnet_sh]   | 4) Install wscurl & wscat (see [install_sw])
-|                                       | 4) [chainsw_sh]   | 5) Try out: [rpc_examples]
-|                                       |                   | 6) Try out: [grid_rpc_app]
-|                                       |                   | 7) Create html file to show transaction info (e.g. mini explorer)<br>(based on [blocknr] and [wsblocks])<br>Store results here: [web3assignments]
-|                                       |                   | 8) Test curl, wscurl & rpc commands on other testworks
-|                                       |                   | 9) Install Ganache (see [install_sw])
-|                                       |                   | 10) Configure and test Ganache with curl,<br>wscurl & rpc commands
-|                                       |                   | 11) Tryout eth_accounts, eth_sendTransaction with ganache (see [rpc_examples])
-|                                       |                   | 12) Use Ethereum Play with Ganache
-|                                       |                   | 13) Stop Ganache (to prevent conflicts with Geth)
-|                                       |                   | 14) Install grid
-|                                       |                   | 15) Configure and start Geth
-|                                       |                   | 16) Test curl, wscurl & rpc commands on Geth
-|                                       |                   | 17) Test Grid explorer
-|                                       |                   | 18) Install Protheus and Grafana, configure and run.
-|                                       |                   | 19) Store screenshots of working geth,<br>explorer &dashboard here: [web3assignments]
+| Preparations                              | Video & sheets                 | Assignments                                                | Background info
+| -----------                               | ----------                     | -------------                                              | -----------
+| Follow:<br>[cryptozombies_3_Adv_Sol_Con]  | [record_day3] (only afternoon) | 1) Install curl (see [install_sw])                         | [jsonrpc]
+|                                           | 1) [general_day3]              | 2) Instal Build tools (see [install_sw])                   |
+|                                           | 2) [rpc_sh]                    | 3) Install node.js (see [install_sw])
+|                                           | 3) [testnet_sh]                | 4) Install wscurl & wscat (see [install_sw])
+|                                           | 4) [chainsw_sh]                | 5) Try out: [rpc_examples]
+|                                           |                                | 6) Try out: [grid_rpc_app]
+|                                           |                                | 7) Create html file to show transaction info (e.g. mini explorer)<br>(based on [blocknr] and [wsblocks])<br>Store results here: [web3assignments]
+|                                           |                                | 8) Test curl, wscurl & rpc commands on other testworks
+|                                           |                                | 9) Install Ganache (see [install_sw])
+|                                           |                                | 10) Configure and test Ganache with curl,<br>wscurl & rpc commands
+|                                           |                                | 11) Tryout eth_accounts, eth_sendTransaction with ganache (see [rpc_examples])
+|                                           |                                | 12) Use Ethereum Play with Ganache
+|                                           |                                | 13) Stop Ganache (to prevent conflicts with Geth)
+|                                           |                                | 14) Install grid
+|                                           |                                | 15) Configure and start Geth
+|                                           |                                | 16) Test curl, wscurl & rpc commands on Geth
+|                                           |                                | 17) Test Grid explorer
+|                                           |                                | 18) Install Protheus and Grafana, configure and run.
+|                                           |                                | 19) Store screenshots of working geth,<br>explorer &dashboard here: [web3assignments]
 
-
+[record_day3]:  https://www.youtube.com/watch?v=dk8F_Zd-7wQ
 [general_day3]: https://ipfs.io/ipfs/QmQfeyhqmBic1Etcg7iCre7Q1i3krsdXc5FrmmtQnmiiwh
 [rpc_sh]:       https://ipfs.io/ipfs/QmXN9UbxLxNym2Y42svqKMJiSScJXvma7kWBVmbuvMicne
 [testnet_sh]:   https://ipfs.io/ipfs/QmRzBbft8wgH1qtzydXYY6KT22antCdwnQYj1i9D1Kmm3m
@@ -156,8 +156,10 @@ This is the guiding material.
 [jfeat]:  https://web3examples.com/javascript/#features
 
 
-[general_day4]: https://ipfs.io/ipfs/...
+[general_day4]:     https://ipfs.io/ipfs/QmUsFaNDzPX4owRjzuEyJCF1iH5c886TvXEuffzEGS9vcZ
 [javascript_sh]:    https://ipfs.io/ipfs/QmXUyKQi5mAgG35xzUyTgTAsv29H1i7DGU82eostokzGwq
+[node_sh]:          https://ipfs.io/ipfs/QmdKKtKX14eCBMvmv1WRZryZWAz2p9vPao4VKUvVcSt9YD
+[webjs_sh]:         https://ipfs.io/ipfs/QmaErVxoBu8tDK71KSgjN45YFMtt1G44LeiPpkkfoYrsZR
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
