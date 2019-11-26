@@ -145,15 +145,19 @@ This is the guiding material.
 
 ([TOC](.)) Node.js; ganache-cli; web3.js
 
-| Preparations                                                      | Sheets          | Assignments<br>results here: [web3assignments]
+| Preparations                                                             | Sheets          | Assignments<br>results here: [web3assignments]
 | -----------                                                              | ----------      | -------------
 | If you don't know javascript: study javascript, via: [jws] or [jover]    | { to be added } | { to be added }
-| For everyone: study [jfeat]
-| { to be added }
+| For everyone: study [jfeat]                                              | [general_day4]
+| { to be added }                                                          | [javascript_sh]
 
 [jws]:    https://wizardamigos.com/workshop_app
 [jover]: https://web3examples.com/javascript/#overview
 [jfeat]:  https://web3examples.com/javascript/#features
+
+
+[general_day4]: https://ipfs.io/ipfs/...
+[javascript_sh]:    https://ipfs.io/ipfs/QmXUyKQi5mAgG35xzUyTgTAsv29H1i7DGU82eostokzGwq
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
