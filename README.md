@@ -147,24 +147,20 @@ This is the guiding material.
 
 | Preparations                                                             | Video & sheets  | Assignments                           | Background info
 | -----------                                                              | ----------      | -------------                         | ---------------
-| If you don't know javascript: study javascript, via: [jws] or [jover]    | { to be added } | Install nodes (see [install_sw])      | [web3js_docs]
+| If you don't know javascript: study javascript, via: [jws] or [jover]    | { to be added } | Install node.js 12 (see [install_sw]) | [web3js_docs]
 | For everyone: study [jfeat]                                              | [general_day4]  | Install web3.js (see [install_sw])
 |                                                                          | [javascript_sh] | Install vscode (see [install_sw])
-|                                                                          | [node_sh]       | Try out examples (see [web3js_gh])
-|                                                                          | [webjs_sh]      | Make .js program to call functions<br>of own smartcontract<br>store .js here: [web3assignments]
+|                                                                          | [node_sh]       | Try out .js examples: [web3js_gh]
+|                                                                          | [webjs_sh]      | Make .js program to call functions<br>of own smartcontract<br>store here: [web3assignments]
 
-[jws]:    https://wizardamigos.com/workshop_app
-[jover]: https://web3examples.com/javascript/#overview
-[jfeat]:  https://web3examples.com/javascript/#features
-
-
+[jws]:              https://wizardamigos.com/workshop_app
+[jover]:            https://web3examples.com/javascript/#overview
+[jfeat]:            https://web3examples.com/javascript/#features
 [general_day4]:     https://ipfs.io/ipfs/QmUsFaNDzPX4owRjzuEyJCF1iH5c886TvXEuffzEGS9vcZ
 [javascript_sh]:    https://ipfs.io/ipfs/QmXUyKQi5mAgG35xzUyTgTAsv29H1i7DGU82eostokzGwq
 [node_sh]:          https://ipfs.io/ipfs/QmdKKtKX14eCBMvmv1WRZryZWAz2p9vPao4VKUvVcSt9YD
 [webjs_sh]:         https://ipfs.io/ipfs/QmaErVxoBu8tDK71KSgjN45YFMtt1G44LeiPpkkfoYrsZR
-
 [web3js_docs]:      https://web3js.readthedocs.io/en/latest
-
 [web3js_gh]:        http://web3examples.com/ethereum/web3js/
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
