@@ -94,7 +94,7 @@ This is the guiding material.
 
 [general_day2]: https://ipfs.io/ipfs/QmV8qyXsu73Znziv9ogGJ2ennYCVa5aXsDk9h2hDm2nd44
 [remix_sh]:     https://ipfs.io/ipfs/Qmd3ztpdNBxZUySJJG1vGXE1iLf49ao7VXQQzqdNvsoyvo
-[solidity_sh]:  https://ipfs.io/ipfs/Qma4k8Mq34BHrH849qi1Vp8yKyZmQuF5N8S1LXrVWt9cfj
+[solidity_sh]:  https://ipfs.io/ipfs/QmeW1T6LFMkFRKbf1wJWA94uacGiiLEoNQwxoroXqSTWS1
 [remix_ide]:    https://remix.ethereum.org/
 [remix_docs]:   https://remix-ide.readthedocs.io/en/latest/
 [remix_demos]:  http://web3examples.com/ethereum/demo/#remix
@@ -128,7 +128,7 @@ This is the guiding material.
 |                                           |                                | 19) Store screenshots of working geth,<br>explorer dashboard here: [web3assignments]
 
 [record_day3]:  https://www.youtube.com/watch?v=dk8F_Zd-7wQ
-[general_day3]: https://ipfs.io/ipfs/QmQfeyhqmBic1Etcg7iCre7Q1i3krsdXc5FrmmtQnmiiwh
+[general_day3]: https://ipfs.io/ipfs/QmRhFFwx67Ux9MG2YQT8UZzVTYJJp8dkf3TKQr7YvpCCrv
 [rpc_sh]:       https://ipfs.io/ipfs/QmXN9UbxLxNym2Y42svqKMJiSScJXvma7kWBVmbuvMicne
 [testnet_sh]:   https://ipfs.io/ipfs/QmRzBbft8wgH1qtzydXYY6KT22antCdwnQYj1i9D1Kmm3m
 [chainsw_sh]:   https://ipfs.io/ipfs/QmcfgUutqGugzXr9AuFDje3H6YoKE5GF5uosgwy24MXcDU
@@ -160,9 +160,9 @@ This is the guiding material.
 [jover]:            https://web3examples.com/javascript/#overview
 [jfeat]:            https://web3examples.com/javascript/#features
 [general_day4]:     https://ipfs.io/ipfs/QmUsFaNDzPX4owRjzuEyJCF1iH5c886TvXEuffzEGS9vcZ
-[javascript_sh]:    https://ipfs.io/ipfs/QmXUyKQi5mAgG35xzUyTgTAsv29H1i7DGU82eostokzGwq
+[javascript_sh]:    https://ipfs.io/ipfs/QmR6KNyC6JTESeUndJLmVmkNVJ68DXrTZ8bkWkD7FSUr82
 [node_sh]:          https://ipfs.io/ipfs/QmdKKtKX14eCBMvmv1WRZryZWAz2p9vPao4VKUvVcSt9YD
-[webjs_sh]:         https://ipfs.io/ipfs/QmaErVxoBu8tDK71KSgjN45YFMtt1G44LeiPpkkfoYrsZR
+[webjs_sh]:         https://ipfs.io/ipfs/QmemZgBfGpaNDV7AXQf8YfqrYpChPHYVgMVWmPLNZ6BWTZ
 [web3js_docs]:      https://web3js.readthedocs.io/en/latest
 [web3js_gh]:        http://web3examples.com/ethereum/web3js/
 
