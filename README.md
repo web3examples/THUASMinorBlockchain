@@ -172,15 +172,27 @@ This is the guiding material.
 
 ([TOC](.)) Web3.js in (mobile) browser
 
-| Preparations                                               | Sheets          | Assignments<br>results here: [web3assignments]
-| -----------                                                | ----------      | -------------
-| Read: [mast_eth_12_Decentralized_Applications]   | { to be added } | { to be added }   | [web3js_docs]
-| Follow: [cryptozombies_6_App_Front_ends_Web3_js]
-| { to be added }
+| Preparations                                     |  Sheets          | Assignments                                                                   | Background info
+| -----------                                      | ----------       | -------------                                                                 | ---
+| Read: [mast_eth_12_Decentralized_Applications]   | Video & sheets   | 1) Try out examples: [web3jsbr_gh]                                            | [web3js_docs]
+| Follow: [cryptozombies_6_App_Front_ends_Web3_js] | [general_day5]   | 2) Install opera (see [install_sw])                                           | [mmdocs]
+| { to be added }                                  | [webapps_sh]     | 3) Install metamask mobile (see [install_sw])
+|                                                  | [opera_sh]       | 4) Create website that interacts with your smart contract
+|                                                  | [mm_mobile_sh]   | 5) Detect account & network changes,<br>store screenshot: [web3assignments]
+|                                                  |                  | 6) Check it works with opera on pc,<br>store screenshot: [web3assignments]
+|                                                  |                  | 7) Check it works with opera on mobile,<br>store screenshot of photo: [web3assignments]
+|                                                  |                  | 8) Check it works with metamask mobile,<br>store screenshot of photo: [web3assignments]
+|                                                  |                  | 9) Store source here: [web3assignments] 
 
+[general_day5]: https://ipfs.io/ipfs/QmYUWZEXNMr9d2nyJjcnRccBHeakw6U237reVAgCDVR5zw
+[webapps_sh]:   https://ipfs.io/ipfs/QmWREVX668HeVVmKW2c3LkqgSPPX65pLL4Nc5cuNeDod2n
+[opera_sh]:     https://ipfs.io/ipfs/QmcyPjd8KLcUhdPnWhxddvo4L26sX1jTJQwaPUJr7xStwy
+[mm_mobile_sh]: https://ipfs.io/ipfs/QmQvZM9TjZZV6iTCVcrddFfjyjLs45cJUJfwkEJ5p77ref
 
-https://metamask.github.io/metamask-docs/
-https://metamask.github.io/metamask-docs/
+[web3jsbr_gh]:  http://web3examples.com/ethereum/web3js_browser
+
+[mmdocs]:   https://metamask.github.io/metamask-docs/
+
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
@@ -330,6 +342,7 @@ Here you can find other resources:
 [web3examples]:     https://web3examples.com
 [web3assignments]:  https://github.com/web3assignments
 [bettercodehub]:    https://github.com/web3assignments/bettercodehub
+
 
 
 
