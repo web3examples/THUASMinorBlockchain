@@ -176,7 +176,7 @@ This is the guiding material.
 | -----------                                      | ----------       | -------------                                                                 | ---
 | Read: [mast_eth_12_Decentralized_Applications]   | Video & sheets   | 1) Try out examples: [web3jsbr_gh]                                            | [web3js_docs]
 | Follow: [cryptozombies_6_App_Front_ends_Web3_js] | [general_day5]   | 2) Install opera (see [install_sw])                                           | [mmdocs]
-| { to be added }                                  | [webapps_sh]     | 3) Install metamask mobile (see [install_sw])
+|                                                  | [webapps_sh]     | 3) Install metamask mobile (see [install_sw])
 |                                                  | [opera_sh]       | 4) Create website that interacts with your smart contract
 |                                                  | [mm_mobile_sh]   | 5) Detect account & network changes,<br>store screenshot: [web3assignments]
 |                                                  |                  | 6) Check it works with opera on pc,<br>store screenshot: [web3assignments]
