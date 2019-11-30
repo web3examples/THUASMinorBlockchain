@@ -174,9 +174,13 @@ This is the guiding material.
 
 | Preparations                                               | Sheets          | Assignments<br>results here: [web3assignments]
 | -----------                                                | ----------      | -------------
-| Read: [mast_eth_12_Decentralized_Applications]   | { to be added } | { to be added } 
+| Read: [mast_eth_12_Decentralized_Applications]   | { to be added } | { to be added }   | [web3js_docs]
 | Follow: [cryptozombies_6_App_Front_ends_Web3_js]
 | { to be added }
+
+
+https://metamask.github.io/metamask-docs/
+https://metamask.github.io/metamask-docs/
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
