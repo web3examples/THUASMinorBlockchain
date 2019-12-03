@@ -147,7 +147,7 @@ This is the guiding material.
 
 | Preparations                                                             | Video & sheets  | Assignments                           | Background info
 | -----------                                                              | ----------      | -------------                         | ---------------
-| If you don't know javascript: study javascript, via: [jws] or [jover]    | { to be added } | Install node.js 12 (see [install_sw]) | [web3js_docs]
+| If you don't know javascript: study javascript, via: [jws] or [jover]    | [record_day4]   | Install node.js 12 (see [install_sw]) | [web3js_docs]
 | For everyone: study [jfeat]                                              | [general_day4]  | Install web3.js (see [install_sw])
 |                                                                          | [javascript_sh] | Install vscode (see [install_sw])
 |                                                                          | [node_sh]       | Try out .js examples: [web3js_gh]
@@ -166,15 +166,17 @@ This is the guiding material.
 [web3js_docs]:      https://web3js.readthedocs.io/en/latest
 [web3js_gh]:        http://web3examples.com/ethereum/web3js/
 
+[record_day4]: https://youtu.be/5sfDFGWQzZI
+
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ### Day 5 Mon: 2-12-2019
 
 ([TOC](.)) Web3.js in (mobile) browser
 
-| Preparations                                     |  Sheets          | Assignments                                                                   | Background info
+| Preparations                                     |  Video & sheets  | Assignments                                                                   | Background info
 | -----------                                      | ----------       | -------------                                                                 | ---
-| Read: [mast_eth_12_Decentralized_Applications]   | Video & sheets   | 1) Try out examples: [web3jsbr_gh]                                            | [web3js_docs]
+| Read: [mast_eth_12_Decentralized_Applications]   | [record_day5]    | 1) Try out examples: [web3jsbr_gh]                                            | [web3js_docs]
 | Follow: [cryptozombies_6_App_Front_ends_Web3_js] | [general_day5]   | 2) Install opera (see [install_sw])                                           | [mmdocs]
 |                                                  | [webapps_sh]     | 3) Install metamask mobile (see [install_sw])
 |                                                  | [opera_sh]       | 4) Create website that interacts with your smart contract
@@ -183,7 +185,7 @@ This is the guiding material.
 |                                                  |                  | 7) Check it works with opera on mobile,<br>store screenshot of photo: [web3assignments]
 |                                                  |                  | 8) Check it works with metamask mobile,<br>store screenshot of photo: [web3assignments]
 |                                                  |                  | 9) Store source here: [web3assignments] 
-
+[record_day5]:  https://youtu.be/epzXSfd4SiY
 [general_day5]: https://ipfs.io/ipfs/QmYUWZEXNMr9d2nyJjcnRccBHeakw6U237reVAgCDVR5zw
 [webapps_sh]:   https://ipfs.io/ipfs/QmWREVX668HeVVmKW2c3LkqgSPPX65pLL4Nc5cuNeDod2n
 [opera_sh]:     https://ipfs.io/ipfs/QmcyPjd8KLcUhdPnWhxddvo4L26sX1jTJQwaPUJr7xStwy
@@ -198,93 +200,102 @@ This is the guiding material.
 
 ### Day 6 Wed: 4-12-2019
 
-([TOC](.)) Truffle / Logevent / Oracle
+([TOC](.)) Summarize everything sofar 
 
 | Preparations                                               | Sheets          | Assignments<br>results here: [web3assignments]
 | -----------                                                | ----------      | -------------
-| Read: [mast_eth_11_Oracles]                      | { to be added } | { to be added } 
-| Follow: [cryptozombies_4_Zombie_Battle_System]
-| { to be added }
+| { to be added }                                            | { to be added } | See assignments of day 5
+|                                                            | [general_day6]  |
+|                                                            | [repeat_sh]     |
+|                                                            | [end2end_sh]
+ 
+ [general_day6]: https://ipfs.io/ipfs/Qmb7qSBKCL133La5J8rsYRWXZD2fvCr2cruBHdaLCb4ejv - Day 6 - General.pdf
+ [repeat_sh]:    https://ipfs.io/ipfs/QmXhLRQEP9KCi2Hh4siSUhH18FmNGq2PWNLfr15a1iZGsq - Day 6 - Repeat.pdf
+ [end2end_sh]:   https://ipfs.io/ipfs/QmU1YWpohLqq4h8b3MTJXf3tppmXM3GCW3kGwH8UqGdYqn - Day 6 - End2End.pdf
+ 
+ 
  
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
  
 ### Day 7 Mon: 9-12-2019
 
-([TOC](.)) Solidity best practices / upgradability
+([TOC](.)) Truffle / Oracle
 
 | Preparations                                               | Sheets          | Assignments<br>results here: [web3assignments]
 | -----------                                                | ----------      | -------------
+| Read: [mast_eth_11_Oracles]                      | { to be added } | { to be added } 
+| Follow: [cryptozombies_4_Zombie_Battle_System]
 | { to be added }                                            | { to be added } | { to be added } 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ### Day 8 Wed: 11-12-2019
 
-([TOC](.)) Tokens (ERC20 / ERC721)
+([TOC](.)) Solidity best practices / upgradability 
 
 | Preparations                                               | Sheets          | Assignments<br>results here: [web3assignments]
 | -----------                                                | ----------      | -------------
-| Follow: [cryptozombies_5_ERC721_Crypto_Collectibles]       | { to be added } | { to be added } 
-| Read: [mast_eth_10_Tokens]
 | { to be added }
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ### Day 9 Mon: 16-12-2019
 
-([TOC](.)) IPFS
+([TOC](.)) Tokens (ERC20 / ERC721) 
 
 | Preparations                                               | Sheets          | Assignments<br>results here: [web3assignments]
 | -----------                                                | ----------      | -------------
+| Follow: [cryptozombies_5_ERC721_Crypto_Collectibles]       | { to be added } | { to be added } 
+| Read: [mast_eth_10_Tokens]
 | { to be added }                                            | { to be added } | { to be added } 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ### Day 10 Wed: 18-12-2019
 
-([TOC](.)) Security & Key management
+([TOC](.)) IPFS 
 
 | Preparations                                               | Sheets          | Assignments<br>results here: [web3assignments]
 | -----------                                                | ----------      | -------------
-| Follow: [mast_eth_09_Smart_contract_Security]    | { to be added } | { to be added } 
 | { to be added }
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ### Day 11 Mon: 6-1-2020
 
-([TOC](.)) Testing / code quality / natpec / verify / audit
+([TOC](.)) Security & Key management 
 
 | Preparations                                               | Sheets          | Assignments<br>results here: [web3assignments]
 | -----------                                                | ----------      | -------------
+| Follow: [mast_eth_09_Smart_contract_Security]    | { to be added } | { to be added } 
 | { to be added }                                            | { to be added } | { to be added } 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ### Day 12 Wed: 8-1-2020
 
-([TOC](.)) Ethereum Name Service
+([TOC](.)) Testing / code quality / natpec / verify / audit 
 
 | Preparations                                               | Sheets          | Assignments<br>results here: [web3assignments]
 | -----------                                                | ----------      | -------------
-| Follow: [mast_eth_12_Decentralized_Applications] | { to be added } | { to be added } 
 | { to be added }
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ### Day 13 Mon: 13-1-2020
 
-([TOC](.)) Other building blocks
+([TOC](.)) Ethereum Name Service
 
 | Preparations                                               | Sheets          | Assignments<br>results here: [web3assignments]
 | -----------                                                | ----------      | -------------
+| Follow: [mast_eth_12_Decentralized_Applications] | { to be added } | { to be added } 
 | { to be added }                                            | { to be added } | { to be added } 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ### Day 14 Wed: 15-1-2020
 
-([TOC](.)) Combine everything
+([TOC](.)) Other building blocks 
 
 | Preparations                                               | Sheets          | Assignments<br>results here: [web3assignments]
 | -----------                                                | ----------      | -------------
@@ -294,7 +305,7 @@ This is the guiding material.
 
 ### Day 15 Wed: 22-1-2020
 
-([TOC](.)) Spare
+([TOC](.)) Combine everything
 
 | Preparations                                               | Sheets          | Assignments<br>results here: [web3assignments]
 | -----------                                                | ----------      | -------------
