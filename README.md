@@ -210,9 +210,9 @@ This is the guiding material.
 |                                                            | [repeat_sh]     |
 |                                                            | [end2end_sh]
  
- [general_day6]: https://ipfs.io/ipfs/Qmb7qSBKCL133La5J8rsYRWXZD2fvCr2cruBHdaLCb4ejv - Day 6 - General.pdf
- [repeat_sh]:    https://ipfs.io/ipfs/QmXhLRQEP9KCi2Hh4siSUhH18FmNGq2PWNLfr15a1iZGsq - Day 6 - Repeat.pdf
- [end2end_sh]:   https://ipfs.io/ipfs/QmU1YWpohLqq4h8b3MTJXf3tppmXM3GCW3kGwH8UqGdYqn - Day 6 - End2End.pdf
+ [general_day6]: https://ipfs.io/ipfs/Qmb7qSBKCL133La5J8rsYRWXZD2fvCr2cruBHdaLCb4ejv
+ [repeat_sh]:    https://ipfs.io/ipfs/QmXhLRQEP9KCi2Hh4siSUhH18FmNGq2PWNLfr15a1iZGsq
+ [end2end_sh]:   https://ipfs.io/ipfs/QmU1YWpohLqq4h8b3MTJXf3tppmXM3GCW3kGwH8UqGdYqn
  
  
  
