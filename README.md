@@ -205,10 +205,13 @@ This is the guiding material.
 
 | Preparations      | Sheets          | Assignments                  
 | -----------       | ----------      | -------------
-|                   | { to be added } | See assignments of day 5
+|                   | [record_day6a]  | See assignments of day 5
 |                   | [general_day6]  |
 |                   | [repeat_sh]     |
 |                   | [end2end_sh]
+ 
+ 
+ [record_day6a]: https://youtu.be/4L_XOuG1xls
  
  [general_day6]: https://ipfs.io/ipfs/Qmb7qSBKCL133La5J8rsYRWXZD2fvCr2cruBHdaLCb4ejv
  [repeat_sh]:    https://ipfs.io/ipfs/QmXhLRQEP9KCi2Hh4siSUhH18FmNGq2PWNLfr15a1iZGsq
