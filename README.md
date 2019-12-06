@@ -203,30 +203,32 @@ This is the guiding material.
 
 ([TOC](.)) Summarize everything sofar 
 
-| Preparations                                               | Sheets          | Assignments<br>results here: [web3assignments]
-| -----------                                                | ----------      | -------------
-| { to be added }                                            | { to be added } | See assignments of day 5
-|                                                            | [general_day6]  |
-|                                                            | [repeat_sh]     |
-|                                                            | [end2end_sh]
+| Preparations      | Sheets          | Assignments                  
+| -----------       | ----------      | -------------
+|                   | { to be added } | See assignments of day 5
+|                   | [general_day6]  |
+|                   | [repeat_sh]     |
+|                   | [end2end_sh]
  
  [general_day6]: https://ipfs.io/ipfs/Qmb7qSBKCL133La5J8rsYRWXZD2fvCr2cruBHdaLCb4ejv
  [repeat_sh]:    https://ipfs.io/ipfs/QmXhLRQEP9KCi2Hh4siSUhH18FmNGq2PWNLfr15a1iZGsq
  [end2end_sh]:   https://ipfs.io/ipfs/QmU1YWpohLqq4h8b3MTJXf3tppmXM3GCW3kGwH8UqGdYqn
  
- 
- 
+  
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
  
 ### Day 7 Mon: 9-12-2019
 
 ([TOC](.)) Truffle / Oracle
 
-| Preparations                                               | Sheets          | Assignments<br>results here: [web3assignments]
-| -----------                                                | ----------      | -------------
-| Read: [mast_eth_11_Oracles]                      | { to be added } | { to be added } 
-| Follow: [cryptozombies_4_Zombie_Battle_System]
-| { to be added }                                            | { to be added } | { to be added } 
+| Preparations                                               | Sheets          | Assignments                          | Background info
+| -----------                                                | ----------      | -------------                        | ---------------
+| Read: [mast_eth_11_Oracles]                                | { to be added } | 1) Instal truffle (see [install_sw]) | [truffle_docs]
+| Follow: [cryptozombies_4_Zombie_Battle_System]             |
+
+
+[truffle_docs]: https://www.trufflesuite.com/docs/truffle/overview
+
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
