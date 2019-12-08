@@ -201,17 +201,19 @@ This is the guiding material.
 
 ### Day 6 Wed: 4-12-2019
 
-([TOC](.)) Summarize everything sofar 
+([TOC](.)) Summarize everything sofar.
+The second part is an interactive coding session.
 
-| Preparations      | Sheets          | Assignments                  
-| -----------       | ----------      | -------------
-|                   | [record_day6a]  | See assignments of day 5
-|                   | [general_day6]  |
-|                   | [repeat_sh]     |
+| Preparations      | Sheets                             | Assignments                  
+| -----------       | ----------                         | -------------
+|                   | [record_day6a]<br>[record_day6b]   | See assignments of day 5
+|                   | [general_day6]                  
+|                   | [repeat_sh]      
 |                   | [end2end_sh]
  
  
  [record_day6a]: https://youtu.be/4L_XOuG1xls
+ [record_day6b]: https://www.youtube.com/watch?v=vQgHDqP5dE8
  
  [general_day6]: https://ipfs.io/ipfs/Qmb7qSBKCL133La5J8rsYRWXZD2fvCr2cruBHdaLCb4ejv
  [repeat_sh]:    https://ipfs.io/ipfs/QmXhLRQEP9KCi2Hh4siSUhH18FmNGq2PWNLfr15a1iZGsq
@@ -224,13 +226,29 @@ This is the guiding material.
 
 ([TOC](.)) Truffle / Oracle
 
-| Preparations                                               | Sheets          | Assignments                          | Background info
-| -----------                                                | ----------      | -------------                        | ---------------
-| Read: [mast_eth_11_Oracles]                                | { to be added } | 1) Instal truffle (see [install_sw]) | [truffle_docs]
-| Follow: [cryptozombies_4_Zombie_Battle_System]             |
+| Preparations                                               | Sheets          | Assignments                                            | Background info
+| -----------                                                | ----------      | -------------                                          | ---------------
+| Read: [mast_eth_11_Oracles]                                | { to be added } | 1) Instal truffle (see [install_sw])                   | [truffle_docs]
+|                                                            |                 | 2) Install hdwallet-provider 
+|                                                            |                 | 3) Install bip39
+|                                                            |                 | 4) Create mnemonic
+|                                                            |                 | 5) Adapt truffle-config.js, using the mnemonic
+| Follow: [cryptozombies_4_Zombie_Battle_System]             |                 | 6) Experiment with truffle
+|                                                            |                 | 7) Adapt your smart contract to work with truffle
+| Watch: [provable_video]                                    |                 | 8) Watch: [provable_video]                              | [provable_docs]
+|                                                            |                 | 9) Experiment with provable in remix (see [provable_ex])
+|                                                            |                 | 10)Experiment with provable in truffle (see [provable_truffle])
+|                                                            |                 | 11) Adapt your smart contract to use an oracle & truffle
+|                                                            |                 | 12) Store resulting directory tree here: [web3assignments]
 
 
-[truffle_docs]: https://www.trufflesuite.com/docs/truffle/overview
+[truffle_docs]:     https://www.trufflesuite.com/docs/truffle/overview
+[provable_video]:   https://www.youtube.com/channel/UCjVjCheDbMel-x-JYeGazcQ/featured
+[provable_docs]:    https://docs.provable.xyz
+
+[provable_ex]:      https://github.com/provable-things/ethereum-examples/tree/master/solidity
+
+[provable_truffle]: https://github.com/provable-things/ethereum-examples/tree/master/solidity/truffle-examples
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
