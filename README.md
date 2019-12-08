@@ -230,7 +230,7 @@ The second part is an interactive coding session.
 | -----------                                                | ----------      | -------------                                          | ---------------
 | Read: [mast_eth_11_Oracles]                                | { to be added } | 1) Instal truffle (see [install_sw])                   | [truffle_docs]
 | Follow: [cryptozombies_4_Zombie_Battle_System]             | [general_day7]  | 2) Install hdwallet-provider (see [install_sw])
-|                                                            | [truffle+_sh]   | 3) Install bip39 (see [install_sw])
+|                                                            | [truffle_sh]    | 3) Install bip39 (see [install_sw])
 |                                                            | [truffle_pack]  | 4) Create mnemonic
 |                                                            | [oracles_sh]    | 5) Signup for a Infura key (see[infura_reg])
 |                                                            |                 | 6) Adapt truffle-config.js, refer secrets
@@ -245,7 +245,7 @@ The second part is an interactive coding session.
 
  
 [general_day7]: https://ipfs.io/ipfs/QmdZxD2TDSsQKd7ezecwSsofh7KNtthvLra8CR1z2qpxxT
-[truffle+_sh]:  https://ipfs.io/ipfs/QmZhQeQbSP6A6XZgBVFpMsMZPEK1XY1Qh2tXVHgKHEKN6x
+[truffle_sh]:   https://ipfs.io/ipfs/QmZhQeQbSP6A6XZgBVFpMsMZPEK1XY1Qh2tXVHgKHEKN6x
 [truffle_pack]: https://ipfs.io/ipfs/QmYTcdhehmbcYuLhFTQ23nrFz2S3xkrDiwSwwxQEL1q57t
 [oracles_sh]:   https://ipfs.io/ipfs/QmdjfE1vfnt9qFvTSPPBGGxrXs831ph1aVqMYrrzFfd2z5
 
