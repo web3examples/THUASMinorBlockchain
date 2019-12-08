@@ -229,19 +229,27 @@ The second part is an interactive coding session.
 | Preparations                                               | Sheets          | Assignments                                            | Background info
 | -----------                                                | ----------      | -------------                                          | ---------------
 | Read: [mast_eth_11_Oracles]                                | { to be added } | 1) Instal truffle (see [install_sw])                   | [truffle_docs]
-|                                                            |                 | 2) Install hdwallet-provider (see [install_sw])
-|                                                            |                 | 3) Install bip39 (see [install_sw])
-|                                                            |                 | 4) Create mnemonic
-|                                                            |                 | 5) Adapt truffle-config.js, refer to the mnemonic
-|                                                            |                 | 6) Transfer test eth to account of mnemonic
-| Follow: [cryptozombies_4_Zombie_Battle_System]             |                 | 7) Experiment with truffle
-|                                                            |                 | 8) Adapt your smart contract to work with truffle
-| Watch: [provable_video]                                    |                 | 9) Watch videos: [provable_video]                      | [provable_docs]
-|                                                            |                 | 10) Experiment with provable in remix (see [provable_ex])
-|                                                            |                 | 11) Experiment with provable in truffle (see [provable_truffle])
-|                                                            |                 | 12) Adapt your smart contract to use an oracle & truffle
-|                                                            |                 | 13) Store resulting directory tree here: [web3assignments]
+| Follow: [cryptozombies_4_Zombie_Battle_System]             | [general_day7]  | 2) Install hdwallet-provider (see [install_sw])
+|                                                            | [truffle+_sh]   | 3) Install bip39 (see [install_sw])
+|                                                            | [truffle_pack]  | 4) Create mnemonic
+|                                                            | [oracles_sh]    | 5) Signup for a Infura key (see[infura_reg])
+|                                                            |                 | 6) Adapt truffle-config.js, refer secrets
+|                                                            |                 | 7) Transfer test eth to account of mnemonic
+|                                                            |                 | 8) Experiment with truffle
+|                                                            |                 | 9) Adapt your smart contract to work with truffle
+| Watch: [provable_video]                                    |                 | 10) Watch videos: [provable_video]                      | [provable_docs]
+|                                                            |                 | 11) Experiment with provable in remix (see [provable_ex])
+|                                                            |                 | 12) Experiment with provable in truffle (see [provable_truffle])
+|                                                            |                 | 13) Adapt your smart contract to use an oracle & truffle
+|                                                            |                 | 14) Store resulting directory tree here: [web3assignments]
 
+ 
+[general_day7]: https://ipfs.io/ipfs/QmdZxD2TDSsQKd7ezecwSsofh7KNtthvLra8CR1z2qpxxT
+[truffle+_sh]:  https://ipfs.io/ipfs/QmZhQeQbSP6A6XZgBVFpMsMZPEK1XY1Qh2tXVHgKHEKN6x
+[truffle_pack]: https://ipfs.io/ipfs/QmYTcdhehmbcYuLhFTQ23nrFz2S3xkrDiwSwwxQEL1q57t
+[oracles_sh]:   https://ipfs.io/ipfs/QmdjfE1vfnt9qFvTSPPBGGxrXs831ph1aVqMYrrzFfd2z5
+
+[infura_reg]:   https://infura.io/register
 
 [truffle_docs]:     https://www.trufflesuite.com/docs/truffle/overview
 [provable_video]:   https://www.youtube.com/channel/UCjVjCheDbMel-x-JYeGazcQ/featured
