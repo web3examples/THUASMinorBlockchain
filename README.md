@@ -229,17 +229,18 @@ The second part is an interactive coding session.
 | Preparations                                               | Sheets          | Assignments                                            | Background info
 | -----------                                                | ----------      | -------------                                          | ---------------
 | Read: [mast_eth_11_Oracles]                                | { to be added } | 1) Instal truffle (see [install_sw])                   | [truffle_docs]
-|                                                            |                 | 2) Install hdwallet-provider 
-|                                                            |                 | 3) Install bip39
+|                                                            |                 | 2) Install hdwallet-provider (see [install_sw])
+|                                                            |                 | 3) Install bip39 (see [install_sw])
 |                                                            |                 | 4) Create mnemonic
-|                                                            |                 | 5) Adapt truffle-config.js, using the mnemonic
-| Follow: [cryptozombies_4_Zombie_Battle_System]             |                 | 6) Experiment with truffle
-|                                                            |                 | 7) Adapt your smart contract to work with truffle
-| Watch: [provable_video]                                    |                 | 8) Watch: [provable_video]                              | [provable_docs]
-|                                                            |                 | 9) Experiment with provable in remix (see [provable_ex])
-|                                                            |                 | 10)Experiment with provable in truffle (see [provable_truffle])
-|                                                            |                 | 11) Adapt your smart contract to use an oracle & truffle
-|                                                            |                 | 12) Store resulting directory tree here: [web3assignments]
+|                                                            |                 | 5) Adapt truffle-config.js, refer to the mnemonic
+|                                                            |                 | 6) Transfer test eth to account of mnemonic
+| Follow: [cryptozombies_4_Zombie_Battle_System]             |                 | 7) Experiment with truffle
+|                                                            |                 | 8) Adapt your smart contract to work with truffle
+| Watch: [provable_video]                                    |                 | 9) Watch videos: [provable_video]                      | [provable_docs]
+|                                                            |                 | 10) Experiment with provable in remix (see [provable_ex])
+|                                                            |                 | 11) Experiment with provable in truffle (see [provable_truffle])
+|                                                            |                 | 12) Adapt your smart contract to use an oracle & truffle
+|                                                            |                 | 13) Store resulting directory tree here: [web3assignments]
 
 
 [truffle_docs]:     https://www.trufflesuite.com/docs/truffle/overview
