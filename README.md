@@ -226,7 +226,7 @@ The second part is an interactive coding session.
 
 ([TOC](.)) Truffle / Oracle
 
-| Preparations                                               | Sheets          | Assignments                                            | Background info
+| Preparations                                               | Video & sheets  | Assignments                                            | Background info
 | -----------                                                | ----------      | -------------                                          | ---------------
 | Read: [mast_eth_11_Oracles]                                | { to be added } | 1) Instal truffle (see [install_sw])                   | [truffle_docs]
 | Follow: [cryptozombies_4_Zombie_Battle_System]             | [general_day7]  | 2) Install hdwallet-provider (see [install_sw])
