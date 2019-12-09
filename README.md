@@ -229,7 +229,7 @@ The second part is an interactive coding session.
 | Preparations                                               | Video & sheets  | Assignments                                            | Background info
 | -----------                                                | ----------      | -------------                                          | ---------------
 | Read: [mast_eth_11_Oracles]                                | { to be added } | 1) Instal truffle (see [install_sw])                   | [truffle_docs]
-| Follow: [cryptozombies_4_Zombie_Battle_System]             | [general_day7]  | 2) Install hdwallet-provider (see [install_sw])
+| Follow: [cryptozombies_4_Zombie_Battle_System]             | [general_day7]  | 2) Install git cmdline and hdwallet-provider (see [install_sw])
 |                                                            | [truffle_sh]    | 3) Install bip39 (see [install_sw])
 |                                                            | [truffle_pack]  | 4) Create mnemonic
 |                                                            | [oracles_sh]    | 5) Signup for a Infura key (see[infura_reg])
