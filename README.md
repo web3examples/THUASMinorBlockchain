@@ -266,9 +266,25 @@ The second part is an interactive coding session.
 
 ([TOC](.)) Solidity best practices / upgradability 
 
-| Preparations                                               | Sheets          | Assignments<br>results here: [web3assignments]
-| -----------                                                | ----------      | -------------
-| { to be added }
+| Preparations         | Video & sheets  | Assignments                                                                                                | Background info
+| -----------          | ----------      | -------------                                                                                              |-------------------
+|  See background info | { to be added } | results here: [web3assignments]                                                                            | [consensys_best]   
+|                      |                 | 1) Scan the background info documents<br> goal: be aware of the different pattern areas                    | [maxwoe_pattern]
+|                      |                 | 2) Try out the pattern examples<br>(see [pattern_ex])                                                      | [i6mi6_pattern]
+|                      |                 | 3) Select an upgrade mechanism +<br>1 other pattern,<br>store arguments in [web3assignments]               | [fravoll_pattern]
+|                      |                 | 4) Implement upgrade mechanism +<br>1 other pattern in your smart contracts, <br>store: [web3assignments]  | [scottworks_pattern]|                       
+|                      |                 | 5) Verify you smart contract on etherscan,<br>store prove: [web3assignments]                               | [sol_pattern]                                                             | [sol_pattern]  
+|                      |                 |                                                                                                            | [pautasso]
+
+[pattern_ex]:           http://web3examples.com/ethereum/pattern_examples/
+[consensys_best]:       https://consensys.github.io/smart-contract-best-practices/recommendations/
+[maxwoe_pattern]:       https://github.com/maxwoe/solidity_patterns
+[i6mi6_pattern]:        https://medium.com/@i6mi6/solidty-smart-contracts-design-patterns-ecfa3b1e9784
+[fravoll_pattern]:      https://fravoll.github.io/solidity-patterns/
+[scottworks_pattern]:   https://medium.com/@scottworks/2-meme-bounty-design-pattern-decisions-23f33a7a15da
+[sol_pattern]:          https://solidity.readthedocs.io/en/latest/common-patterns.html
+[pautasso]:             http://www.pautasso.info/biblio-pdf/blockchain-europlop2018.pdf
+
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
