@@ -268,12 +268,12 @@ The second part is an interactive coding session.
 
 | Preparations         | Video & sheets  | Assignments                                                                                                | Background info
 | -----------          | ----------      | -------------                                                                                              |-------------------
-|  See background info | { to be added } | results here: [web3assignments]                                                                            | [consensys_best]   
-|                      |                 | 1) Scan the background info documents<br> goal: be aware of the different pattern areas                    | [maxwoe_pattern]
-|                      |                 | 2) Try out the pattern examples<br>(see [pattern_ex])                                                      | [i6mi6_pattern]
-|                      |                 | 3) Select an upgrade mechanism +<br>1 other pattern,<br>store arguments in [web3assignments]               | [fravoll_pattern]
-|                      |                 | 4) Implement upgrade mechanism +<br>1 other pattern in your smart contracts, <br>store: [web3assignments]  | [scottworks_pattern]|                       
-|                      |                 | 5) Verify you smart contract on etherscan,<br>store prove: [web3assignments]                               | [sol_pattern]                                                             | [sol_pattern]  
+|  See background info | { to be added } | 1) Scan the background info documents<br> goal: be aware of the different pattern areas                    | [consensys_best]   
+|                      |                 | 2) Try out the pattern examples<br>(see [pattern_ex])                                                      | [maxwoe_pattern]
+|                      |                 | 3) Select an upgrade mechanism +<br>1 other pattern,<br>store arguments in [web3assignments]               | [i6mi6_pattern]
+|                      |                 | 4) Implement upgrade mechanism +<br>1 other pattern in your smart contracts, <br>store: [web3assignments]  | [fravoll_pattern]
+|                      |                 | 5) Verify you smart contract on etherscan,<br>store prove: [web3assignments]                               | [scottworks_pattern]
+|                      |                 |                                                                                                            | [sol_pattern]
 |                      |                 |                                                                                                            | [pautasso]
 
 [pattern_ex]:           http://web3examples.com/ethereum/pattern_examples/
