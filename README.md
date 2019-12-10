@@ -269,12 +269,15 @@ The second part is an interactive coding session.
 | Preparations         | Video & sheets  | Assignments                                                                                                | Background info
 | -----------          | ----------      | -------------                                                                                              |-------------------
 |  See background info | { to be added } | 1) Scan the background info documents<br> goal: be aware of the different pattern areas                    | [consensys_best]   
-|                      |                 | 2) Try out the pattern examples<br>(see [pattern_ex])                                                      | [maxwoe_pattern]
-|                      |                 | 3) Select an upgrade mechanism and<br>one (1) other pattern store arguments<br>in [web3assignments]               | [i6mi6_pattern]
+|                      | [general_day8]  | 2) Try out the pattern examples<br>(see [pattern_ex])                                                      | [maxwoe_pattern]
+|                      | [patterns_sh]   | 3) Select an upgrade mechanism and<br>one (1) other pattern store arguments<br>in [web3assignments]               | [i6mi6_pattern]
 |                      |                 | 4) Implement upgrade mechanism and<br>one (1) other pattern in your smart contracts, <br>store results in [web3assignments]  | [fravoll_pattern]
 |                      |                 | 5) Verify you smart contract on etherscan,<br>store prove: [web3assignments]                               | [scottworks_pattern]
 |                      |                 |                                                                                                            | [sol_pattern]
 |                      |                 |                                                                                                            | [pautasso]
+
+[general_day8]:         https://ipfs.io/ipfs/QmRx3V4RPu4S7ZKr47fHufw1wgBaGszTTWnWfuAdzEB167
+[patterns_sh]:          https://ipfs.io/ipfs/QmbYSAWc2uj7hCFHPhpJ7Ncxh4FgtnXnc9KXGdUyLV9vu7
 
 [pattern_ex]:           http://web3examples.com/ethereum/pattern_examples/
 [consensys_best]:       https://consensys.github.io/smart-contract-best-practices/recommendations/
