@@ -226,24 +226,25 @@ The second part is an interactive coding session.
 
 ([TOC](.)) Truffle / Oracle
 
-| Preparations                                               | Video & sheets  | Assignments                                            | Background info
-| -----------                                                | ----------      | -------------                                          | ---------------
-| Read: [mast_eth_11_Oracles]                                | [record_day7a] | 1) Instal truffle (see [install_sw])                   | [truffle_docs]
-| Follow: [cryptozombies_4_Zombie_Battle_System]             | [general_day7]  | 2) Install git cmdline and hdwallet-provider (see [install_sw])
-|                                                            | [truffle_sh]    | 3) Install bip39 (see [install_sw])
-|                                                            | [truffle_pack]  | 4) Create mnemonic
-|                                                            | [oracles_sh]    | 5) Signup for a Infura key (see[infura_reg])
-|                                                            |                 | 6) Adapt truffle-config.js, refer secrets
-|                                                            |                 | 7) Transfer test eth to account of mnemonic
-|                                                            |                 | 8) Experiment with truffle
-|                                                            |                 | 9) Adapt your smart contract to work with truffle
-| Watch: [provable_video]                                    |                 | 10) Watch videos: [provable_video]                      | [provable_docs]
-|                                                            |                 | 11) Experiment with provable in remix (see [provable_ex])
-|                                                            |                 | 12) Experiment with provable in truffle (see [provable_truffle])
-|                                                            |                 | 13) Adapt your smart contract to use an oracle & truffle
-|                                                            |                 | 14) Store resulting directory tree here: [web3assignments]
+| Preparations                                   | Video & sheets                   | Assignments                                            | Background info
+| -----------                                    | ----------                       | -------------                                          | ---------------
+| Read: [mast_eth_11_Oracles]                    | [record_day7a]<br>[record_day7b] | 1) Instal truffle (see [install_sw])                   | [truffle_docs]
+| Follow: [cryptozombies_4_Zombie_Battle_System] | [general_day7]                   | 2) Install git cmdline and hdwallet-provider (see [install_sw])
+|                                                | [truffle_sh]                     | 3) Install bip39 (see [install_sw])
+|                                                | [truffle_pack]                   | 4) Create mnemonic
+|                                                | [oracles_sh]                     | 5) Signup for a Infura key (see[infura_reg])
+|                                                |                                  | 6) Adapt truffle-config.js, refer secrets
+|                                                |                                  | 7) Transfer test eth to account of mnemonic
+|                                                |                                  | 8) Experiment with truffle
+|                                                |                                  | 9) Adapt your smart contract to work with truffle
+| Watch: [provable_video]                        |                                  | 10) Watch videos: [provable_video]                      | [provable_docs]
+|                                                |                                  | 11) Experiment with provable in remix (see [provable_ex])
+|                                                |                                  | 12) Experiment with provable in truffle (see [provable_truffle])
+|                                                |                                  | 13) Adapt your smart contract to use an oracle & truffle
+|                                                |                                  | 14) Store resulting directory tree here: [web3assignments]
 
-[record_day7a]:  https://www.youtube.com/watch?v=K2HW9l92_cY
+[record_day7a]: https://www.youtube.com/watch?v=K2HW9l92_cY
+[record_day7b]: https://www.youtube.com/watch?v=2D_hENjiEHI
 [general_day7]: https://ipfs.io/ipfs/QmdZxD2TDSsQKd7ezecwSsofh7KNtthvLra8CR1z2qpxxT
 [truffle_sh]:   https://ipfs.io/ipfs/QmZhQeQbSP6A6XZgBVFpMsMZPEK1XY1Qh2tXVHgKHEKN6x
 [truffle_pack]: https://ipfs.io/ipfs/QmYTcdhehmbcYuLhFTQ23nrFz2S3xkrDiwSwwxQEL1q57t
@@ -277,7 +278,7 @@ The second part is an interactive coding session.
 |                      |                 |                                                                                                            | [pautasso]
 
 [general_day8]:         https://ipfs.io/ipfs/QmRx3V4RPu4S7ZKr47fHufw1wgBaGszTTWnWfuAdzEB167
-[patterns_sh]:          https://ipfs.io/ipfs/QmbYSAWc2uj7hCFHPhpJ7Ncxh4FgtnXnc9KXGdUyLV9vu7
+[patterns_sh]:          https://ipfs.io/ipfs/QmShZDcoQ5w2pTY42Cx8rdjE4fmRaGTy3f3c2qpqdkHDfZ
 
 [pattern_ex]:           http://web3examples.com/ethereum/pattern_examples/
 [consensys_best]:       https://consensys.github.io/smart-contract-best-practices/recommendations/
