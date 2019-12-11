@@ -228,7 +228,7 @@ The second part is an interactive coding session.
 
 | Preparations                                               | Video & sheets  | Assignments                                            | Background info
 | -----------                                                | ----------      | -------------                                          | ---------------
-| Read: [mast_eth_11_Oracles]                                | { to be added } | 1) Instal truffle (see [install_sw])                   | [truffle_docs]
+| Read: [mast_eth_11_Oracles]                                | [record_day7a] | 1) Instal truffle (see [install_sw])                   | [truffle_docs]
 | Follow: [cryptozombies_4_Zombie_Battle_System]             | [general_day7]  | 2) Install git cmdline and hdwallet-provider (see [install_sw])
 |                                                            | [truffle_sh]    | 3) Install bip39 (see [install_sw])
 |                                                            | [truffle_pack]  | 4) Create mnemonic
@@ -243,7 +243,7 @@ The second part is an interactive coding session.
 |                                                            |                 | 13) Adapt your smart contract to use an oracle & truffle
 |                                                            |                 | 14) Store resulting directory tree here: [web3assignments]
 
- 
+[record_day7a]:  https://www.youtube.com/watch?v=K2HW9l92_cY
 [general_day7]: https://ipfs.io/ipfs/QmdZxD2TDSsQKd7ezecwSsofh7KNtthvLra8CR1z2qpxxT
 [truffle_sh]:   https://ipfs.io/ipfs/QmZhQeQbSP6A6XZgBVFpMsMZPEK1XY1Qh2tXVHgKHEKN6x
 [truffle_pack]: https://ipfs.io/ipfs/QmYTcdhehmbcYuLhFTQ23nrFz2S3xkrDiwSwwxQEL1q57t
