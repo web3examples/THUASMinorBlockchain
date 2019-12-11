@@ -270,7 +270,7 @@ The second part is an interactive coding session.
 | -----------          | ----------      | -------------                                                                                              |-------------------
 |  See background info | { to be added } | 1) Scan the background info documents<br> goal: be aware of the different pattern areas                    | [consensys_best]   
 |                      | [general_day8]  | 2) Try out the pattern examples<br>(see [pattern_ex])                                                      | [maxwoe_pattern]
-|                      | [patterns_sh]   | 3) Select an upgrade mechanism and<br>one (1) other pattern store arguments<br>in [web3assignments]               | [i6mi6_pattern]
+|                      | [patterns_sh]   | 3) Select an upgrade mechanism and<br>one (1) other pattern store reason why you chose this<br>in [web3assignments]               | [i6mi6_pattern]
 |                      |                 | 4) Implement upgrade mechanism and<br>one (1) other pattern in your smart contracts, <br>store results in [web3assignments]  | [fravoll_pattern]
 |                      |                 | 5) Verify you smart contract on etherscan,<br>store prove: [web3assignments]                               | [scottworks_pattern]
 |                      |                 |                                                                                                            | [sol_pattern]
