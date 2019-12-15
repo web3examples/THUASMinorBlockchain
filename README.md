@@ -294,13 +294,25 @@ The second part is an interactive coding session.
 
 ### Day 9 Mon: 16-12-2019
 
-([TOC](.)) Tokens (ERC20 / ERC721) 
+([TOC](.)) Tokens (ERC20 / ERC721 / ERC777) 
 
-| Preparations                                               | Sheets          | Assignments<br>results here: [web3assignments]
+| Preparations                                               | Video & sheets  | Assignments
 | -----------                                                | ----------      | -------------
-| Follow: [cryptozombies_5_ERC721_Crypto_Collectibles]       | { to be added } | { to be added } 
-| Read: [mast_eth_10_Tokens]
-| { to be added }                                            | { to be added } | { to be added } 
+| Follow: [cryptozombies_5_ERC721_Crypto_Collectibles]       | [general_day9]  | { to be added } 
+| Read: [mast_eth_10_Tokens]                                 | [erc20_sh]      | Create a fungible token contract on rinkeby, store proof on [web3assignments]
+|                                                            | [erc721_sh]     | Sent a few fungible tokens to 0xEA9a7c7cD8d4Dc3acc6f0AaEc1506C8D6041a1c5
+|                                                            | [erc777_sh]     | Create a non fungible token contract + image on rinkeby, store proof on [web3assignments]
+|                                                            |                 | Mint a token and check it's visible on OpenSea, store proof on [web3assignments]
+|                                                            |                 | Sent a non fungible token to 0xEA9a7c7cD8d4Dc3acc6f0AaEc1506C8D6041a1c5
+|                                                            |                 |
+
+
+[erc777_sh]:    https://ipfs.io/ipfs/QmWMTqe82oCfMFk64MNW4nL3P2TgC97F8Fo2mCPtBRGYFE
+[erc721_sh]:    https://ipfs.io/ipfs/QmfRRwjqpo7p9WxKpff4fjscEKzvthtW6Wf25CSwdmsp1F
+[erc20_sh]:     https://ipfs.io/ipfs/QmPFYv7vgjNEg524mNnWpjRJ39XuDkuXfDb5Dy4EinGXXE
+[general_day9]:         https://ipfs.io/ipfs/QmVhRBv9wVpWdfswe6wqHKi9c979rbowk13pBnPUfF5iTv
+
+
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
