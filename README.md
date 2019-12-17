@@ -269,14 +269,14 @@ The second part is an interactive coding session.
 
 | Preparations         | Video & sheets  | Assignments                                                                                                | Background info
 | -----------          | ----------      | -------------                                                                                              |-------------------
-|  See background info | { to be added } | 1) Scan the background info documents<br> goal: be aware of the different pattern areas                    | [consensys_best]   
+|  See background info | [record_day8]   | 1) Scan the background info documents<br> goal: be aware of the different pattern areas                    | [consensys_best]   
 |                      | [general_day8]  | 2) Try out the pattern examples<br>(see [pattern_ex])                                                      | [maxwoe_pattern]
 |                      | [patterns_sh]   | 3) Select an upgrade mechanism and<br>one (1) other pattern store reason why you chose this<br>in [web3assignments]               | [i6mi6_pattern]
 |                      |                 | 4) Implement upgrade mechanism and<br>one (1) other pattern in your smart contracts, <br>store results in [web3assignments]  | [fravoll_pattern]
 |                      |                 | 5) Verify you smart contract on etherscan,<br>store prove: [web3assignments]                               | [scottworks_pattern]
 |                      |                 |                                                                                                            | [sol_pattern]
 |                      |                 |                                                                                                            | [pautasso]
-
+[record_day8]:          https://www.youtube.com/watch?v=54OKS_TxPlo&list=PL_tbH3aD86KtKGgHhoSTwLARW-Ke5rLzt
 [general_day8]:         https://ipfs.io/ipfs/QmRx3V4RPu4S7ZKr47fHufw1wgBaGszTTWnWfuAdzEB167
 [patterns_sh]:          https://ipfs.io/ipfs/QmShZDcoQ5w2pTY42Cx8rdjE4fmRaGTy3f3c2qpqdkHDfZ
 
@@ -318,9 +318,25 @@ The second part is an interactive coding session.
 
 ([TOC](.)) IPFS 
 
-| Preparations                                               | Sheets          | Assignments<br>results here: [web3assignments]
-| -----------                                                | ----------      | -------------
-| { to be added }
+| Preparations    | Sheets          | Assignments                                                                                 | Background info
+| -----------     | ----------      | -------------                                                                               | --------------
+|                 | [general_day9]  | 1) Run ipfs via Grid                                                                        | [ipfs_io]
+|                 | [ipfs_sh]       | 2) Install [ipfs-companion] and experiment                                                  | 
+|                 |                 | 2) Create website to store &<br>retrieve files op IPFS,<br>store site in [web3assignments]  | 
+|                 |                 | 3) Run this website via IPFS (store link in [web3assignments] )                             |
+|                 |                 | 4) Bonus assignment: connect to domainname via _dnslink, store link in [web3assignments]    |
+
+
+[general_day9]:         https://ipfs.io/ipfs/QmeCXEbFmgYxqgmocspW4YeNhEj6RgX8fK8fAHrpi4uhiw
+[ipfs_sh]:         https://ipfs.io/ipfs/QmYB82zh5iuZNqJnagrZfkW547yMCUoe9DmTsh7rF78Xm5
+
+ - Day 10 - General
+
+ - Day 10 - IPFS
+
+[ipfs-companion]: https://github.com/ipfs-shipyard/ipfs-companion
+
+[ipfs_io]: https://ipfs.io/
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
