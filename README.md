@@ -322,7 +322,7 @@ The second part is an interactive coding session.
 | -----------     | ----------      | -------------                                                                               | --------------
 |                 | [general_day9]  | 1) Run ipfs via Grid                                                                        | [ipfs_io]
 |                 | [ipfs_sh]       | 2) Install [ipfs-companion] and experiment                                                  | 
-|                 |                 | 3) Create website to store &<br>retrieve files op IPFS,<br>store site in [web3assignments]  | 
+|                 |                 | 3) Create website to store &<br>retrieve files on IPFS,<br>store site in [web3assignments]  | 
 |                 |                 | 4) Run this website via IPFS (store link in [web3assignments] )                             |
 |                 |                 | 5) Bonus assignment: connect to domainname via _dnslink, store link in [web3assignments]    |
 
