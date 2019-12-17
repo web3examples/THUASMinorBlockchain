@@ -330,10 +330,6 @@ The second part is an interactive coding session.
 [general_day9]:         https://ipfs.io/ipfs/QmeCXEbFmgYxqgmocspW4YeNhEj6RgX8fK8fAHrpi4uhiw
 [ipfs_sh]:         https://ipfs.io/ipfs/QmYB82zh5iuZNqJnagrZfkW547yMCUoe9DmTsh7rF78Xm5
 
- - Day 10 - General
-
- - Day 10 - IPFS
-
 [ipfs-companion]: https://github.com/ipfs-shipyard/ipfs-companion
 
 [ipfs_io]: https://ipfs.io/
