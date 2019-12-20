@@ -323,7 +323,7 @@ The second part is an interactive coding session.
 | Preparations    | Sheets          | Assignments                                                                                 | Background info
 | -----------     | ----------      | -------------                                                                               | --------------
 |                 | [record_day10]  |                                                                                             |
-|                 | [general_day9]  | 1) Run ipfs via Grid                                                                        | [ipfs_io]
+|                 | [general_day10] | 1) Run ipfs via Grid                                                                        | [ipfs_io]
 |                 | [ipfs_sh]       | 2) Install [ipfs-companion] and experiment                                                  | 
 |                 |                 | 3) Create website to store &<br>retrieve files on IPFS,<br>store site in [web3assignments]  | 
 |                 |                 | 4) Run this website via IPFS (store link in [web3assignments] )                             |
