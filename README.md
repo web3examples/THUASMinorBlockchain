@@ -320,19 +320,18 @@ The second part is an interactive coding session.
 
 | Preparations    | Sheets          | Assignments                                                                                 | Background info
 | -----------     | ----------      | -------------                                                                               | --------------
+|                 | [record_day10]  |                                                                                             |
 |                 | [general_day9]  | 1) Run ipfs via Grid                                                                        | [ipfs_io]
 |                 | [ipfs_sh]       | 2) Install [ipfs-companion] and experiment                                                  | 
 |                 |                 | 3) Create website to store &<br>retrieve files on IPFS,<br>store site in [web3assignments]  | 
 |                 |                 | 4) Run this website via IPFS (store link in [web3assignments] )                             |
 |                 |                 | 5) Bonus assignment: connect to domainname via _dnslink, store link in [web3assignments]    |
 
-
-[general_day9]:         https://ipfs.io/ipfs/QmeCXEbFmgYxqgmocspW4YeNhEj6RgX8fK8fAHrpi4uhiw
-[ipfs_sh]:         https://ipfs.io/ipfs/QmYB82zh5iuZNqJnagrZfkW547yMCUoe9DmTsh7rF78Xm5
-
-[ipfs-companion]: https://github.com/ipfs-shipyard/ipfs-companion
-
-[ipfs_io]: https://ipfs.io/
+[record_day10]:         https://www.youtube.com/watch?v=OWhau4KOEeY
+[general_day10]:        https://ipfs.io/ipfs/QmeCXEbFmgYxqgmocspW4YeNhEj6RgX8fK8fAHrpi4uhiw
+[ipfs_sh]:              https://ipfs.io/ipfs/QmYB82zh5iuZNqJnagrZfkW547yMCUoe9DmTsh7rF78Xm5
+[ipfs-companion]:       https://github.com/ipfs-shipyard/ipfs-companion
+[ipfs_io]:              https://ipfs.io/
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
