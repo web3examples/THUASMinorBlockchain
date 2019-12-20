@@ -276,6 +276,7 @@ The second part is an interactive coding session.
 |                      |                 | 5) Verify you smart contract on etherscan,<br>store prove: [web3assignments]                               | [scottworks_pattern]
 |                      |                 |                                                                                                            | [sol_pattern]
 |                      |                 |                                                                                                            | [pautasso]
+
 [record_day8]:          https://www.youtube.com/watch?v=54OKS_TxPlo&list=PL_tbH3aD86KtKGgHhoSTwLARW-Ke5rLzt
 [general_day8]:         https://ipfs.io/ipfs/QmRx3V4RPu4S7ZKr47fHufw1wgBaGszTTWnWfuAdzEB167
 [patterns_sh]:          https://ipfs.io/ipfs/QmShZDcoQ5w2pTY42Cx8rdjE4fmRaGTy3f3c2qpqdkHDfZ
