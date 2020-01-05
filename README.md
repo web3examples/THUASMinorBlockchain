@@ -343,7 +343,7 @@ The second part is an interactive coding session.
 
 | Preparations                                   | Sheets              | Assignments<br>
 | -----------                                    | ----------          | -------------
-| Follow: [mast_eth_09_Smart_contract_Security]  | { to be added }     | Study [swc_reg]
+| Follow: [mast_eth_09_Smart_contract_Security]  | { to be added }     | Study [swc_reg] & test a few testcases with remix
 |                                                | [general_day11]     | Study [scsvs]
 |                                                | [security_sh]       | Adapt your smart contract with access control, store results here: [web3assignments]
 |                                                | [key_management_sh] | Make a treath model drawing of your dapp, store results here: [web3assignments]
