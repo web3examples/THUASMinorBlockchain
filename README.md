@@ -405,10 +405,9 @@ The second part is an interactive coding session.
 [mast_eth_05_Wallets]:                      https://github.com/ethereumbook/ethereumbook/tree/develop/05wallets.asciidoc
 [mast_eth_06_Transactions]:                 https://github.com/ethereumbook/ethereumbook/tree/develop/06transactions.asciidoc
 [mast_eth_07_Smart_contracts_and_Solidity]: https://github.com/ethereumbook/ethereumbook/tree/develop/07smart-contracts-solidity.asciidoc
-[mast_eth_09_Smart_contract_Security]:      https://github.com/ethereumbook/ethereumbook/tree/develop/08smart-contracts-vyper.asciidoc
-[mast_eth_10_Tokens]:                       https://github.com/ethereumbook/ethereumbook/tree/develop/09smart-contracts-security.asciidoc
-[mast_eth_11_Oracles]:                      https://github.com/ethereumbook/ethereumbook/tree/develop/10tokens.asciidoc
-[mast_eth_12_Decentralized_Applications]:   https://github.com/ethereumbook/ethereumbook/tree/develop/11oracles.asciidoc
+[mast_eth_09_Smart_contract_Security]:      https://github.com/ethereumbook/ethereumbook/tree/develop/09smart-contracts-security.asciidoc
+[mast_eth_10_Tokens]:                       https://github.com/ethereumbook/ethereumbook/tree/develop/10tokens.asciidoc
+[mast_eth_11_Oracles]:                      https://github.com/ethereumbook/ethereumbook/tree/develop/11oracles.asciidoc
 [mast_eth_12_Decentralized_Applications]:   https://github.com/ethereumbook/ethereumbook/tree/develop/12dapps.asciidoc
 [mast_eth_13_gas]:                          https://github.com/ethereumbook/ethereumbook/blob/develop/13evm.asciidoc#turing-completeness-and-gas
 [mast_eth_14_Consensus]:                    https://github.com/ethereumbook/ethereumbook/tree/develop/14consensus.asciidoc
