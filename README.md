@@ -370,8 +370,8 @@ The second part is an interactive coding session.
 |                     | [general_day12] | Add natspec comments to your smart contract and store: [web3assignments]
 |                     | [tests]         | Run Remix Static analysis on your smart contract, store proof: [web3assignments]
 |                     | [layout]        | Run Remix Mythx on your smart contract, store proof: [web3assignments]
-|                     | [sectests]      | Run SmartCheck on your smart contract, store proof: [web3assignments]
-|                     |                 | Install ethlint and run ethlint on your smart contract, store proof: [web3assignments]
+|                     | [sectests]      | Run SmartCheck ((see [install_sw]) on your smart contract, store proof: [web3assignments]
+|                     |                 | Install ethlint ((see [install_sw]) and run ethlint on your smart contract, store proof: [web3assignments]
 
 [general_day12]: https://ipfs.io/ipfs/QmV6g877s9dvDfhHkP9nLTHf8CJGaSxXq3UaFZETdqvXYu
 [layout]:        https://ipfs.io/ipfs/QmQgdQh7QHVytRr1UGYUJyVGYuCkmPzw4byE5bLkqENJ2X
