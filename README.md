@@ -346,7 +346,7 @@ The second part is an interactive coding session.
 | Read: [mast_eth_09_Smart_contract_Security]    | { to be added }     | Study [swc_reg] & test a few testcases with remix
 |                                                | [general_day11]     | Study [scsvs]
 |                                                | [security_sh]       | Adapt your smart contract with access control, store results here: [web3assignments]
-|                                                |                     | Install surya & graphviz ((see [install_sw]) and make drawings of your smart contracts, store results here: [web3assignments]
+|                                                |                     | Install surya & graphviz (see [install_sw]) and make drawings of your smart contracts, store results here: [web3assignments]
 |                                                | [key_management_sh] | Make a treath model drawing of your dapp, store results here: [web3assignments]
 |                                                |                     | Make an advice for users of your dapp for key management (text), store results here: [web3assignments]
 
@@ -370,8 +370,8 @@ The second part is an interactive coding session.
 |                     | [tests]         | Add natspec comments to your smart contract and store: [web3assignments]
 |                     | [layout]        | Run Remix Static analysis on your smart contract, store proof: [web3assignments]
 |                     | [sectests]      | Run Remix Mythx on your smart contract, store proof: [web3assignments]
-|                     |                 | Run SmartCheck ((see [install_sw]) on your smart contract, store proof: [web3assignments]
-|                     |                 | Install ethlint ((see [install_sw]) and run ethlint on your smart contract, store proof: [web3assignments]
+|                     |                 | Run SmartCheck (see [install_sw]) on your smart contract, store proof: [web3assignments]
+|                     |                 | Install ethlint (see [install_sw]) and run ethlint on your smart contract, store proof: [web3assignments]
 
 [general_day12]: https://ipfs.io/ipfs/QmV6g877s9dvDfhHkP9nLTHf8CJGaSxXq3UaFZETdqvXYu
 [layout]:        https://ipfs.io/ipfs/QmQgdQh7QHVytRr1UGYUJyVGYuCkmPzw4byE5bLkqENJ2X
