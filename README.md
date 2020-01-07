@@ -365,7 +365,7 @@ The second part is an interactive coding session.
 
 | Preparations        | Sheets          | Assignments<br>results here: [web3assignments]
 | -----------         | ----------      | -------------
-|                     |                 | Add unit tests to your smart contract (either via remix, truffle solidity or truffle javascript). Store updated smart contract here: [web3assignments]
+|                     |                 | Add (at least 5) unit tests to your smart contract (either via remix, truffle solidity or truffle javascript). Store updated smart contract here: [web3assignments]
 |                     |                 | Run unit test, make screen capture of result and store: [web3assignments]
 |                     | [general_day12] | Add natspec comments to your smart contract and store: [web3assignments]
 |                     | [tests]         | Run Remix Static analysis on your smart contract, store proof: [web3assignments]
