@@ -363,14 +363,14 @@ The second part is an interactive coding session.
 
 ([TOC](.)) Testing / code quality / natpec / verify / audit 
 
-| Preparations        | Sheets          | Assignments<br>results here: [web3assignments]
+| Preparations        | Sheets          | Assignments
 | -----------         | ----------      | -------------
 |                     |                 | Add (at least 5) unit tests to your smart contract (either via remix, truffle solidity or truffle javascript). Store updated smart contract here: [web3assignments]
-|                     |                 | Run unit tests, make screen capture of result and store: [web3assignments]
-|                     | [general_day12] | Add natspec comments to your smart contract and store: [web3assignments]
-|                     | [tests]         | Run Remix Static analysis on your smart contract, store proof: [web3assignments]
-|                     | [layout]        | Run Remix Mythx on your smart contract, store proof: [web3assignments]
-|                     | [sectests]      | Run SmartCheck ((see [install_sw]) on your smart contract, store proof: [web3assignments]
+|                     | [general_day12] | Run unit tests, make screen capture of result and store: [web3assignments]
+|                     | [tests]         | Add natspec comments to your smart contract and store: [web3assignments]
+|                     | [layout]        | Run Remix Static analysis on your smart contract, store proof: [web3assignments]
+|                     | [sectests]      | Run Remix Mythx on your smart contract, store proof: [web3assignments]
+|                     |                 | Run SmartCheck ((see [install_sw]) on your smart contract, store proof: [web3assignments]
 |                     |                 | Install ethlint ((see [install_sw]) and run ethlint on your smart contract, store proof: [web3assignments]
 
 [general_day12]: https://ipfs.io/ipfs/QmV6g877s9dvDfhHkP9nLTHf8CJGaSxXq3UaFZETdqvXYu
