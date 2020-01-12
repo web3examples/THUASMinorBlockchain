@@ -389,9 +389,9 @@ The second part is an interactive coding session.
 
 | Preparations                                      | Sheets          | Assignments
 | -----------                                       | ----------      | -------------
-| Follow: [mast_eth_12_Decentralized_Applications]  | { to be added } | <br>results here: [web3assignments]
-|                                                   |[general_day13]  |
-|                                                   | [ens]           |
+| Follow: [mast_eth_12_Decentralized_Applications]  | { to be added } | register ENS name (on testnetwork), connect it to your smart contract, use it in your website to address the contract; store updated sources: [web3assignments]
+|                                                   | [general_day13] | register ENS name (on testnetwork), connect it to your IPFS site, use to access the website. Store name & screen shot: [web3assignments]
+|                                                   | [ens]           | 
 |                                                   | [solidity6]     |
 
 
