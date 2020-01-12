@@ -387,10 +387,17 @@ The second part is an interactive coding session.
 
 ([TOC](.)) Ethereum Name Service
 
-| Preparations                                               | Sheets          | Assignments<br>results here: [web3assignments]
-| -----------                                                | ----------      | -------------
-| Follow: [mast_eth_12_Decentralized_Applications] | { to be added } | { to be added } 
-| { to be added }                                            | { to be added } | { to be added } 
+| Preparations                                      | Sheets          | Assignments
+| -----------                                       | ----------      | -------------
+| Follow: [mast_eth_12_Decentralized_Applications]  | { to be added } | <br>results here: [web3assignments]
+|                                                   |[general_day13]  |
+|                                                   | [ens]           |
+|                                                   | [solidity6]     |
+
+
+[general_day13]: https://ipfs.io/ipfs/QmTmksiHN6hwYWEU1tVeM25rrd8oYLv6tWUePPKVSwLhxn
+[ens]:           https://ipfs.io/ipfs/QmXi7jgKHTt8xsuG9D1yaFJmNxz1fSoghe1PHFwVpddqrk
+[solidity6]:     https://ipfs.io/ipfs/QmR19j3akxpx6VBVpqv2D9ENk32DBhfasbDrwTkgMzBwfH
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
