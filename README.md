@@ -393,7 +393,7 @@ The second part is an interactive coding session.
 | -----------                                       | ----------      | -------------
 | Follow: [mast_eth_12_Decentralized_Applications]  | { to be added } | register ENS name (on testnetwork), connect it to your smart contract, use it in your website to address the contract; store updated sources: [web3assignments]
 |                                                   | [general_day13] | register ENS name (on testnetwork), connect it to your IPFS site, use to access the website. Store name & screen shot: [web3assignments]
-|                                                   | [ens]           | 
+|                                                   | [ens]           | experiment with Solidity 6 constructions.
 |                                                   | [solidity6]     |
 
 
@@ -405,7 +405,7 @@ The second part is an interactive coding session.
 
 ### Day 14 Wed: 15-1-2020
 
-([TOC](.)) Other building blocks 
+([TOC](.)) Other building blocks / Wallets
 
 | Preparations                                               | Video & sheets  | Assignments<br>results here: [web3assignments]
 | -----------                                                | ----------      | -------------
