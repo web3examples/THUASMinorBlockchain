@@ -320,7 +320,7 @@ The second part is an interactive coding session.
 
 ([TOC](.)) IPFS 
 
-| Preparations    | Sheets          | Assignments                                                                                 | Background info
+| Preparations    | Video & sheets  | Assignments                                                                                 | Background info
 | -----------     | ----------      | -------------                                                                               | --------------
 |                 | [record_day10]  |                                                                                             |
 |                 | [general_day10] | 1) Run ipfs via Grid                                                                        | [ipfs_io]
@@ -366,7 +366,7 @@ The second part is an interactive coding session.
 
 ([TOC](.)) Testing / code quality / natpec / verify / audit 
 
-| Preparations        | Sheets and video | Assignments
+| Preparations        | Video & sheets  | Assignments
 | -----------         | ----------      | -------------
 |                     | [record_day12]  | Add (at least 5) unit tests to your smart contract (either via remix, truffle solidity or truffle javascript). Store updated smart contract here: [web3assignments]
 |                     | [general_day12] | Run unit tests, make screen capture of result and store: [web3assignments]
@@ -389,7 +389,7 @@ The second part is an interactive coding session.
 
 ([TOC](.)) Ethereum Name Service
 
-| Preparations                                      | Sheets          | Assignments
+| Preparations                                      | Video & sheets  | Assignments
 | -----------                                       | ----------      | -------------
 | Follow: [mast_eth_12_Decentralized_Applications]  | { to be added } | register ENS name (on testnetwork), connect it to your smart contract, use it in your website to address the contract; store updated sources: [web3assignments]
 |                                                   | [general_day13] | register ENS name (on testnetwork), connect it to your IPFS site, use to access the website. Store name & screen shot: [web3assignments]
@@ -407,7 +407,7 @@ The second part is an interactive coding session.
 
 ([TOC](.)) Other building blocks 
 
-| Preparations                                               | Sheets          | Assignments<br>results here: [web3assignments]
+| Preparations                                               | Video & sheets  | Assignments<br>results here: [web3assignments]
 | -----------                                                | ----------      | -------------
 | { to be added }                                            | { to be added } | { to be added } 
 
@@ -417,7 +417,7 @@ The second part is an interactive coding session.
 
 ([TOC](.)) Combine everything
 
-| Preparations                                               | Sheets          | Assignments<br>results here: [web3assignments]
+| Preparations                                               | Video & sheets  | Assignments<br>results here: [web3assignments]
 | -----------                                                | ----------      | -------------
 | { to be added }                                            | { to be added } | { to be added } 
 
