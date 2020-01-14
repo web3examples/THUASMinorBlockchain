@@ -410,7 +410,7 @@ The second part is an interactive coding session.
 | Preparations          | Video & sheets  | Assignments<br>results here: 
 | -----------           | ----------      | -------------
 |                       | { to be added } | Create gnosis multisig for teams (on rinkeby), send some test eth and send it back. Store proof on: [web3assignments]
-|                       | [general_day14] | Install gnosis save (chrome plugin & mobile app)
+|                       | [general_day14] | Install gnosis safe (chrome plugin & mobile app)
 |                       | [multisig]      | Implement web3connect in your app
 |                       | [wallets]       | Connect to your app via gnosis safe & web3connect. Check your app functions as expectected (and fix if neccesary), store updated source & proof of tests: [web3assignments]
 |                       |                 | Verify that mnemonic of your metamask leads to your ethereum address via get_address_from_mnemonic.js (no need to store)
