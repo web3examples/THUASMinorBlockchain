@@ -391,12 +391,12 @@ The second part is an interactive coding session.
 
 | Preparations                                      | Video & sheets  | Assignments
 | -----------                                       | ----------      | -------------
-| Follow: [mast_eth_12_Decentralized_Applications]  | { to be added } | register ENS name (on testnetwork), connect it to your smart contract, use it in your website to address the contract; store updated sources: [web3assignments]
+| Follow: [mast_eth_12_Decentralized_Applications]  | [record_day13]  | register ENS name (on testnetwork), connect it to your smart contract, use it in your website to address the contract; store updated sources: [web3assignments]
 |                                                   | [general_day13] | register ENS name (on testnetwork), connect it to your IPFS site, use to access the website. Store name & screen shot: [web3assignments]
 |                                                   | [ens]           | experiment with Solidity 6 constructions.
 |                                                   | [solidity6]     |
 
-
+[record_day13]:  https://www.youtube.com/watch?v=6SRDLQ1HF7Q
 [general_day13]: https://ipfs.io/ipfs/QmTmksiHN6hwYWEU1tVeM25rrd8oYLv6tWUePPKVSwLhxn
 [ens]:           https://ipfs.io/ipfs/QmXi7jgKHTt8xsuG9D1yaFJmNxz1fSoghe1PHFwVpddqrk
 [solidity6]:     https://ipfs.io/ipfs/QmR19j3akxpx6VBVpqv2D9ENk32DBhfasbDrwTkgMzBwfH
@@ -405,11 +405,19 @@ The second part is an interactive coding session.
 
 ### Day 14 Wed: 15-1-2020
 
-([TOC](.)) Other building blocks / Wallets
+([TOC](.)) Multisigs and Wallets
 
-| Preparations                                               | Video & sheets  | Assignments<br>results here: [web3assignments]
-| -----------                                                | ----------      | -------------
-| { to be added }                                            | { to be added } | { to be added } 
+| Preparations          | Video & sheets  | Assignments<br>results here: 
+| -----------           | ----------      | -------------
+|                       | { to be added } | Create gnosis multisig for teams (on rinkeby), send some test eth and send it back. Store proof on: [web3assignments]
+|                       | [general_day14] | Install gnosis save (chrome plugin & mobile app)
+|                       | [multisig]      | Implement web3connect in your app
+|                       | [wallets]       | Connect to your app via gnosis safe & web3connect. Check your app functions as expectected (and fix if neccesary), store updated source & proof of tests: [web3assignments]
+|                       |                 | Verify that mnemonic of your metamask leads to your ethereum address via get_address_from_mnemonic.js (no need to store)
+
+[general_day14]:  https://ipfs.io/ipfs/QmYqf7wz7hudRoszVTrqGAaM37j3rpc9cLRRb9qVXLi8Q7
+[multisig]:       https://ipfs.io/ipfs/QmZuL8bUrdX1BWgN2APa5h7U85K4ATFdDkLHwFfXrvA8dF
+[wallets]:        https://ipfs.io/ipfs/QmXsXs4W9NmwSeLoGg9Lb5qrHLWbpQtQQxEcwSeFWUgbND
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
