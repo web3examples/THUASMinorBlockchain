@@ -425,10 +425,14 @@ The second part is an interactive coding session.
 
 ([TOC](.)) Combine everything
 
-| Preparations                                               | Video & sheets  | Assignments<br>results here: [web3assignments]
-| -----------                                                | ----------      | -------------
-| { to be added }                                            | { to be added } | { to be added } 
+| Preparations         | Video & sheets  | Assignments<br>
+| -----------          | ----------      | -------------
+| -                    | { to be added } | Combine everything you have learned to create a usable dapp, store results here: [web3assignments]
+|                      | [general_day15] |
+|                      | [arch_complete]
 
+[general_day15]:    https://ipfs.io/ipfs/QmYyKon7SU1LhpJhuMyRgWuX3XxUXjb27LTA6A7ENoMaDx
+[arch_complete]:    https://ipfs.io/ipfs/QmVWaK5vSWPLrTXWgPaScuuA3UNtj3FbhTmG6F6n2VMTkL
 
 [mast_eth_01_What_is_Ethereum]:             https://github.com/ethereumbook/ethereumbook/tree/develop/01what-is.asciidoc
 [mast_eth_02_Ethereum_Basics]:              https://github.com/ethereumbook/ethereumbook/tree/develop/02intro.asciidoc
