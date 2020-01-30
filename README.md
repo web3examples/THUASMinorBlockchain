@@ -407,14 +407,16 @@ The second part is an interactive coding session.
 
 ([TOC](.)) Multisigs and Wallets
 
-| Preparations          | Video & sheets  | Assignments<br>results here: 
+| Preparations          | Video & sheets  | Assignments
 | -----------           | ----------      | -------------
-|                       | { to be added } | Create gnosis multisig for teams (on rinkeby), send some test eth and send it back. Store proof on: [web3assignments]
+|                       | [record_day14]  | Create gnosis multisig for teams (on rinkeby), send some test eth and send it back. Store proof on: [web3assignments]
 |                       | [general_day14] | Install gnosis safe (chrome plugin & mobile app) (the gnosis safe android version for rinkeby can be found here: https://github.com/gnosis/safe-android/releases )
 |                       | [multisig]      | Implement web3connect in your app
 |                       | [wallets]       | Connect to your app via gnosis safe & web3connect. Check your app functions as expectected (and fix if neccesary), store updated source & proof of tests: [web3assignments]
 |                       |                 | Verify that mnemonic of your metamask leads to your ethereum address via get_address_from_mnemonic.js (no need to store)
 
+
+[record_day14]:     https://www.youtube.com/watch?v=i63_o9J78qg
 [general_day14]:  https://ipfs.io/ipfs/QmYqf7wz7hudRoszVTrqGAaM37j3rpc9cLRRb9qVXLi8Q7
 [multisig]:       https://ipfs.io/ipfs/QmZuL8bUrdX1BWgN2APa5h7U85K4ATFdDkLHwFfXrvA8dF
 [wallets]:        https://ipfs.io/ipfs/QmXsXs4W9NmwSeLoGg9Lb5qrHLWbpQtQQxEcwSeFWUgbND
@@ -425,11 +427,11 @@ The second part is an interactive coding session.
 
 ([TOC](.)) Combine everything
 
-| Preparations         | Video & sheets  | Assignments<br>
+| Preparations         | Sheets          | Assignments
 | -----------          | ----------      | -------------
-| -                    | { to be added } | Combine everything you have learned to create a usable dapp, store results here: [web3assignments]
-|                      | [general_day15] |
+| -                    | [general_day15] | Combine everything you have learned to create a usable dapp, store results here: [web3assignments]
 |                      | [arch_complete]
+
 
 [general_day15]:    https://ipfs.io/ipfs/QmYyKon7SU1LhpJhuMyRgWuX3XxUXjb27LTA6A7ENoMaDx
 [arch_complete]:    https://ipfs.io/ipfs/QmVWaK5vSWPLrTXWgPaScuuA3UNtj3FbhTmG6F6n2VMTkL
