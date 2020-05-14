@@ -113,7 +113,7 @@ This is the guiding material.
 |                                           | 3) [testnet_sh]                | 4) Install wscurl & wscat (see [install_sw])
 |                                           | 4) [chainsw_sh]                | 5) Try out: [rpc_examples]
 |                                           |                                | 6) Try out: [grid_rpc_app]
-|                                           |                                | 7) Create html file to show transaction info (e.g. mini explorer)<br>(based on [blocknr] and [wsblocks])<br>Store results here: [web3assignments]
+|                                           |                                | 7) Create a website (in the form a html file) to show transaction info. It's like a mini explorer. It should show info which is in the blocks<br>(based on [blocknr] and [wsblocks])<br>Store results here: [web3assignments]
 |                                           |                                | 8) Test curl, wscurl & rpc commands on other testworks
 |                                           |                                | 9) Install Ganache (see [install_sw])
 |                                           |                                | 10) Configure and test Ganache with curl,<br>wscurl & rpc commands
