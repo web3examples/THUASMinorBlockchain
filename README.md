@@ -5,4 +5,5 @@
 Courses:
 - [Programming Dapps THUAS 2019-2020 B](../../../THUASMinorBlockchain/20192020B_IT)
 - [Programming Dapps THUAS 2019-2020 D](../../../THUASMinorBlockchain/20192020D_IT)
+- [Programming Dapps THUAS 2020-2021 B](../../../THUASMinorBlockchain/20202021B_IT) Nov 2020 till Jan 2021
 
