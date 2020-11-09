@@ -1,5 +1,34 @@
 
 
+
+# Details for the course Programming DAPP on THUAS 2020/2021
+
+## Schedule
+
+|Date   |Day |Time  |Goal
+|---    |--- |----  | --
+|11 nov |Wed |13.00 | Kickoff
+|20 nov |Fri |13.00 | Online session
+|27 nov |Fri |13.00 | Online session
+|4 dec  |Fri |13.00 | Online session
+|11 dec |Fri |13.00 | Online session
+|18 dec |Fri |13.00 | Online session
+|26 dec |Fri | -    | Christmas holidays
+|2 jan  |Fri | -    | Christmas holidays
+|9 jan  |Fri |13.00 | Online session
+|16 jan |Fri |13.00 | Online session
+|23 jan |Fri |13.00 | Online session
+|30 jan |Fri |13.00 | Online session
+
+
+## Subjects
+
+
+## Assignments
+
+
+
+
 Supply: github account 
 
 
