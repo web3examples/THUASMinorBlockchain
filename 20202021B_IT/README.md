@@ -1,7 +1,7 @@
 
 
 
-# Details for the course Programming DAPP on THUAS 2020/2021
+# Details for the course Programming DAPPs on THUAS 2020/2021
 
 ## Schedule
 
