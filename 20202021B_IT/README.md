@@ -41,9 +41,9 @@ Provide prove of what you have done by putting the source code and/or a screen s
 | Subject                    | Preparations            | Assignments
 | ----------------------     | ------------            | -----------------
 | PD-1 Introduction          | -                       | Supply: github account 
-| PD-2 First smart contract  | Follow cryptozombies    | Create a smart contract
+| PD-2 First smart contract  | Follow cryptozombies    | Create a smart contract => capture source
 |                            | Read mastering ethereum |
-| PD-3 Remix                 |                         | Adapt or create a smart contract with error handling, mapping, events
+| PD-3 Remix                 |                         | Adapt or create a smart contract with error handling, mapping, events => capture source
 | PD-4 Nodes                 |                         | Use play editor with Ganache => capture screen
 |                            |                         | Install Geth, Protheus, Grafana + dashboard => capture screen
 | PD-5 Web3.js               | Study javascript        | Generate vanity address with >= 5 lead characters => capture priv key & address
