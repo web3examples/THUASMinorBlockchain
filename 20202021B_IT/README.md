@@ -55,8 +55,9 @@ Provide prove of what you have done by putting the source code and/or a screen s
 |                            |                         | Verify your contract on etherscan => caputre screen & store address
 | PD-10 Tokens               |                         | Create fungible token contract & send tokens to 0xEA9a7c7cD8d4Dc3acc6f0AaEc1506C8D6041a1c5 => capture address, screen, source
 |                            |                         | Create non fungible token contract & show on opensean & send token to 0xEA9a7c7cD8d4Dc3acc6f0AaEc1506C8D6041a1c5 => capture address, screen, source
-| PD-11 IPFS                 |                         | Create website to store & retrieve images on IPFS => capture source
+| PD-11 IPFS & 3Box          |                         | Create website to store & retrieve images on IPFS => capture source
 |                            |                         | Store the website itself on IPFS => capture cid
+|                            |                         | Integrate 3box profile in your app => capture source
 | PD-12 Security             |                         | Adapt your smart contract with access control => capture source
 |                            |                         | tbd
 | PD-13 More solidity        |                         | tbd
@@ -67,6 +68,7 @@ Provide prove of what you have done by putting the source code and/or a screen s
 |                            |                         | Integrate web3connect in your app => capture source and screen
 | PD-17 Metatransactions     |                         | Integrate metatransactions in your app => capture source and screen
 | PD-18 Bridges & Layer 2    |                         | Create mini app with layer 2 => capture source and screen
+|                            |                         | Install metamask snaps beta; adapt example to get address 0x00..01 in  your metamask => capture screen
 | PD-19 The Graph            |                         | Add a query from a graph to your app
 | PD-20 End assignment       |                         | Combine all you have learned into one app => capture source and screen
 
