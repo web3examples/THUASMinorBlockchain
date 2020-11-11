@@ -14,11 +14,11 @@
 |11 dec |Fri |13.00 | Online session     | PD-7 Truffle             | PD-8 Oracles
 |18 dec |Fri |13.00 | Online session     | PD-9 Best practices      | PD-10 Tokens
 |26 dec |Fri | -    | Christmas holidays | PD-11 IPFS               | PD-12 Security
-|2 jan  |Fri | -    | Christmas holidays | PD-13 More solidity      | PD-14 Tests
-|9 jan  |Fri |13.00 | Online session     | PD-15 ENS                | PD-16 Wallets
-|16 jan |Fri |13.00 | Online session     | PD-17 Metatransactions   | PD-18 Bridges & Layer 2
-|23 jan |Fri |13.00 | Online session     | PD-19 The Graph          | PD-20 End assignment
-|30 jan |Fri |13.00 | Online session     | PD-20 End assignment
+|1 jan  |Fri | -    | Christmas holidays | PD-13 More solidity      | PD-14 Tests
+|8 jan  |Fri |13.00 | Online session     | PD-15 ENS                | PD-16 Wallets
+|15 jan |Fri |13.00 | Online session     | PD-17 Metatransactions   | PD-18 Bridges & Layer 2
+|22 jan |Fri |13.00 | Online session     | PD-19 The Graph          | PD-20 End assignment
+|29 jan |Fri |13.00 | Online session     | PD-20 End assignment
 
 ## Assignments
 
