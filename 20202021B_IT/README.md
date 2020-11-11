@@ -76,6 +76,7 @@ Provide prove of what you have done by putting the source code and/or a screen s
 [send]: https://web3examples.com/ethereum/web3js_browser/sendtransaction.html
 
 
+[web3assignments]:  https://github.com/web3assignments
 
 
 
