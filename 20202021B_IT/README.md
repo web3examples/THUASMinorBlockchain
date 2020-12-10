@@ -51,7 +51,7 @@ Provide prove of what you have done by putting the source code and/or a screen s
 | PD-6 Other browsers        |                         | Send a transaction [send] on metamask mobile, opera desktop, opera mobile and brave
 | PD-7 Truffle               | Get Infura key          | Adapt your contract for truffle & deploy on test chain => store source & contract addresses
 | PD-8 Oracles               |                         | Integrate an oracle in your smart contract => capture screen & source
-| PD-9 Best practices        |                         | Update your smart contract with: adda modifier; a selfdestruct function; if you use send or transfer, replace it with call; add natspec comments
+| PD-9 Best practices        |                         | Update your smart contract with 3 of the following: <br>add a modifier; <br>add a selfdestruct function; <br>if you use send or transfer, replace it with call; <br>add natspec comments<br> add safemath
 |                            |                         | Deploy your contract with openzeppelin truffle-upgrades & do an upgrade => store source & contract addresses
 |                            |                         | Verify your contract on etherscan => capture screen & store address
 | PD-10 Tokens               |                         | Create fungible token contract & send tokens to 0xEA9a7c7cD8d4Dc3acc6f0AaEc1506C8D6041a1c5 => capture address, screen, source
