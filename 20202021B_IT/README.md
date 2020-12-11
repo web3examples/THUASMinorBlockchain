@@ -47,7 +47,7 @@ Provide prove of what you have done by putting the source code and/or a screen s
 | PD-4 Nodes                 |                         | Use play editor with Ganache => capture screen
 |                            |                         | Install Geth, Protheus, Grafana + dashboard => capture screen
 | PD-5 Web3.js               | Study javascript        | Generate vanity address with >= 5 lead characters => capture priv key & address
-|                            |                         | Deploy your smartcontract on testchain and make html+js program to call your contract<br>runnable via github pages https://web3assignments.github.io/BC3_{name}/PD-05/... (generate production version when using a framework)<br>+ show log events => store source & capture screen
+|                            |                         | Deploy your smartcontract on testchain<br>make html+js program to call your contract<br>runnable via github pages https://web3assignments.github.io/BC3_{name}/PD-05/...<br>(generate production version when using a framework)<br>+ show log events => store source & capture screen
 | PD-6 Other browsers        |                         | Send a transaction [send] on:<br>- metamask mobile<br>- opera desktop<br>- opera mobile<br>- brave
 | PD-7 Truffle               | Get Infura key          | Adapt your contract for truffle & deploy on test chain => store source & contract addresses
 | PD-8 Oracles               |                         | Integrate an oracle in your smart contract => capture screen & source
