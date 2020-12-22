@@ -13,12 +13,12 @@
 |4 dec  |Fri |13.00 | Online session     | PD-5 Web3.js             | PD-6 Other browsers
 |11 dec |Fri |13.00 | Online session     | PD-7 Truffle             | PD-8 Oracles
 |18 dec |Fri |13.00 | Online session     | PD-9 Best practices      | PD-10 Tokens
-|26 dec |Fri | -    | Christmas holidays | PD-11 IPFS               | PD-12 Security
-|1 jan  |Fri | -    | Christmas holidays | PD-13 More solidity      | PD-14 Tests
-|8 jan  |Fri |13.00 | Online session     | PD-15 ENS                | PD-16 Wallets
-|15 jan |Fri |13.00 | Online session     | PD-17 Metatransactions   | PD-18 Bridges & Layer 2
-|22 jan |Fri |13.00 | Online session     | PD-19 The Graph          | PD-20 End assignment
-|29 jan |Fri |13.00 | Online session     | PD-20 End assignment
+|26 dec |Fri | -    | Christmas holidays | 
+|1 jan  |Fri | -    | Christmas holidays | 
+|8 jan  |Fri |13.00 | Online session     | PD-11 IPFS               | PD-12 Security
+|15 jan |Fri |13.00 | Online session     | PD-13 Tests              | PD-14 ENS
+|22 jan |Fri |13.00 | Online session     | PD-15 New developments   | PD-16 End assignment
+|29 jan |Fri |13.00 | Online session     | PD-16 End assignment
 
 ## Assignments
 
@@ -55,31 +55,26 @@ Provide prove of what you have done by putting the source code and/or a screen s
 |                            |                         | Deploy your contract with openzeppelin truffle-upgrades & do an upgrade => store source & contract addresses
 |                            |                         | Verify your contract on etherscan => capture screen & store address
 | PD-10 Tokens               |                         | Create fungible token contract & send tokens to 0xEA9a7c7cD8d4Dc3acc6f0AaEc1506C8D6041a1c5 => capture address, screen, source
-|                            |                         | Create non fungible token contract & show on opensea & send token to 0xEA9a7c7cD8d4Dc3acc6f0AaEc1506C8D6041a1c5 => capture address, screen, source
-| PD-11 IPFS & 3Box          |                         | Create website to store & retrieve images on IPFS => capture source
+|                            |                         | Create non fungible token contract + image & show on opensea & send token to 0xEA9a7c7cD8d4Dc3acc6f0AaEc1506C8D6041a1c5 => capture address, screen, source
+| PD-11 IPFS                 |                         | Create website to store & retrieve images on IPFS => capture source
 |                            |                         | Store the website itself on IPFS => capture cid
-|                            |                         | Integrate 3box profile in your app => capture source
 | PD-12 Security             |                         | Adapt your smart contract with access control => capture source
 |                            |                         | tbd
-| PD-13 More solidity        |                         | tbd
-| PD-14 Tests                |                         | Add (at least 5) unit tests to your smart contract => capture source and test results
-| PD-15 ENS                  |                         | register ENS name (on testnetwork), connect it to your smart contract, use it in your website to address the contract => capture source
+| PD-13 Tests                |                         | Add (at least 5) unit tests to your smart contract => capture source and test results
+| PD-14 ENS                  |                         | register ENS name (on testnetwork), connect it to your smart contract, use it in your website to address the contract => capture source
 |                            |                         | register ENS name (on testnetwork), connect it to your IPFS site, use to access the website. => capture screen
-| PD-16 Wallets              |                         | Create gnosis multisig for teams (on rinkeby), send some test eth and send it back. => capture screen
-|                            |                         | Integrate web3connect in your app => capture source and screen
-| PD-17 Metatransactions     |                         | Integrate metatransactions in your app => capture source and screen
-| PD-18 Bridges & Layer 2    |                         | Create mini app with layer 2 => capture source and screen
-|                            |                         | Install metamask snaps beta; adapt example to get address 0x00..01 in  your metamask => capture screen
-| PD-19 The Graph            |                         | Add a query from a graph to your app
-| PD-20 End assignment       |                         | Combine all you have learned into one app => capture source and screen
-
+| PD-15 New developments     |                         | 
+| PD-16 End assignment       |                         | Combine all you have learned into one app => capture source and screen
 
 [send]: https://web3examples.com/ethereum/web3js_browser/sendtransaction.html
 
-
 [web3assignments]:  https://github.com/web3assignments
 
-
+[possiblequestion1]: Integrate metatransactions in your app => capture source and screen
+[possiblequestion2]: Create mini app with layer 2 => capture source and screen
+[possiblequestion3]: Install metamask snaps beta; adapt example to get address 0x00..01 in  your metamask => capture screen
+[possiblequestion4]: Add a query from a graph to your app
+[possiblequestion5]: Integrate 3box profile in your app => capture source
 
 
 
