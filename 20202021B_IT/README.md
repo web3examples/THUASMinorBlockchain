@@ -59,10 +59,9 @@ Provide prove of what you have done by putting the source code and/or a screen s
 | PD-11 IPFS                 |                         | Create website to store & retrieve images on IPFS => capture source
 |                            |                         | Store the website itself on IPFS => capture cid
 | PD-12 Security             |                         | Adapt your smart contract with access control => capture source
-|                            |                         | tbd
 | PD-13 Tests                |                         | Add (at least 5) unit tests to your smart contract => capture source and test results
 | PD-14 ENS                  |                         | register ENS name (on testnetwork), connect it to your smart contract, use it in your website to address the contract => capture source
-|                            |                         | register ENS name (on testnetwork), connect it to your IPFS site, use to access the website. => capture screen
+|                            |                         | register ENS name (on testnetwork), connect it to your IPFS site => capture screen of ENS application (on mainnet you can directly use this with metamask)
 | PD-15 New developments     |                         | 
 | PD-16 End assignment       |                         | Combine all you have learned into one app => capture source and screen
 
